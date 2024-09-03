@@ -1,9 +1,13 @@
 Análise de Assinaturas e Cancelamentos NETFLIX - Projeto Aplicado I
 
 Equipe:
+
 KAIQUE NASCIMENTO DE PAULA  -  RA: 24024831
+
 LEO MICHELIN PAULINO DOS SANTOS  -  RA: 10441661
+
 LUKAS HIROSHI TEIXEIRA DANTAS KAMIMURA  -  RA: 10442898
+
 MOACYR SOUZA BARROS  -  RA: 10441179
 
 
@@ -30,17 +34,3 @@ Especificamente, o projeto buscará:
 
 3. Apresentação dos Dados Utilizados
 A base de dados fornecida contém informações sobre os assinantes da plataforma, suas assinaturas e características demográficas. Abaixo estão os metadados que descrevem a estrutura da base de dados.
-
-4. Metadados
-Coluna	              Descrição                                	                      Tipo de Dado
-User ID	              Identificador único de cada usuário.	                          Numérico
-Subscription Type	    Tipo de assinatura (Basic, Standard, Premium).	                Categórico
-Monthly Revenue	      Receita mensal gerada por cada usuário (em dólares).          	Numérico
-Join Date            	Data de adesão do usuário à plataforma (dd-mm-aa).	            Data
-Last Payment Date	    Data do último pagamento realizado pelo usuário (dd-mm-aa).    	Data
-Country	              País de origem/residência do usuário.	                          Categórico
-Age	                  Idade do usuário.	                                              Numérico
-Gender	              Gênero do usuário (Masculino, Feminino).                      	Categórico
-Device	              Dispositivo usado para acessar a plataforma.	                  Categórico
-Plan Duration        	Duração do plano atual do usuário (1 mês, 6 meses, etc.).      	Categórico
-
