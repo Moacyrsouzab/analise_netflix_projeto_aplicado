@@ -7,6 +7,23 @@
 * LUKAS HIROSHI TEIXEIRA DANTAS KAMIMURA - RA: 10442898
 * MOACYR SOUZA BARROS - RA: 10441179
 
+### Cronograma do Projeto
+1. KICK-OFF
+* Tarefa: Reunião inicial e definição do escopo do projeto.
+* Status: Feito
+2. DEFINIÇÃO DO PRODUTO ANALÍTICO
+* Tarefa: Analisar dados demográficos e comportamentais dos assinantes da Netflix.
+* Status: Feito
+* Data de Entrega: 30 de setembro de 2024
+3. DATA STORYTELLING – COMO APRESENTAR OS DADOS DO PROJETO
+* Tarefa: Desenvolver visualizações e criar narrativas para os dados.
+* Status: Pendente
+* Data de Entrega: 28 de outubro de 2024 (próximo desafio)
+4. APRESENTAÇÃO DOS RESULTADOS
+* Tarefa: Compilar resultados e preparar apresentação final.
+* Status: Pendente
+* Data de Entrega: 25 de novembro de 2024 (entrega do projeto)
+
 ### Definição da Organização Escolhida
 Organização: Netflix
 
