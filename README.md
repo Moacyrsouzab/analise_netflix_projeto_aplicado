@@ -2,10 +2,10 @@
 # Análise de Assinaturas e Cancelamentos NETFLIX - Projeto Aplicado I
 
 ### Equipe: 
-KAIQUE NASCIMENTO DE PAULA - RA: 24024831
-LEO MICHELIN PAULINO DOS SANTOS - RA: 10441661
-LUKAS HIROSHI TEIXEIRA DANTAS KAMIMURA - RA: 10442898
-MOACYR SOUZA BARROS - RA: 10441179
+* KAIQUE NASCIMENTO DE PAULA - RA: 24024831
+* LEO MICHELIN PAULINO DOS SANTOS - RA: 10441661
+* LUKAS HIROSHI TEIXEIRA DANTAS KAMIMURA - RA: 10442898
+* MOACYR SOUZA BARROS - RA: 10441179
 
 ### Definição da Organização Escolhida
 Organização: Netflix
@@ -19,9 +19,9 @@ Modelo de Receita: A receita da Netflix é baseada em assinaturas mensais, com d
 ### Área de Atuação e Objetivo do Projeto
 O objetivo do projeto é explorar dados demográficos e comportamentais dos assinantes da plataforma de streaming para gerar insights sobre comportamento do usuário, prever cancelamentos (churn), e identificar oportunidades de campanhas para aumentar a retenção e o engajamento.
 Especificamente, o projeto buscará: 
-• Analisar o comportamento dos usuários com base no país, idade, gênero e dispositivo utilizado; 
-• Identificar possíveis cancelamentos e desenvolver estudos/propostas para minimizar o churn; 
-• Propor estratégias de retenção e campanhas de marketing com base nos dados analisados.
+* Analisar o comportamento dos usuários com base no país, idade, gênero e dispositivo utilizado; 
+* Identificar possíveis cancelamentos e desenvolver estudos/propostas para minimizar o churn; 
+* Propor estratégias de retenção e campanhas de marketing com base nos dados analisados.
 
 ### Apresentação dos Dados Utilizados
 A base de dados fornecida contém informações sobre os assinantes da plataforma, suas assinaturas e características demográficas. Abaixo estão os metadados que descrevem a estrutura da base de dados.
