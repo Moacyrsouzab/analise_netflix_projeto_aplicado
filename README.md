@@ -26,9 +26,6 @@ Especificamente, o projeto buscará:
 ### Apresentação dos Dados Utilizados
 A base de dados fornecida contém informações sobre os assinantes da plataforma, suas assinaturas e características demográficas. Abaixo estão os metadados que descrevem a estrutura da base de dados.
 
-### Metadados
-A base de dados fornecida contém informações sobre os assinantes da plataforma, suas assinaturas e características demográficas. Abaixo estão os metadados que descrevem a estrutura da base de dados.
-
 <br/><br/>
 
 ![alt text](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase/blob/main/img/netflix%20(3_Cropped).jpg)
