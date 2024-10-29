@@ -1,0 +1,2501 @@
+User ID;Subscription Type;Monthly Revenue;Join Date;Last Payment Date;Country;Age;Gender;Device;Plan Duration
+1;Basic;10;15/01/2022;10/06/2023;United States;28;Male;Smartphone;17 Months
+2;Premium;15;05/09/2021;22/06/2023;Canada;35;Female;Tablet;22 Months
+3;Standard;12;28/02/2023;27/06/2023;United Kingdom;42;Male;Smart TV;4 Months
+4;Standard;12;10/07/2022;26/06/2023;Australia;51;Female;Laptop;12 Months
+5;Basic;10;01/05/2023;28/06/2023;Germany;33;Male;Smartphone;2 Months
+6;Premium;15;18/03/2022;27/06/2023;France;29;Female;Smart TV;16 Months
+7;Standard;12;09/12/2021;25/06/2023;Brazil;46;Male;Tablet;19 Months
+8;Basic;10;02/04/2023;24/06/2023;Mexico;39;Female;Laptop;3 Months
+9;Standard;12;20/10/2022;23/06/2023;Spain;37;Male;Smartphone;8 Months
+10;Premium;15;07/01/2023;22/06/2023;Italy;44;Female;Smart TV;6 Months
+11;Basic;10;16/05/2022;22/06/2023;United States;31;Female;Smartphone;13 Months
+12;Premium;15;23/03/2023;28/06/2023;Canada;45;Male;Tablet;3 Months
+13;Standard;12;30/11/2021;27/06/2023;United Kingdom;48;Female;Laptop;19 Months
+14;Basic;10;01/08/2022;26/06/2023;Australia;27;Male;Smartphone;11 Months
+15;Standard;12;09/05/2023;28/06/2023;Germany;38;Female;Smart TV;2 Months
+16;Premium;15;07/04/2022;27/06/2023;France;36;Male;Tablet;15 Months
+17;Basic;10;24/01/2022;25/06/2023;Brazil;30;Female;Laptop;17 Months
+18;Standard;12;18/10/2021;24/06/2023;Mexico;43;Male;Smartphone;20 Months
+19;Premium;15;15/02/2023;23/06/2023;Spain;32;Female;Smart TV;4 Months
+20;Basic;10;27/05/2023;22/06/2023;Italy;41;Male;Tablet;1 Month
+21;Premium;15;10/06/2023;22/06/2023;United States;26;Female;Laptop;1 Month
+22;Basic;10;22/07/2022;28/06/2023;Canada;34;Male;Smartphone;11 Months
+23;Standard;12;05/12/2021;27/06/2023;United Kingdom;49;Female;Smart TV;19 Months
+24;Standard;12;03/04/2022;26/06/2023;Australia;31;Male;Tablet;15 Months
+25;Basic;10;14/03/2023;28/06/2023;Germany;40;Female;Laptop;4 Months
+26;Premium;15;12/01/2022;27/06/2023;France;29;Male;Smartphone;18 Months
+27;Basic;10;29/08/2022;25/06/2023;Brazil;47;Female;Smart TV;10 Months
+28;Standard;12;27/09/2021;24/06/2023;Mexico;33;Male;Tablet;21 Months
+29;Premium;15;19/12/2022;23/06/2023;Spain;36;Female;Laptop;6 Months
+30;Basic;10;17/05/2023;22/06/2023;Italy;42;Male;Smartphone;1 Month
+31;Premium;15;03/02/2023;22/06/2023;United States;28;Female;Smart TV;5 Months
+32;Basic;10;07/07/2022;28/06/2023;Canada;37;Male;Tablet;12 Months
+33;Standard;12;21/01/2022;27/06/2023;United Kingdom;41;Female;Laptop;17 Months
+34;Standard;12;25/05/2022;26/06/2023;Australia;29;Male;Smartphone;13 Months
+35;Basic;10;11/04/2023;28/06/2023;Germany;39;Female;Smart TV;3 Months
+36;Premium;15;01/03/2022;27/06/2023;France;35;Male;Tablet;16 Months
+37;Basic;10;14/09/2022;25/06/2023;Brazil;45;Female;Laptop;9 Months
+38;Standard;12;05/11/2021;24/06/2023;Mexico;32;Male;Smartphone;20 Months
+39;Premium;15;28/12/2022;23/06/2023;Spain;27;Female;Smart TV;6 Months
+40;Basic;10;07/03/2023;22/06/2023;Italy;48;Male;Tablet;4 Months
+41;Premium;15;20/01/2023;22/06/2023;United States;31;Female;Laptop;5 Months
+42;Basic;10;15/06/2022;28/06/2023;Canada;40;Male;Smartphone;13 Months
+43;Standard;12;07/02/2022;27/06/2023;United Kingdom;36;Female;Smart TV;17 Months
+44;Standard;12;26/04/2022;26/06/2023;Australia;29;Male;Tablet;14 Months
+45;Basic;10;28/01/2023;28/06/2023;Germany;43;Female;Laptop;5 Months
+46;Premium;15;23/02/2022;27/06/2023;France;34;Male;Smartphone;16 Months
+47;Basic;10;05/10/2022;25/06/2023;Brazil;39;Female;Smart TV;9 Months
+48;Standard;12;15/09/2021;24/06/2023;Mexico;32;Male;Tablet;22 Months
+49;Premium;15;10/11/2022;23/06/2023;Spain;28;Female;Laptop;8 Months
+50;Basic;10;02/06/2023;22/06/2023;Italy;45;Male;Smartphone;1 Month
+51;Premium;15;27/02/2023;22/06/2023;United States;30;Female;Smart TV;4 Months
+52;Basic;10;29/08/2022;28/06/2023;Canada;37;Male;Tablet;10 Months
+53;Standard;12;13/01/2022;27/06/2023;United Kingdom;41;Female;Laptop;18 Months
+54;Standard;12;30/06/2022;26/06/2023;Australia;29;Male;Smartphone;12 Months
+55;Basic;10;20/04/2023;28/06/2023;Germany;39;Female;Smart TV;2 Months
+56;Premium;15;15/03/2022;27/06/2023;France;36;Male;Tablet;16 Months
+57;Basic;10;01/10/2022;25/06/2023;Brazil;46;Female;Laptop;9 Months
+58;Standard;12;08/10/2021;24/06/2023;Mexico;34;Male;Smartphone;21 Months
+59;Premium;15;03/12/2022;23/06/2023;Spain;27;Female;Smart TV;7 Months
+60;Basic;10;14/06/2023;22/06/2023;Italy;42;Male;Tablet;1 Month
+61;Premium;15;08/02/2023;22/06/2023;United States;28;Female;Laptop;4 Months
+62;Basic;10;03/08/2022;28/06/2023;Canada;37;Male;Smartphone;11 Months
+63;Standard;12;23/02/2022;27/06/2023;United Kingdom;41;Female;Smart TV;16 Months
+64;Standard;12;20/06/2022;26/06/2023;Australia;29;Male;Tablet;12 Months
+65;Basic;10;29/03/2023;28/06/2023;Germany;40;Female;Laptop;3 Months
+66;Premium;15;30/01/2022;27/06/2023;France;29;Male;Smartphone;17 Months
+67;Basic;10;18/09/2022;25/06/2023;Brazil;47;Female;Smart TV;9 Months
+68;Standard;12;09/11/2021;24/06/2023;Mexico;33;Male;Tablet;20 Months
+69;Premium;15;23/12/2022;23/06/2023;Spain;36;Female;Laptop;6 Months
+70;Basic;10;08/05/2023;22/06/2023;Italy;41;Male;Smartphone;2 Months
+71;Basic;10;26/01/2022;20/06/2023;United States;27;Male;Smartphone;17 Months
+72;Basic;10;11/10/2022;22/06/2023;Canada;31;Female;Smartphone;8 Months
+73;Standard;12;27/09/2022;26/06/2023;United Kingdom;28;Female;Laptop;9 Months
+74;Premium;13;14/12/2022;25/06/2023;Australia;41;Female;Smartphone;6 Months
+75;Basic;13;28/05/2022;26/06/2023;Germany;28;Female;Laptop;13 Months
+76;Basic;13;29/12/2021;26/06/2023;France;51;Female;Laptop;18 Months
+77;Premium;15;25/12/2022;23/06/2023;Brazil;45;Female;Smartphone;6 Months
+78;Standard;15;18/11/2022;28/06/2023;Mexico;49;Male;Tablet;7 Months
+79;Standard;15;03/12/2022;25/06/2023;Spain;43;Female;Laptop;7 Months
+80;Basic;12;08/11/2022;22/06/2023;Italy;43;Male;Tablet;8 Months
+81;Premium;10;11/01/2023;24/06/2023;United States;37;Male;Tablet;5 Months
+82;Standard;12;07/12/2022;28/06/2023;Canada;35;Male;Laptop;7 Months
+83;Basic;10;20/10/2022;26/06/2023;United Kingdom;46;Female;Smartphone;8 Months
+84;Standard;12;13/04/2023;25/06/2023;Australia;32;Male;Smartphone;2 Months
+85;Premium;10;06/04/2023;27/06/2023;Germany;37;Female;Laptop;3 Months
+86;Basic;11;04/03/2022;25/06/2023;France;29;Female;Smartphone;16 Months
+87;Premium;15;28/12/2021;23/06/2023;Brazil;45;Male;Smart TV;18 Months
+88;Standard;12;27/09/2022;28/06/2023;Mexico;47;Male;Tablet;9 Months
+89;Basic;15;20/10/2022;26/06/2023;Spain;39;Male;Smartphone;8 Months
+90;Standard;13;03/02/2023;23/06/2023;Italy;49;Female;Smartphone;5 Months
+91;Premium;11;03/10/2022;23/06/2023;United States;39;Male;Tablet;9 Months
+92;Basic;14;05/01/2022;28/06/2023;Canada;39;Male;Smart TV;18 Months
+93;Standard;12;05/02/2022;26/06/2023;United Kingdom;35;Male;Smartphone;17 Months
+94;Premium;12;19/03/2022;25/06/2023;Australia;44;Male;Smartphone;15 Months
+95;Basic;11;28/02/2022;25/06/2023;Germany;34;Male;Laptop;16 Months
+96;Premium;14;26/07/2022;24/06/2023;France;32;Male;Laptop;11 Months
+97;Basic;10;05/03/2022;24/06/2023;Brazil;29;Female;Tablet;16 Months
+98;Standard;13;07/03/2022;28/06/2023;Mexico;31;Female;Tablet;16 Months
+99;Standard;12;13/01/2023;24/06/2023;Spain;29;Female;Tablet;5 Months
+100;Basic;12;22/01/2023;25/06/2023;Italy;35;Male;Laptop;5 Months
+101;Premium;11;17/10/2022;24/06/2023;United States;46;Female;Tablet;8 Months
+102;Basic;12;29/03/2022;28/06/2023;Canada;31;Male;Tablet;15 Months
+103;Standard;13;04/04/2022;26/06/2023;United Kingdom;36;Male;Laptop;15 Months
+104;Premium;10;08/06/2022;25/06/2023;Australia;38;Male;Laptop;13 Months
+105;Basic;11;04/03/2022;27/06/2023;Germany;46;Female;Laptop;16 Months
+106;Premium;10;18/03/2022;24/06/2023;France;49;Female;Tablet;15 Months
+107;Basic;14;07/03/2022;24/06/2023;Brazil;29;Female;Smart TV;16 Months
+108;Standard;12;24/05/2022;25/06/2023;Mexico;27;Female;Smart TV;13 Months
+109;Standard;13;08/02/2023;25/06/2023;Spain;35;Female;Tablet;5 Months
+110;Basic;13;26/01/2023;24/06/2023;Italy;37;Female;Laptop;5 Months
+111;Premium;14;14/07/2022;27/06/2023;United States;40;Male;Tablet;12 Months
+112;Basic;10;01/06/2022;28/06/2023;Canada;33;Female;Laptop;13 Months
+113;Standard;15;07/05/2022;26/06/2023;United Kingdom;37;Male;Tablet;14 Months
+114;Premium;10;18/11/2022;25/06/2023;Australia;48;Male;Smartphone;7 Months
+115;Basic;11;05/04/2022;25/06/2023;Germany;50;Female;Laptop;15 Months
+116;Premium;14;19/05/2022;23/06/2023;France;45;Female;Smart TV;13 Months
+117;Basic;15;30/10/2021;23/06/2023;Brazil;40;Female;Tablet;20 Months
+118;Standard;12;07/08/2022;27/06/2023;Mexico;33;Male;Smartphone;11 Months
+119;Standard;11;20/09/2022;25/06/2023;Spain;44;Female;Smartphone;9 Months
+120;Basic;10;18/10/2022;25/06/2023;Italy;30;Female;Smart TV;8 Months
+121;Premium;15;03/10/2022;24/06/2023;United States;27;Male;Smart TV;9 Months
+122;Basic;11;03/05/2022;28/06/2023;Canada;51;Male;Smart TV;14 Months
+123;Standard;13;25/05/2022;26/06/2023;United Kingdom;49;Female;Smartphone;13 Months
+124;Premium;15;05/11/2022;25/06/2023;Australia;43;Male;Laptop;8 Months
+125;Basic;12;21/08/2022;24/06/2023;Germany;42;Male;Smartphone;10 Months
+126;Premium;13;21/09/2022;23/06/2023;France;45;Male;Laptop;9 Months
+127;Basic;10;23/11/2021;23/06/2023;Brazil;36;Male;Smartphone;19 Months
+128;Standard;12;06/10/2022;27/06/2023;Mexico;48;Male;Smartphone;9 Months
+129;Standard;13;05/11/2022;23/06/2023;Spain;38;Male;Smart TV;8 Months
+130;Basic;14;07/01/2023;23/06/2023;Italy;43;Female;Tablet;6 Months
+131;Premium;15;06/10/2022;23/06/2023;United States;47;Male;Laptop;9 Months
+132;Basic;15;24/06/2022;28/06/2023;Canada;48;Female;Smart TV;12 Months
+133;Standard;13;24/06/2022;26/06/2023;United Kingdom;47;Male;Smart TV;12 Months
+134;Premium;15;05/11/2022;25/06/2023;Australia;32;Male;Tablet;8 Months
+135;Basic;13;18/07/2022;26/06/2023;Germany;47;Female;Smart TV;11 Months
+136;Premium;12;13/09/2022;26/06/2023;France;41;Female;Smart TV;10 Months
+137;Basic;12;10/08/2022;22/06/2023;Brazil;49;Male;Laptop;11 Months
+138;Standard;15;21/09/2022;23/06/2023;Mexico;28;Male;Laptop;9 Months
+139;Standard;13;24/03/2023;23/06/2023;Spain;40;Male;Smartphone;3 Months
+140;Basic;12;02/05/2022;23/06/2023;Italy;43;Female;Smartphone;14 Months
+141;Premium;12;11/05/2022;27/06/2023;United States;42;Male;Smartphone;14 Months
+142;Basic;14;10/06/2022;22/06/2023;Canada;28;Male;Smart TV;13 Months
+143;Standard;14;31/08/2022;24/06/2023;United Kingdom;30;Female;Tablet;10 Months
+144;Premium;10;17/08/2022;26/06/2023;Australia;33;Male;Smart TV;10 Months
+145;Basic;11;05/05/2022;26/06/2023;Germany;35;Female;Laptop;14 Months
+146;Basic;10;06/10/2022;25/06/2023;France;38;Male;Tablet;9 Months
+147;Basic;12;08/11/2022;24/06/2023;Brazil;49;Female;Laptop;8 Months
+148;Standard;15;27/11/2022;28/06/2023;Mexico;39;Female;Smartphone;7 Months
+149;Premium;13;17/11/2022;27/06/2023;Spain;46;Female;Smart TV;7 Months
+150;Basic;10;15/12/2022;23/06/2023;Italy;47;Female;Laptop;6 Months
+151;Basic;15;12/12/2022;25/06/2023;United States;30;Female;Laptop;7 Months
+152;Premium;14;23/11/2022;27/06/2023;Canada;33;Female;Tablet;7 Months
+153;Standard;11;25/12/2022;24/06/2023;United Kingdom;47;Male;Smartphone;6 Months
+154;Standard;11;11/03/2023;27/06/2023;Australia;27;Male;Laptop;4 Months
+155;Basic;14;18/11/2022;27/06/2023;Germany;28;Male;Tablet;7 Months
+156;Premium;15;19/08/2022;25/06/2023;France;47;Male;Smartphone;10 Months
+157;Standard;14;27/09/2022;24/06/2023;Brazil;30;Male;Laptop;9 Months
+158;Basic;13;19/10/2022;28/06/2023;Mexico;47;Female;Smartphone;8 Months
+159;Standard;10;21/12/2022;26/06/2023;Spain;51;Female;Smart TV;6 Months
+160;Premium;15;27/10/2022;25/06/2023;Italy;39;Male;Smartphone;8 Months
+161;Basic;10;23/10/2022;24/06/2023;United States;45;Male;Tablet;8 Months
+162;Premium;15;19/04/2022;25/06/2023;Canada;31;Male;Laptop;14 Months
+163;Standard;11;05/04/2022;26/06/2023;United Kingdom;29;Male;Laptop;15 Months
+164;Basic;11;11/03/2022;26/06/2023;Australia;42;Female;Tablet;16 Months
+165;Standard;14;25/05/2022;25/06/2023;Germany;49;Male;Tablet;13 Months
+166;Premium;13;16/04/2022;26/06/2023;France;42;Male;Laptop;15 Months
+167;Basic;13;07/04/2022;24/06/2023;Brazil;29;Male;Smartphone;15 Months
+168;Standard;10;11/12/2022;28/06/2023;Mexico;29;Male;Tablet;7 Months
+169;Premium;12;20/01/2023;26/06/2023;Spain;49;Male;Tablet;5 Months
+170;Basic;14;12/01/2023;25/06/2023;Italy;32;Male;Laptop;5 Months
+171;Premium;11;29/04/2022;24/06/2023;United States;35;Female;Tablet;14 Months
+172;Basic;12;27/04/2022;26/06/2023;Canada;39;Female;Smartphone;14 Months
+173;Standard;15;03/06/2022;25/06/2023;United Kingdom;40;Male;Smartphone;13 Months
+174;Standard;14;23/04/2022;25/06/2023;Australia;39;Female;Tablet;14 Months
+175;Basic;10;22/04/2022;26/06/2023;Germany;47;Female;Laptop;14 Months
+176;Premium;13;12/04/2022;25/06/2023;France;37;Female;Smart TV;15 Months
+177;Basic;15;23/05/2022;26/06/2023;Brazil;27;Female;Smartphone;13 Months
+178;Standard;13;19/10/2022;26/06/2023;Mexico;49;Female;Laptop;8 Months
+179;Premium;10;03/12/2022;26/06/2023;Spain;30;Female;Tablet;7 Months
+180;Basic;14;26/09/2022;25/06/2023;Italy;36;Male;Laptop;9 Months
+181;Premium;15;16/06/2022;27/06/2023;United States;33;Male;Smartphone;13 Months
+182;Basic;13;16/05/2022;25/06/2023;Canada;30;Female;Laptop;14 Months
+183;Standard;15;26/05/2022;26/06/2023;United Kingdom;36;Female;Tablet;13 Months
+184;Standard;13;26/04/2022;25/06/2023;Australia;28;Female;Laptop;14 Months
+185;Basic;11;12/05/2022;25/06/2023;Germany;47;Female;Tablet;14 Months
+186;Premium;12;01/03/2022;25/06/2023;France;33;Female;Smart TV;16 Months
+187;Basic;13;10/07/2022;24/06/2023;Brazil;49;Female;Laptop;12 Months
+188;Standard;15;16/07/2022;27/06/2023;Mexico;44;Female;Smart TV;12 Months
+189;Premium;13;02/09/2022;26/06/2023;Spain;47;Male;Smart TV;10 Months
+190;Basic;11;18/09/2022;26/06/2023;Italy;37;Female;Tablet;9 Months
+191;Premium;10;08/07/2022;25/06/2023;United States;46;Male;Laptop;12 Months
+192;Basic;14;26/06/2022;27/06/2023;Canada;50;Female;Smartphone;12 Months
+193;Standard;11;05/08/2022;25/06/2023;United Kingdom;50;Male;Laptop;11 Months
+194;Standard;14;19/08/2022;27/06/2023;Australia;37;Male;Laptop;10 Months
+195;Basic;11;26/08/2022;24/06/2023;Germany;50;Female;Smartphone;10 Months
+196;Premium;13;09/06/2022;24/06/2023;France;45;Female;Smart TV;13 Months
+197;Basic;14;27/09/2022;23/06/2023;Brazil;45;Male;Tablet;9 Months
+198;Standard;10;18/10/2022;27/06/2023;Mexico;49;Female;Laptop;8 Months
+199;Premium;14;31/10/2022;25/06/2023;Spain;39;Female;Tablet;8 Months
+200;Basic;11;13/10/2022;25/06/2023;Italy;45;Female;Tablet;9 Months
+201;Premium;11;04/07/2022;27/06/2023;United States;49;Female;Smart TV;12 Months
+202;Basic;12;26/06/2022;27/06/2023;Canada;31;Female;Tablet;12 Months
+203;Standard;13;31/07/2022;24/06/2023;United Kingdom;42;Female;Smart TV;11 Months
+204;Standard;12;27/07/2022;24/06/2023;Australia;37;Male;Smartphone;11 Months
+205;Basic;12;30/07/2022;25/06/2023;Germany;30;Male;Smart TV;11 Months
+206;Premium;11;06/08/2022;25/06/2023;France;40;Male;Smartphone;11 Months
+207;Basic;15;16/09/2022;24/06/2023;Brazil;45;Female;Smartphone;9 Months
+208;Standard;15;05/01/2023;23/06/2023;Mexico;36;Female;Tablet;6 Months
+209;Premium;11;10/12/2022;24/06/2023;Spain;41;Male;Laptop;7 Months
+210;Basic;14;22/11/2022;26/06/2023;Italy;49;Female;Laptop;7 Months
+211;Premium;15;15/11/2022;27/06/2023;United States;40;Male;Tablet;7 Months
+212;Basic;11;28/10/2022;26/06/2023;Canada;36;Male;Smart TV;8 Months
+213;Standard;12;08/09/2022;24/06/2023;United Kingdom;49;Female;Smart TV;10 Months
+214;Standard;13;30/06/2022;28/06/2023;Australia;43;Female;Laptop;12 Months
+215;Basic;13;02/09/2022;27/06/2023;Germany;50;Female;Smartphone;10 Months
+216;Premium;14;08/10/2022;24/06/2023;France;51;Female;Smart TV;9 Months
+217;Basic;15;13/11/2022;25/06/2023;Brazil;44;Male;Smart TV;7 Months
+218;Standard;12;15/11/2022;28/06/2023;Mexico;27;Male;Tablet;8 Months
+219;Premium;12;16/11/2022;25/06/2023;Spain;46;Female;Smartphone;7 Months
+220;Basic;12;26/11/2022;27/06/2023;Italy;29;Male;Tablet;7 Months
+221;Basic;12;26/11/2022;25/06/2023;United States;47;Male;Smartphone;7 Months
+222;Basic;10;12/12/2022;26/06/2023;Canada;48;Female;Smartphone;7 Months
+223;Standard;12;08/01/2023;25/06/2023;United Kingdom;34;Female;Smartphone;6 Months
+224;Premium;15;27/11/2022;29/06/2023;Australia;40;Female;Smartphone;7 Months
+225;Basic;14;11/10/2022;27/06/2023;Germany;48;Female;Smartphone;9 Months
+226;Basic;10;27/09/2022;26/06/2023;France;35;Male;Smartphone;9 Months
+227;Premium;12;30/09/2022;24/06/2023;Brazil;51;Female;Smartphone;9 Months
+228;Standard;10;04/11/2022;27/06/2023;Mexico;39;Male;Smart TV;8 Months
+229;Standard;13;04/11/2022;27/06/2023;Spain;29;Male;Smartphone;8 Months
+230;Basic;12;30/10/2022;26/06/2023;Italy;51;Male;Laptop;8 Months
+231;Premium;11;29/10/2022;24/06/2023;United States;43;Male;Smartphone;8 Months
+232;Standard;11;30/08/2022;27/06/2023;Canada;28;Male;Smartphone;10 Months
+233;Basic;15;07/07/2022;26/06/2023;United Kingdom;50;Female;Smart TV;12 Months
+234;Standard;14;26/05/2022;27/06/2023;Australia;44;Female;Laptop;13 Months
+235;Premium;11;17/05/2022;25/06/2023;Germany;50;Male;Laptop;13 Months
+236;Basic;11;08/05/2022;26/06/2023;France;39;Female;Smartphone;14 Months
+237;Premium;13;07/07/2022;25/06/2023;Brazil;46;Female;Tablet;12 Months
+238;Standard;15;17/07/2022;28/06/2023;Mexico;48;Male;Smartphone;12 Months
+239;Basic;15;23/12/2022;26/06/2023;Spain;38;Male;Smart TV;6 Months
+240;Standard;13;27/06/2022;26/06/2023;Italy;38;Male;Smartphone;12 Months
+241;Premium;13;31/05/2022;27/06/2023;United States;47;Male;Laptop;13 Months
+242;Basic;12;02/06/2022;26/06/2023;Canada;37;Male;Laptop;13 Months
+243;Standard;11;25/05/2022;27/06/2023;United Kingdom;33;Male;Laptop;13 Months
+244;Premium;15;26/04/2022;26/06/2023;Australia;28;Male;Smartphone;14 Months
+245;Basic;13;20/04/2022;26/06/2023;Germany;47;Male;Smart TV;14 Months
+246;Premium;11;03/05/2022;25/06/2023;France;38;Female;Smartphone;14 Months
+247;Basic;12;07/07/2022;27/06/2023;Brazil;27;Male;Smart TV;12 Months
+248;Standard;13;15/09/2022;26/06/2023;Mexico;34;Male;Smartphone;9 Months
+249;Standard;14;16/09/2022;27/06/2023;Spain;42;Female;Smartphone;9 Months
+250;Basic;14;09/08/2022;26/06/2023;Italy;28;Male;Laptop;11 Months
+251;Premium;15;25/06/2022;27/06/2023;United States;30;Male;Laptop;12 Months
+252;Basic;11;30/05/2022;26/06/2023;Canada;38;Female;Smartphone;13 Months
+253;Standard;15;21/05/2022;25/06/2023;United Kingdom;45;Female;Tablet;13 Months
+254;Premium;12;20/05/2022;27/06/2023;Australia;48;Female;Smart TV;13 Months
+255;Basic;13;20/05/2022;26/06/2023;Germany;46;Female;Smart TV;13 Months
+256;Premium;12;30/05/2022;26/06/2023;France;34;Male;Tablet;13 Months
+257;Basic;13;17/06/2022;25/06/2023;Brazil;46;Male;Laptop;12 Months
+258;Standard;11;16/07/2022;28/06/2023;Mexico;41;Female;Smartphone;12 Months
+259;Standard;15;05/08/2022;26/06/2023;Spain;28;Male;Smartphone;11 Months
+260;Basic;10;17/07/2022;26/06/2023;Italy;27;Female;Smartphone;11 Months
+261;Premium;13;04/07/2022;25/06/2023;United States;27;Female;Smart TV;12 Months
+262;Basic;12;13/07/2022;26/06/2023;Canada;28;Female;Tablet;12 Months
+263;Standard;15;25/07/2022;24/06/2023;United Kingdom;46;Male;Smartphone;11 Months
+264;Premium;10;09/08/2022;27/06/2023;Australia;51;Male;Smartphone;11 Months
+265;Basic;11;05/08/2022;25/06/2023;Germany;32;Female;Smart TV;11 Months
+266;Premium;10;17/08/2022;26/06/2023;France;44;Male;Tablet;10 Months
+267;Basic;11;08/09/2022;27/06/2023;Brazil;44;Female;Laptop;10 Months
+268;Standard;13;16/10/2022;28/06/2023;Mexico;34;Female;Smart TV;9 Months
+269;Standard;13;15/10/2022;25/06/2023;Spain;29;Female;Laptop;8 Months
+270;Basic;12;04/09/2022;25/06/2023;Italy;47;Male;Smart TV;10 Months
+271;Premium;14;20/08/2022;26/06/2023;United States;41;Male;Laptop;10 Months
+272;Basic;10;10/08/2022;26/06/2023;Canada;36;Female;Smartphone;11 Months
+273;Standard;12;02/08/2022;25/06/2023;United Kingdom;28;Female;Laptop;11 Months
+274;Premium;10;01/08/2022;24/06/2023;Australia;27;Female;Tablet;11 Months
+275;Basic;15;06/08/2022;25/06/2023;Germany;34;Female;Laptop;11 Months
+276;Premium;14;09/08/2022;25/06/2023;France;34;Female;Smart TV;11 Months
+277;Basic;13;12/09/2022;26/06/2023;Brazil;37;Female;Tablet;10 Months
+278;Standard;14;27/09/2022;26/06/2023;Mexico;34;Female;Laptop;9 Months
+279;Standard;15;12/11/2022;24/06/2023;Spain;50;Female;Laptop;7 Months
+280;Basic;12;13/11/2022;27/06/2023;Italy;34;Female;Laptop;8 Months
+281;Premium;12;02/11/2022;28/06/2023;United States;33;Female;Smart TV;8 Months
+282;Basic;11;30/10/2022;25/06/2023;Canada;33;Male;Smart TV;8 Months
+283;Standard;15;30/06/2022;26/06/2023;United Kingdom;46;Male;Smartphone;12 Months
+284;Premium;14;04/08/2022;28/06/2023;Australia;39;Female;Smartphone;11 Months
+285;Basic;10;01/09/2022;27/06/2023;Germany;42;Female;Laptop;10 Months
+286;Premium;14;14/10/2022;27/06/2023;France;50;Female;Laptop;9 Months
+287;Basic;10;16/10/2022;26/06/2023;Brazil;43;Male;Smartphone;8 Months
+288;Standard;14;20/10/2022;28/06/2023;Mexico;51;Male;Smart TV;8 Months
+289;Standard;15;20/11/2022;25/06/2023;Spain;34;Female;Smart TV;7 Months
+290;Basic;12;25/11/2022;30/06/2023;Italy;48;Male;Smartphone;7 Months
+291;Premium;13;04/12/2022;27/06/2023;United States;29;Female;Tablet;7 Months
+292;Basic;11;12/12/2022;27/06/2023;Canada;43;Female;Laptop;7 Months
+293;Standard;14;09/12/2022;25/06/2023;United Kingdom;39;Female;Laptop;7 Months
+294;Premium;10;15/10/2022;29/06/2023;Australia;50;Male;Laptop;9 Months
+295;Basic;14;03/10/2022;27/06/2023;Germany;45;Male;Laptop;9 Months
+296;Basic;12;01/10/2022;27/06/2023;France;48;Female;Tablet;9 Months
+297;Basic;13;02/11/2022;24/06/2023;Brazil;40;Male;Smartphone;8 Months
+298;Standard;14;03/11/2022;27/06/2023;Mexico;41;Male;Tablet;8 Months
+299;Premium;10;30/10/2022;27/06/2023;Spain;27;Male;Smartphone;8 Months
+300;Basic;11;30/10/2022;28/06/2023;Italy;36;Male;Laptop;8 Months
+301;Basic;10;27/09/2022;24/06/2023;United States;36;Female;Laptop;9 Months
+302;Premium;11;14/09/2022;27/06/2023;Canada;44;Male;Tablet;10 Months
+303;Standard;12;11/06/2022;26/06/2023;United Kingdom;45;Male;Tablet;13 Months
+304;Standard;12;11/06/2022;29/06/2023;Australia;33;Female;Smartphone;13 Months
+305;Basic;13;24/05/2022;26/06/2023;Germany;47;Male;Smart TV;13 Months
+306;Premium;13;06/07/2022;27/06/2023;France;45;Male;Tablet;12 Months
+307;Standard;11;08/07/2022;28/06/2023;Brazil;29;Female;Smart TV;12 Months
+308;Basic;13;27/10/2022;27/06/2023;Mexico;31;Male;Smart TV;8 Months
+309;Standard;11;09/08/2022;28/06/2023;Spain;31;Male;Smartphone;11 Months
+310;Premium;15;14/06/2022;26/06/2023;Italy;49;Female;Smartphone;13 Months
+311;Basic;15;07/06/2022;27/06/2023;United States;29;Female;Smartphone;13 Months
+312;Premium;12;27/05/2022;26/06/2023;Canada;50;Male;Laptop;13 Months
+313;Standard;13;27/05/2022;27/06/2023;United Kingdom;36;Female;Laptop;13 Months
+314;Basic;10;21/04/2022;26/06/2023;Australia;28;Male;Laptop;14 Months
+315;Standard;15;28/04/2022;27/06/2023;Germany;47;Female;Smart TV;14 Months
+316;Premium;12;27/05/2022;25/06/2023;France;50;Female;Laptop;13 Months
+317;Basic;15;25/08/2022;28/06/2023;Brazil;44;Female;Tablet;10 Months
+318;Standard;10;02/09/2022;27/06/2023;Mexico;39;Female;Laptop;10 Months
+319;Premium;14;22/08/2022;26/06/2023;Spain;32;Female;Smartphone;10 Months
+320;Basic;15;02/08/2022;27/06/2023;Italy;30;Female;Laptop;11 Months
+321;Premium;12;22/06/2022;27/06/2023;United States;33;Female;Smartphone;12 Months
+322;Basic;15;04/06/2022;27/06/2023;Canada;44;Male;Smartphone;13 Months
+323;Standard;14;31/05/2022;26/06/2023;United Kingdom;40;Male;Smartphone;13 Months
+324;Standard;15;22/05/2022;27/06/2023;Australia;32;Male;Tablet;13 Months
+325;Basic;13;29/05/2022;27/06/2023;Germany;32;Male;Tablet;13 Months
+326;Premium;11;11/06/2022;27/06/2023;France;30;Male;Smartphone;13 Months
+327;Basic;12;06/07/2022;26/06/2023;Brazil;32;Female;Smartphone;12 Months
+328;Standard;12;26/07/2022;27/06/2023;Mexico;45;Female;Tablet;11 Months
+329;Premium;11;22/07/2022;25/06/2023;Spain;35;Female;Smart TV;11 Months
+330;Basic;10;06/07/2022;26/06/2023;Italy;40;Female;Smart TV;12 Months
+331;Premium;14;08/07/2022;26/06/2023;United States;29;Female;Tablet;12 Months
+332;Basic;14;22/07/2022;26/06/2023;Canada;31;Male;Tablet;11 Months
+333;Standard;15;24/07/2022;27/06/2023;United Kingdom;43;Female;Smart TV;11 Months
+334;Standard;11;28/07/2022;28/06/2023;Australia;34;Male;Smart TV;11 Months
+335;Basic;10;11/08/2022;25/06/2023;Germany;47;Female;Tablet;11 Months
+336;Premium;12;02/09/2022;26/06/2023;France;35;Male;Laptop;10 Months
+337;Basic;13;11/10/2022;27/06/2023;Brazil;36;Male;Laptop;9 Months
+338;Standard;12;15/10/2022;27/06/2023;Mexico;33;Male;Tablet;9 Months
+339;Premium;13;05/10/2022;25/06/2023;Spain;30;Female;Laptop;9 Months
+340;Basic;14;13/09/2022;25/06/2023;Italy;44;Female;Smartphone;10 Months
+341;Premium;13;24/08/2022;26/06/2023;United States;44;Female;Laptop;10 Months
+342;Basic;11;09/08/2022;26/06/2023;Canada;41;Female;Laptop;11 Months
+343;Standard;13;06/08/2022;25/06/2023;United Kingdom;46;Male;Smart TV;11 Months
+344;Standard;13;07/08/2022;26/06/2023;Australia;42;Female;Smartphone;11 Months
+345;Basic;10;08/08/2022;25/06/2023;Germany;48;Female;Smart TV;11 Months
+346;Premium;15;31/08/2022;26/06/2023;France;37;Male;Tablet;10 Months
+347;Basic;14;21/09/2022;28/06/2023;Brazil;29;Male;Smartphone;9 Months
+348;Standard;14;05/10/2022;26/06/2023;Mexico;30;Male;Smart TV;9 Months
+349;Premium;14;02/11/2022;26/06/2023;Spain;28;Male;Smartphone;8 Months
+350;Basic;10;02/11/2022;28/06/2023;Italy;44;Female;Smartphone;8 Months
+351;Premium;11;02/11/2022;28/06/2023;United States;34;Female;Smart TV;8 Months
+352;Basic;10;20/09/2022;26/06/2023;Canada;38;Male;Laptop;9 Months
+353;Standard;14;10/08/2022;26/06/2023;United Kingdom;34;Female;Smartphone;11 Months
+354;Standard;10;16/08/2022;28/06/2023;Australia;40;Female;Laptop;11 Months
+355;Basic;15;12/10/2022;27/06/2023;Germany;32;Female;Tablet;9 Months
+356;Premium;11;14/10/2022;30/06/2023;France;38;Male;Smart TV;9 Months
+357;Basic;15;18/10/2022;26/06/2023;Brazil;39;Male;Smartphone;8 Months
+358;Standard;12;11/11/2022;28/06/2023;Mexico;34;Female;Smart TV;8 Months
+359;Premium;11;20/11/2022;26/06/2023;Spain;41;Male;Smartphone;7 Months
+360;Basic;15;21/11/2022;30/06/2023;Italy;43;Female;Tablet;7 Months
+361;Premium;12;25/11/2022;28/06/2023;United States;36;Female;Laptop;7 Months
+362;Basic;11;08/12/2022;27/06/2023;Canada;31;Male;Laptop;7 Months
+363;Standard;12;01/11/2022;25/06/2023;United Kingdom;47;Female;Smart TV;8 Months
+364;Standard;14;12/10/2022;29/06/2023;Australia;48;Male;Smart TV;9 Months
+365;Basic;11;13/10/2022;27/06/2023;Germany;36;Male;Laptop;9 Months
+366;Premium;12;17/10/2022;29/06/2023;France;41;Male;Smart TV;9 Months
+367;Basic;13;23/10/2022;25/06/2023;Brazil;32;Male;Laptop;8 Months
+368;Standard;13;24/10/2022;28/06/2023;Mexico;28;Male;Smartphone;8 Months
+369;Premium;12;25/10/2022;27/06/2023;Spain;46;Female;Smartphone;8 Months
+370;Basic;11;22/10/2022;29/06/2023;Italy;46;Female;Smartphone;8 Months
+371;Basic;11;30/09/2022;25/06/2023;United States;47;Male;Tablet;9 Months
+372;Basic;11;06/09/2022;27/06/2023;Canada;31;Female;Tablet;10 Months
+373;Standard;10;18/06/2022;26/06/2023;United Kingdom;44;Female;Tablet;12 Months
+374;Premium;10;12/06/2022;28/06/2023;Australia;39;Female;Laptop;13 Months
+375;Basic;14;17/06/2022;28/06/2023;Germany;44;Female;Laptop;13 Months
+376;Basic;12;20/06/2022;27/06/2023;France;39;Female;Smartphone;12 Months
+377;Premium;12;27/08/2022;28/06/2023;Brazil;37;Male;Laptop;10 Months
+378;Standard;14;13/08/2022;27/06/2023;Mexico;47;Female;Laptop;11 Months
+379;Standard;10;12/08/2022;28/06/2023;Spain;46;Female;Smart TV;11 Months
+380;Basic;15;05/08/2022;27/06/2023;Italy;27;Female;Smart TV;11 Months
+381;Premium;10;14/07/2022;27/06/2023;United States;43;Female;Laptop;12 Months
+382;Standard;10;07/06/2022;26/06/2023;Canada;51;Male;Smart TV;13 Months
+383;Basic;10;01/06/2022;27/06/2023;United Kingdom;49;Male;Smart TV;13 Months
+384;Standard;10;19/05/2022;28/06/2023;Australia;35;Female;Smartphone;14 Months
+385;Premium;15;22/05/2022;27/06/2023;Germany;44;Male;Smartphone;13 Months
+386;Basic;14;11/07/2022;26/06/2023;France;48;Male;Tablet;12 Months
+387;Premium;11;19/07/2022;28/06/2023;Brazil;39;Female;Tablet;11 Months
+388;Standard;12;21/07/2022;28/06/2023;Mexico;38;Male;Laptop;11 Months
+389;Basic;14;02/08/2022;26/06/2023;Spain;45;Male;Smart TV;11 Months
+390;Standard;13;03/07/2022;28/06/2023;Italy;43;Female;Laptop;12 Months
+391;Premium;13;23/06/2022;27/06/2023;United States;42;Male;Laptop;12 Months
+392;Basic;15;03/06/2022;28/06/2023;Canada;28;Male;Smart TV;13 Months
+393;Standard;10;03/06/2022;26/06/2023;United Kingdom;40;Male;Tablet;13 Months
+394;Premium;14;30/05/2022;27/06/2023;Australia;41;Female;Tablet;13 Months
+395;Basic;12;05/06/2022;26/06/2023;Germany;45;Female;Laptop;13 Months
+396;Premium;14;10/06/2022;27/06/2023;France;30;Female;Smartphone;13 Months
+397;Basic;11;14/07/2022;26/06/2023;Brazil;31;Female;Smartphone;12 Months
+398;Standard;13;15/07/2022;27/06/2023;Mexico;51;Female;Tablet;12 Months
+399;Standard;12;14/07/2022;25/06/2023;Spain;44;Female;Smartphone;12 Months
+400;Basic;14;13/07/2022;27/06/2023;Italy;49;Male;Laptop;12 Months
+401;Premium;12;17/07/2022;26/06/2023;United States;47;Female;Laptop;11 Months
+402;Basic;14;21/07/2022;26/06/2023;Canada;42;Male;Smartphone;11 Months
+403;Standard;13;23/07/2022;28/06/2023;United Kingdom;28;Male;Smartphone;11 Months
+404;Premium;13;01/08/2022;28/06/2023;Australia;28;Male;Smartphone;11 Months
+405;Basic;13;06/08/2022;26/06/2023;Germany;49;Female;Tablet;11 Months
+406;Premium;12;19/08/2022;26/06/2023;France;32;Female;Smartphone;10 Months
+407;Basic;12;26/08/2022;27/06/2023;Brazil;37;Female;Tablet;10 Months
+408;Standard;13;27/09/2022;27/06/2023;Mexico;37;Female;Tablet;9 Months
+409;Standard;14;15/09/2022;25/06/2023;Spain;37;Male;Smartphone;9 Months
+410;Basic;15;02/09/2022;25/06/2023;Italy;37;Male;Smart TV;10 Months
+411;Premium;14;03/09/2022;26/06/2023;United States;48;Female;Tablet;10 Months
+412;Basic;12;03/09/2022;26/06/2023;Canada;47;Male;Laptop;10 Months
+413;Standard;13;24/08/2022;26/06/2023;United Kingdom;41;Female;Smartphone;10 Months
+414;Premium;14;21/08/2022;27/06/2023;Australia;47;Female;Laptop;10 Months
+415;Basic;13;23/08/2022;25/06/2023;Germany;39;Female;Smartphone;10 Months
+416;Premium;10;02/09/2022;26/06/2023;France;28;Male;Tablet;10 Months
+417;Basic;14;21/09/2022;29/06/2023;Brazil;31;Male;Smart TV;9 Months
+418;Standard;14;21/10/2022;27/06/2023;Mexico;47;Female;Smart TV;8 Months
+419;Standard;11;30/10/2022;27/06/2023;Spain;27;Female;Laptop;8 Months
+420;Basic;10;02/11/2022;28/06/2023;Italy;28;Male;Laptop;8 Months
+421;Premium;14;16/10/2022;28/06/2023;United States;33;Male;Tablet;9 Months
+422;Basic;14;15/09/2022;29/06/2023;Canada;29;Female;Tablet;10 Months
+423;Standard;15;12/09/2022;27/06/2023;United Kingdom;41;Male;Smartphone;10 Months
+424;Premium;12;18/09/2022;29/06/2023;Australia;28;Female;Tablet;9 Months
+425;Basic;13;04/10/2022;27/06/2023;Germany;38;Male;Tablet;9 Months
+426;Premium;15;05/10/2022;30/06/2023;France;35;Male;Laptop;9 Months
+427;Basic;11;06/11/2022;26/06/2023;Brazil;51;Male;Smart TV;8 Months
+428;Standard;12;17/11/2022;28/06/2023;Mexico;45;Male;Smartphone;7 Months
+429;Standard;14;18/11/2022;26/06/2023;Spain;51;Male;Laptop;7 Months
+430;Basic;14;22/11/2022;30/06/2023;Italy;46;Female;Smart TV;7 Months
+431;Premium;15;04/12/2022;28/06/2023;United States;28;Male;Smart TV;7 Months
+432;Basic;12;19/11/2022;30/06/2023;Canada;46;Female;Smart TV;7 Months
+433;Standard;11;06/11/2022;25/06/2023;United Kingdom;46;Female;Smartphone;8 Months
+434;Premium;12;15/10/2022;29/06/2023;Australia;32;Female;Laptop;9 Months
+435;Basic;11;17/10/2022;28/06/2023;Germany;39;Female;Smart TV;8 Months
+436;Premium;11;19/10/2022;29/06/2023;France;41;Female;Smartphone;8 Months
+437;Basic;13;23/10/2022;25/06/2023;Brazil;47;Male;Smart TV;8 Months
+438;Standard;12;24/10/2022;28/06/2023;Mexico;35;Male;Smart TV;8 Months
+439;Standard;12;23/10/2022;27/06/2023;Spain;37;Female;Smart TV;8 Months
+440;Basic;11;10/10/2022;29/06/2023;Italy;47;Male;Tablet;9 Months
+441;Premium;13;05/10/2022;28/06/2023;United States;48;Female;Laptop;9 Months
+442;Basic;12;01/07/2022;27/06/2023;Canada;30;Female;Laptop;12 Months
+443;Standard;10;01/07/2022;27/06/2023;United Kingdom;36;Male;Smart TV;12 Months
+444;Premium;10;25/06/2022;28/06/2023;Australia;50;Female;Smartphone;12 Months
+445;Basic;12;24/06/2022;28/06/2023;Germany;41;Male;Tablet;12 Months
+446;Basic;14;28/06/2022;28/06/2023;France;46;Female;Smartphone;12 Months
+447;Basic;15;11/08/2022;28/06/2023;Brazil;36;Female;Laptop;11 Months
+448;Standard;14;12/08/2022;27/06/2023;Mexico;48;Male;Tablet;11 Months
+449;Premium;10;07/08/2022;28/06/2023;Spain;37;Female;Laptop;11 Months
+450;Basic;14;06/08/2022;27/06/2023;Italy;49;Male;Laptop;11 Months
+451;Basic;12;18/07/2022;28/06/2023;United States;31;Female;Laptop;12 Months
+452;Premium;12;16/06/2022;26/06/2023;Canada;42;Female;Laptop;13 Months
+453;Standard;11;30/05/2022;28/06/2023;United Kingdom;45;Female;Tablet;13 Months
+454;Standard;15;28/05/2022;28/06/2023;Australia;51;Female;Tablet;13 Months
+455;Basic;11;31/05/2022;27/06/2023;Germany;31;Female;Smart TV;13 Months
+456;Premium;14;04/06/2022;27/06/2023;France;41;Male;Tablet;13 Months
+457;Standard;14;29/06/2022;28/06/2023;Brazil;40;Male;Smart TV;12 Months
+458;Basic;10;24/07/2022;28/06/2023;Mexico;27;Male;Tablet;11 Months
+459;Standard;10;19/07/2022;27/06/2023;Spain;46;Female;Tablet;11 Months
+460;Premium;10;30/06/2022;28/06/2023;Italy;30;Female;Smart TV;12 Months
+461;Basic;11;16/06/2022;27/06/2023;United States;37;Male;Smart TV;13 Months
+462;Premium;15;10/06/2022;28/06/2023;Canada;45;Male;Smartphone;13 Months
+463;Standard;11;01/06/2022;26/06/2023;United Kingdom;40;Male;Smart TV;13 Months
+464;Basic;13;03/06/2022;28/06/2023;Australia;45;Male;Laptop;13 Months
+465;Standard;11;05/06/2022;26/06/2023;Germany;34;Male;Laptop;13 Months
+466;Premium;10;07/06/2022;27/06/2023;France;33;Male;Laptop;13 Months
+467;Basic;10;22/06/2022;26/06/2023;Brazil;47;Female;Laptop;12 Months
+468;Standard;11;28/06/2022;27/06/2023;Mexico;32;Male;Smart TV;12 Months
+469;Premium;12;29/06/2022;29/06/2023;Spain;41;Female;Tablet;12 Months
+470;Basic;15;03/07/2022;28/06/2023;Italy;31;Female;Tablet;12 Months
+471;Premium;15;08/07/2022;27/06/2023;United States;43;Male;Tablet;12 Months
+472;Basic;10;13/07/2022;27/06/2023;Canada;32;Female;Tablet;12 Months
+473;Standard;10;27/07/2022;28/06/2023;United Kingdom;46;Female;Smartphone;11 Months
+474;Standard;14;30/07/2022;28/06/2023;Australia;38;Male;Smartphone;11 Months
+475;Basic;11;13/08/2022;26/06/2023;Germany;31;Female;Smart TV;11 Months
+476;Premium;14;18/08/2022;26/06/2023;France;31;Female;Laptop;10 Months
+477;Basic;10;24/08/2022;27/06/2023;Brazil;50;Male;Laptop;10 Months
+478;Standard;10;08/09/2022;27/06/2023;Mexico;32;Male;Laptop;10 Months
+479;Premium;13;04/09/2022;27/06/2023;Spain;38;Female;Smartphone;10 Months
+480;Basic;15;04/09/2022;27/06/2023;Italy;37;Female;Laptop;10 Months
+481;Premium;12;04/09/2022;26/06/2023;United States;36;Male;Smart TV;10 Months
+482;Basic;11;27/08/2022;27/06/2023;Canada;30;Male;Smart TV;10 Months
+483;Standard;14;25/08/2022;27/06/2023;United Kingdom;28;Male;Smart TV;10 Months
+484;Standard;13;25/08/2022;28/06/2023;Australia;40;Male;Smartphone;10 Months
+485;Basic;14;01/09/2022;28/06/2023;Germany;28;Female;Tablet;10 Months
+486;Premium;15;13/09/2022;26/06/2023;France;37;Female;Laptop;10 Months
+487;Basic;15;05/10/2022;29/06/2023;Brazil;30;Male;Smart TV;9 Months
+488;Standard;11;08/10/2022;28/06/2023;Mexico;33;Female;Smart TV;9 Months
+489;Premium;11;26/10/2022;28/06/2023;Spain;49;Male;Tablet;8 Months
+490;Basic;12;18/10/2022;29/06/2023;Italy;36;Female;Smart TV;8 Months
+491;Premium;12;07/10/2022;28/06/2023;United States;28;Female;Smartphone;9 Months
+492;Basic;10;17/09/2022;30/06/2023;Canada;51;Male;Tablet;10 Months
+493;Standard;11;18/09/2022;27/06/2023;United Kingdom;35;Female;Smartphone;9 Months
+494;Standard;14;27/09/2022;29/06/2023;Australia;31;Male;Smart TV;9 Months
+495;Basic;13;30/09/2022;27/06/2023;Germany;39;Male;Smartphone;9 Months
+496;Premium;10;30/10/2022;30/06/2023;France;51;Female;Laptop;8 Months
+497;Basic;11;09/11/2022;29/06/2023;Brazil;44;Male;Smartphone;8 Months
+498;Standard;11;17/11/2022;28/06/2023;Mexico;41;Female;Smartphone;7 Months
+499;Premium;10;18/11/2022;26/06/2023;Spain;28;Female;Laptop;7 Months
+500;Basic;15;22/11/2022;30/06/2023;Italy;38;Male;Laptop;7 Months
+501;Premium;14;22/11/2022;28/06/2023;Spain;43;Male;Smartphone;7 Months
+502;Basic;13;21/11/2022;30/06/2023;Spain;38;Male;Smartphone;7 Months
+503;Standard;14;10/11/2022;26/06/2023;United States;30;Male;Tablet;8 Months
+504;Standard;12;21/10/2022;29/06/2023;Canada;32;Female;Laptop;8 Months
+505;Basic;11;21/10/2022;28/06/2023;United States;35;Male;Smartphone;8 Months
+506;Premium;14;23/10/2022;29/06/2023;United States;27;Male;Smart TV;8 Months
+507;Basic;15;24/10/2022;26/06/2023;Canada;49;Female;Tablet;8 Months
+508;Standard;12;23/10/2022;28/06/2023;United Kingdom;42;Female;Tablet;8 Months
+509;Premium;10;21/10/2022;28/06/2023;Australia;40;Male;Smartphone;8 Months
+510;Basic;15;06/10/2022;29/06/2023;Germany;43;Female;Tablet;9 Months
+511;Premium;11;26/07/2022;28/06/2023;France;44;Female;Smart TV;11 Months
+512;Basic;15;13/07/2022;28/06/2023;Brazil;32;Male;Tablet;12 Months
+513;Standard;10;06/07/2022;28/06/2023;Mexico;50;Male;Tablet;12 Months
+514;Standard;14;07/07/2022;28/06/2023;Spain;35;Male;Tablet;12 Months
+515;Basic;15;01/07/2022;29/06/2023;Italy;44;Female;Laptop;12 Months
+516;Premium;14;31/07/2022;28/06/2023;Spain;42;Female;Smart TV;11 Months
+517;Basic;12;06/08/2022;28/06/2023;Spain;34;Female;Smart TV;11 Months
+518;Standard;15;07/08/2022;27/06/2023;United States;37;Female;Tablet;11 Months
+519;Premium;10;06/08/2022;28/06/2023;Canada;43;Male;Smartphone;11 Months
+520;Basic;13;03/08/2022;28/06/2023;United States;32;Male;Smart TV;11 Months
+521;Basic;15;18/06/2022;28/06/2023;United States;33;Female;Smart TV;13 Months
+522;Basic;14;17/06/2022;27/06/2023;Canada;32;Female;Tablet;13 Months
+523;Standard;13;07/06/2022;29/06/2023;United Kingdom;41;Male;Smartphone;13 Months
+524;Premium;15;06/06/2022;28/06/2023;Australia;31;Male;Tablet;13 Months
+525;Basic;14;04/06/2022;27/06/2023;Germany;44;Male;Tablet;13 Months
+526;Basic;11;20/06/2022;28/06/2023;France;49;Male;Laptop;12 Months
+527;Premium;10;10/07/2022;28/06/2023;Brazil;48;Female;Tablet;12 Months
+528;Standard;13;13/07/2022;29/06/2023;Mexico;42;Female;Smartphone;12 Months
+529;Standard;11;07/07/2022;27/06/2023;Spain;50;Female;Laptop;12 Months
+530;Basic;14;22/06/2022;28/06/2023;Italy;49;Female;Smart TV;12 Months
+531;Premium;14;15/06/2022;27/06/2023;Spain;30;Female;Laptop;13 Months
+532;Standard;11;03/06/2022;28/06/2023;Spain;38;Male;Laptop;13 Months
+533;Basic;14;04/06/2022;27/06/2023;United States;38;Male;Smartphone;13 Months
+534;Standard;11;05/06/2022;28/06/2023;Canada;39;Female;Smart TV;13 Months
+535;Premium;15;07/06/2022;29/06/2023;United States;42;Female;Laptop;13 Months
+536;Basic;10;14/06/2022;29/06/2023;United States;28;Male;Smart TV;13 Months
+537;Premium;10;17/06/2022;27/06/2023;Canada;38;Male;Smartphone;13 Months
+538;Standard;14;19/06/2022;28/06/2023;United Kingdom;40;Female;Tablet;12 Months
+539;Basic;12;02/07/2022;29/06/2023;Australia;30;Female;Tablet;12 Months
+540;Standard;10;03/07/2022;29/06/2023;Germany;40;Male;Smartphone;12 Months
+541;Premium;10;13/07/2022;27/06/2023;France;31;Male;Smart TV;12 Months
+542;Basic;14;26/07/2022;27/06/2023;Brazil;41;Male;Smartphone;11 Months
+543;Standard;11;27/07/2022;28/06/2023;Mexico;37;Male;Smartphone;11 Months
+544;Premium;14;08/08/2022;28/06/2023;Spain;49;Male;Tablet;11 Months
+545;Basic;14;17/08/2022;27/06/2023;Italy;29;Male;Smart TV;10 Months
+546;Premium;10;20/08/2022;26/06/2023;Spain;31;Male;Smart TV;10 Months
+547;Basic;10;05/09/2022;27/06/2023;Spain;39;Male;Tablet;10 Months
+548;Standard;12;05/09/2022;27/06/2023;United States;51;Female;Smartphone;10 Months
+549;Standard;10;05/09/2022;27/06/2023;Canada;38;Female;Smartphone;10 Months
+550;Basic;11;06/09/2022;27/06/2023;United States;29;Female;Tablet;10 Months
+551;Premium;13;03/09/2022;28/06/2023;United States;41;Female;Laptop;10 Months
+552;Basic;13;29/08/2022;27/06/2023;Canada;48;Female;Tablet;10 Months
+553;Standard;14;27/08/2022;28/06/2023;United Kingdom;39;Male;Smart TV;10 Months
+554;Premium;12;29/08/2022;29/06/2023;Australia;37;Male;Smartphone;10 Months
+555;Basic;11;13/09/2022;28/06/2023;Germany;37;Female;Smartphone;10 Months
+556;Premium;14;24/09/2022;27/06/2023;France;34;Male;Smartphone;9 Months
+557;Basic;15;05/10/2022;29/06/2023;Brazil;37;Male;Smartphone;9 Months
+558;Standard;14;18/10/2022;30/06/2023;Mexico;37;Female;Smart TV;9 Months
+559;Standard;13;19/10/2022;28/06/2023;Spain;51;Female;Tablet;8 Months
+560;Basic;15;14/10/2022;29/06/2023;Italy;45;Male;Laptop;9 Months
+561;Premium;14;30/09/2022;28/06/2023;Spain;29;Female;Laptop;9 Months
+562;Basic;14;19/09/2022;30/06/2023;Spain;37;Male;Laptop;9 Months
+563;Standard;10;24/09/2022;29/06/2023;United States;34;Male;Tablet;9 Months
+564;Premium;14;28/09/2022;29/06/2023;Canada;35;Male;Smartphone;9 Months
+565;Basic;12;29/09/2022;27/06/2023;United States;29;Male;Laptop;9 Months
+566;Premium;11;11/10/2022;01/07/2023;United States;45;Male;Tablet;9 Months
+567;Basic;14;08/11/2022;29/06/2023;Canada;36;Male;Smart TV;8 Months
+568;Standard;11;16/11/2022;28/06/2023;United Kingdom;27;Female;Laptop;7 Months
+569;Standard;10;17/11/2022;26/06/2023;Australia;31;Female;Laptop;7 Months
+570;Basic;10;20/11/2022;30/06/2023;Germany;41;Female;Laptop;7 Months
+571;Premium;13;21/11/2022;29/06/2023;France;37;Male;Smart TV;7 Months
+572;Basic;12;21/11/2022;30/06/2023;Brazil;49;Female;Tablet;7 Months
+573;Standard;12;18/11/2022;27/06/2023;Mexico;37;Female;Smart TV;7 Months
+574;Premium;14;26/10/2022;29/06/2023;Spain;36;Female;Smartphone;8 Months
+575;Basic;13;25/10/2022;28/06/2023;Italy;38;Female;Smart TV;8 Months
+576;Premium;15;26/10/2022;30/06/2023;Spain;49;Female;Tablet;8 Months
+577;Basic;15;23/10/2022;26/06/2023;Spain;31;Male;Laptop;8 Months
+578;Standard;13;23/10/2022;28/06/2023;United States;29;Female;Laptop;8 Months
+579;Standard;12;16/10/2022;28/06/2023;Canada;35;Female;Tablet;9 Months
+580;Basic;14;09/08/2022;29/06/2023;United States;46;Female;Tablet;11 Months
+581;Premium;10;02/08/2022;29/06/2023;United States;29;Female;Laptop;11 Months
+582;Basic;12;16/07/2022;28/06/2023;Canada;43;Female;Laptop;12 Months
+583;Standard;15;17/07/2022;28/06/2023;United Kingdom;38;Female;Tablet;12 Months
+584;Premium;14;14/07/2022;28/06/2023;Australia;48;Female;Smart TV;12 Months
+585;Basic;14;16/07/2022;29/06/2023;Germany;41;Male;Laptop;12 Months
+586;Premium;15;06/08/2022;29/06/2023;France;51;Female;Laptop;11 Months
+587;Basic;14;07/08/2022;28/06/2023;Brazil;39;Male;Smart TV;11 Months
+588;Standard;11;07/08/2022;27/06/2023;Mexico;31;Male;Smartphone;11 Months
+589;Standard;15;04/08/2022;29/06/2023;Spain;28;Male;Laptop;11 Months
+590;Basic;15;29/07/2022;29/06/2023;Italy;47;Male;Laptop;11 Months
+591;Premium;14;19/06/2022;28/06/2023;Spain;35;Female;Smart TV;12 Months
+592;Basic;15;09/06/2022;29/06/2023;Spain;33;Male;Smartphone;13 Months
+593;Standard;11;06/06/2022;29/06/2023;United States;41;Male;Smartphone;13 Months
+594;Premium;12;06/06/2022;30/06/2023;Canada;38;Female;Smart TV;13 Months
+595;Basic;10;11/06/2022;28/06/2023;United States;49;Male;Laptop;13 Months
+596;Basic;14;18/06/2022;28/06/2023;United States;29;Female;Smart TV;13 Months
+597;Basic;13;27/06/2022;28/06/2023;Canada;50;Male;Laptop;12 Months
+598;Standard;12;05/07/2022;29/06/2023;United Kingdom;29;Female;Tablet;12 Months
+599;Premium;15;06/07/2022;27/06/2023;Australia;44;Male;Smart TV;12 Months
+600;Basic;14;16/06/2022;29/06/2023;Germany;36;Female;Smart TV;13 Months
+601;Basic;14;05/06/2022;30/06/2023;France;46;Female;Smart TV;13 Months
+602;Premium;14;05/06/2022;29/06/2023;Brazil;30;Male;Smartphone;13 Months
+603;Standard;15;06/06/2022;27/06/2023;Mexico;46;Female;Tablet;13 Months
+604;Standard;15;07/06/2022;28/06/2023;Spain;33;Male;Smartphone;13 Months
+605;Basic;15;10/06/2022;29/06/2023;Italy;46;Female;Tablet;13 Months
+606;Premium;14;13/06/2022;29/06/2023;Spain;50;Male;Tablet;13 Months
+607;Standard;14;14/06/2022;27/06/2023;Spain;27;Female;Smart TV;13 Months
+608;Basic;12;22/06/2022;28/06/2023;United States;48;Female;Smart TV;12 Months
+609;Standard;14;03/07/2022;29/06/2023;Canada;50;Female;Smartphone;12 Months
+610;Premium;13;05/07/2022;29/06/2023;United States;28;Female;Tablet;12 Months
+611;Basic;15;11/07/2022;28/06/2023;United States;29;Female;Smartphone;12 Months
+612;Premium;11;17/07/2022;27/06/2023;Canada;36;Male;Smart TV;12 Months
+613;Standard;12;27/07/2022;28/06/2023;United Kingdom;51;Male;Laptop;11 Months
+614;Basic;15;14/08/2022;28/06/2023;Australia;51;Male;Smartphone;11 Months
+615;Standard;13;15/08/2022;27/06/2023;Germany;43;Male;Smart TV;11 Months
+616;Premium;14;02/09/2022;27/06/2023;France;38;Female;Laptop;10 Months
+617;Basic;11;05/09/2022;28/06/2023;Brazil;45;Female;Smartphone;10 Months
+618;Standard;10;06/09/2022;28/06/2023;Mexico;28;Female;Smart TV;10 Months
+619;Premium;11;06/09/2022;29/06/2023;Spain;27;Male;Smartphone;10 Months
+620;Basic;11;05/09/2022;27/06/2023;Italy;41;Female;Smartphone;10 Months
+621;Premium;14;06/09/2022;29/06/2023;Spain;49;Male;Smart TV;10 Months
+622;Basic;12;29/08/2022;28/06/2023;Spain;35;Male;Smartphone;10 Months
+623;Standard;13;30/08/2022;28/06/2023;United States;29;Female;Smart TV;10 Months
+624;Standard;10;02/09/2022;30/06/2023;Canada;42;Male;Smartphone;10 Months
+625;Basic;15;20/09/2022;28/06/2023;United States;33;Male;Tablet;9 Months
+626;Premium;10;23/09/2022;30/06/2023;United States;30;Male;Laptop;9 Months
+627;Basic;11;29/09/2022;29/06/2023;Canada;43;Female;Smart TV;9 Months
+628;Standard;10;09/10/2022;01/07/2023;United Kingdom;42;Male;Smartphone;9 Months
+629;Premium;11;12/10/2022;29/06/2023;Australia;39;Male;Tablet;9 Months
+630;Basic;15;06/10/2022;30/06/2023;Germany;32;Female;Smart TV;9 Months
+631;Premium;14;21/09/2022;28/06/2023;France;31;Male;Smartphone;9 Months
+632;Basic;13;23/09/2022;01/07/2023;Brazil;39;Male;Smartphone;9 Months
+633;Standard;12;28/09/2022;29/06/2023;Mexico;41;Female;Smartphone;9 Months
+634;Standard;12;29/09/2022;29/06/2023;Spain;51;Female;Smart TV;9 Months
+635;Basic;13;03/10/2022;27/06/2023;Italy;29;Male;Laptop;9 Months
+636;Premium;10;28/10/2022;01/07/2023;Spain;33;Female;Smart TV;8 Months
+637;Basic;12;14/11/2022;29/06/2023;Spain;51;Female;Tablet;8 Months
+638;Standard;11;16/11/2022;01/07/2023;United States;38;Male;Tablet;8 Months
+639;Premium;10;17/11/2022;28/06/2023;Canada;37;Female;Laptop;7 Months
+640;Basic;13;20/11/2022;30/06/2023;United States;50;Female;Laptop;7 Months
+641;Premium;12;21/11/2022;29/06/2023;United States;33;Male;Tablet;7 Months
+642;Basic;11;19/11/2022;01/07/2023;Canada;27;Male;Laptop;7 Months
+643;Standard;11;28/10/2022;27/06/2023;United Kingdom;50;Female;Smartphone;8 Months
+644;Standard;15;27/10/2022;29/06/2023;Australia;47;Female;Laptop;8 Months
+645;Basic;13;27/10/2022;29/06/2023;Germany;41;Male;Laptop;8 Months
+646;Premium;10;27/10/2022;30/06/2023;France;49;Female;Laptop;8 Months
+647;Basic;15;25/10/2022;28/06/2023;Brazil;32;Male;Smart TV;8 Months
+648;Standard;10;17/10/2022;28/06/2023;Mexico;38;Female;Smartphone;8 Months
+649;Premium;14;20/08/2022;29/06/2023;Spain;38;Female;Smartphone;10 Months
+650;Basic;15;16/08/2022;29/06/2023;Italy;28;Female;Smart TV;11 Months
+651;Premium;13;15/08/2022;29/06/2023;Spain;31;Male;Tablet;11 Months
+652;Basic;14;15/08/2022;29/06/2023;Spain;39;Female;Smartphone;11 Months
+653;Standard;11;29/07/2022;29/06/2023;United States;28;Female;Smartphone;11 Months
+654;Standard;12;17/07/2022;28/06/2023;Canada;30;Female;Smartphone;12 Months
+655;Basic;11;26/07/2022;29/06/2023;United States;42;Male;Tablet;11 Months
+656;Premium;14;31/07/2022;29/06/2023;United States;33;Female;Laptop;11 Months
+657;Basic;14;03/08/2022;29/06/2023;Canada;34;Female;Smart TV;11 Months
+658;Standard;13;04/08/2022;29/06/2023;United Kingdom;49;Female;Smart TV;11 Months
+659;Premium;13;03/08/2022;29/06/2023;Australia;41;Male;Laptop;11 Months
+660;Basic;12;27/06/2022;29/06/2023;Germany;28;Male;Smart TV;12 Months
+661;Premium;14;27/06/2022;28/06/2023;France;49;Female;Laptop;12 Months
+662;Basic;15;15/06/2022;29/06/2023;Brazil;49;Male;Tablet;13 Months
+663;Standard;11;13/06/2022;29/06/2023;Mexico;36;Male;Tablet;13 Months
+664;Standard;11;12/06/2022;30/06/2023;Spain;31;Male;Smart TV;13 Months
+665;Basic;10;18/06/2022;28/06/2023;Italy;38;Male;Smartphone;13 Months
+666;Premium;15;26/06/2022;29/06/2023;Spain;34;Female;Tablet;12 Months
+667;Basic;11;30/06/2022;30/06/2023;Spain;51;Female;Smartphone;12 Months
+668;Standard;13;03/07/2022;30/06/2023;United States;49;Male;Smart TV;12 Months
+669;Premium;13;19/06/2022;28/06/2023;Canada;27;Female;Tablet;12 Months
+670;Basic;10;08/06/2022;29/06/2023;United States;38;Male;Smart TV;13 Months
+671;Basic;10;08/06/2022;30/06/2023;United States;51;Male;Tablet;13 Months
+672;Basic;14;09/06/2022;30/06/2023;Canada;47;Female;Tablet;13 Months
+673;Standard;15;09/06/2022;27/06/2023;United Kingdom;37;Male;Smartphone;13 Months
+674;Premium;13;10/06/2022;28/06/2023;Australia;37;Female;Laptop;13 Months
+675;Basic;11;11/06/2022;29/06/2023;Germany;39;Female;Tablet;13 Months
+676;Basic;11;13/06/2022;29/06/2023;France;31;Male;Smartphone;13 Months
+677;Premium;13;17/06/2022;28/06/2023;Brazil;36;Male;Smart TV;13 Months
+678;Standard;15;27/06/2022;28/06/2023;Mexico;42;Female;Smart TV;12 Months
+679;Standard;11;05/07/2022;29/06/2023;Spain;49;Male;Laptop;12 Months
+680;Basic;15;07/07/2022;29/06/2023;Italy;44;Female;Laptop;12 Months
+681;Premium;11;16/07/2022;28/06/2023;Spain;33;Male;Laptop;12 Months
+682;Standard;11;23/07/2022;27/06/2023;Spain;42;Male;Tablet;11 Months
+683;Basic;13;03/08/2022;29/06/2023;United States;39;Male;Smartphone;11 Months
+684;Standard;10;11/08/2022;29/06/2023;Canada;49;Male;Smartphone;11 Months
+685;Premium;12;15/08/2022;30/06/2023;United States;31;Male;Smartphone;11 Months
+686;Basic;14;18/08/2022;28/06/2023;United States;37;Male;Tablet;10 Months
+687;Premium;13;26/08/2022;29/06/2023;Canada;30;Female;Tablet;10 Months
+688;Standard;10;03/09/2022;28/06/2023;United Kingdom;42;Male;Smartphone;10 Months
+689;Basic;15;04/09/2022;29/06/2023;Australia;37;Female;Smart TV;10 Months
+690;Standard;15;05/09/2022;30/06/2023;Germany;36;Male;Laptop;10 Months
+691;Premium;11;01/09/2022;29/06/2023;France;28;Female;Laptop;10 Months
+692;Basic;15;31/08/2022;30/06/2023;Brazil;36;Male;Tablet;10 Months
+693;Standard;14;01/09/2022;29/06/2023;Mexico;31;Female;Tablet;10 Months
+694;Premium;14;17/09/2022;01/07/2023;Spain;46;Male;Smart TV;10 Months
+695;Basic;13;21/09/2022;28/06/2023;Italy;28;Male;Laptop;9 Months
+696;Premium;15;29/09/2022;01/07/2023;Spain;31;Male;Tablet;9 Months
+697;Basic;12;06/10/2022;29/06/2023;Spain;43;Male;Smart TV;9 Months
+698;Standard;10;12/10/2022;02/07/2023;United States;28;Male;Laptop;9 Months
+699;Standard;13;07/10/2022;30/06/2023;Canada;32;Female;Smartphone;9 Months
+700;Basic;12;04/10/2022;30/06/2023;United States;31;Female;Laptop;9 Months
+701;Premium;11;24/09/2022;28/06/2023;United States;45;Male;Smart TV;9 Months
+702;Basic;14;25/09/2022;01/07/2023;Canada;36;Male;Smartphone;9 Months
+703;Standard;14;27/09/2022;30/06/2023;United Kingdom;35;Male;Laptop;9 Months
+704;Premium;13;30/09/2022;01/07/2023;Australia;27;Female;Tablet;9 Months
+705;Basic;13;04/10/2022;28/06/2023;Germany;32;Male;Laptop;9 Months
+706;Premium;12;24/10/2022;01/07/2023;France;46;Female;Smartphone;8 Months
+707;Basic;12;28/10/2022;30/06/2023;Brazil;36;Male;Smart TV;8 Months
+708;Standard;13;02/11/2022;01/07/2023;Mexico;39;Male;Laptop;8 Months
+709;Standard;12;07/11/2022;28/06/2023;Spain;48;Female;Smart TV;8 Months
+710;Basic;10;10/11/2022;30/06/2023;Italy;48;Female;Smart TV;8 Months
+711;Premium;14;15/11/2022;29/06/2023;Spain;27;Female;Laptop;8 Months
+712;Basic;13;08/11/2022;01/07/2023;Spain;45;Male;Tablet;8 Months
+713;Standard;10;01/11/2022;27/06/2023;United States;30;Male;Laptop;8 Months
+714;Premium;15;30/10/2022;29/06/2023;Canada;29;Male;Tablet;8 Months
+715;Basic;12;28/10/2022;29/06/2023;United States;43;Female;Laptop;8 Months
+716;Premium;10;26/10/2022;30/06/2023;United States;43;Male;Laptop;8 Months
+717;Basic;15;18/10/2022;29/06/2023;Canada;39;Female;Tablet;8 Months
+718;Standard;14;30/09/2022;30/06/2023;United Kingdom;27;Male;Tablet;9 Months
+719;Standard;10;03/09/2022;29/06/2023;Australia;33;Female;Tablet;10 Months
+720;Basic;10;23/08/2022;29/06/2023;Germany;32;Female;Tablet;10 Months
+721;Premium;10;16/08/2022;29/06/2023;France;37;Female;Tablet;11 Months
+722;Basic;13;11/08/2022;30/06/2023;Brazil;45;Male;Smartphone;11 Months
+723;Standard;10;01/08/2022;30/06/2023;Mexico;40;Female;Smartphone;11 Months
+724;Premium;14;01/08/2022;29/06/2023;Spain;44;Male;Laptop;11 Months
+725;Basic;12;01/08/2022;29/06/2023;Italy;29;Female;Tablet;11 Months
+726;Premium;14;02/08/2022;30/06/2023;Spain;50;Male;Laptop;11 Months
+727;Basic;11;04/08/2022;29/06/2023;Spain;32;Female;Laptop;11 Months
+728;Standard;14;04/08/2022;29/06/2023;United States;39;Male;Laptop;11 Months
+729;Standard;15;07/07/2022;30/06/2023;Canada;43;Female;Smartphone;12 Months
+730;Basic;12;27/06/2022;30/06/2023;United States;49;Female;Smartphone;12 Months
+731;Premium;13;19/06/2022;29/06/2023;United States;30;Male;Tablet;13 Months
+732;Basic;12;19/06/2022;29/06/2023;Canada;47;Male;Tablet;13 Months
+733;Standard;10;18/06/2022;29/06/2023;United Kingdom;51;Female;Laptop;13 Months
+734;Premium;14;19/06/2022;30/06/2023;Australia;40;Male;Tablet;13 Months
+735;Basic;14;24/06/2022;28/06/2023;Germany;40;Male;Laptop;12 Months
+736;Premium;11;30/06/2022;30/06/2023;France;49;Male;Smartphone;12 Months
+737;Basic;15;02/07/2022;30/06/2023;Brazil;43;Female;Tablet;12 Months
+738;Standard;14;26/06/2022;01/07/2023;Mexico;44;Female;Smartphone;12 Months
+739;Standard;13;21/06/2022;28/06/2023;Spain;27;Male;Smartphone;12 Months
+740;Basic;14;16/06/2022;29/06/2023;Italy;30;Male;Tablet;13 Months
+741;Premium;14;09/06/2022;30/06/2023;Spain;47;Male;Smart TV;13 Months
+742;Basic;13;10/06/2022;30/06/2023;Spain;51;Male;Smartphone;13 Months
+743;Standard;15;10/06/2022;28/06/2023;United States;31;Female;Laptop;13 Months
+744;Premium;13;11/06/2022;29/06/2023;Canada;34;Female;Tablet;13 Months
+745;Basic;11;12/06/2022;30/06/2023;United States;28;Female;Laptop;13 Months
+746;Basic;15;15/06/2022;30/06/2023;United States;32;Male;Smartphone;13 Months
+747;Basic;11;25/06/2022;29/06/2023;Canada;41;Male;Smart TV;12 Months
+748;Standard;13;30/06/2022;28/06/2023;United Kingdom;40;Male;Smart TV;12 Months
+749;Premium;12;06/07/2022;30/06/2023;Australia;46;Male;Smart TV;12 Months
+750;Basic;13;09/07/2022;29/06/2023;Germany;47;Male;Smart TV;12 Months
+751;Basic;14;18/07/2022;29/06/2023;France;45;Female;Laptop;12 Months
+752;Premium;10;24/07/2022;28/06/2023;Brazil;28;Female;Smartphone;11 Months
+753;Standard;12;27/07/2022;30/06/2023;Mexico;43;Female;Smartphone;11 Months
+754;Standard;11;10/08/2022;29/06/2023;Spain;41;Male;Laptop;11 Months
+755;Basic;13;16/08/2022;30/06/2023;Italy;32;Male;Tablet;11 Months
+756;Premium;14;23/08/2022;29/06/2023;Spain;44;Female;Smartphone;10 Months
+757;Standard;11;03/09/2022;30/06/2023;Spain;32;Male;Laptop;10 Months
+758;Basic;12;04/09/2022;29/06/2023;United States;47;Male;Laptop;10 Months
+759;Standard;14;05/09/2022;29/06/2023;Canada;37;Male;Smart TV;10 Months
+760;Premium;13;04/09/2022;01/07/2023;United States;40;Female;Smartphone;10 Months
+761;Basic;11;31/08/2022;29/06/2023;United States;48;Female;Smart TV;10 Months
+762;Premium;10;01/09/2022;02/07/2023;Canada;48;Male;Laptop;10 Months
+763;Standard;10;15/09/2022;29/06/2023;United Kingdom;35;Male;Laptop;10 Months
+764;Basic;15;18/09/2022;03/07/2023;Australia;28;Male;Smart TV;10 Months
+765;Standard;11;28/09/2022;29/06/2023;Germany;35;Female;Smart TV;9 Months
+766;Premium;13;30/09/2022;01/07/2023;France;43;Male;Smartphone;9 Months
+767;Basic;15;07/10/2022;29/06/2023;Brazil;39;Male;Laptop;9 Months
+768;Standard;10;08/10/2022;02/07/2023;Mexico;38;Female;Laptop;9 Months
+769;Premium;14;08/10/2022;30/06/2023;Spain;36;Female;Smart TV;9 Months
+770;Basic;11;03/10/2022;01/07/2023;Italy;42;Female;Laptop;9 Months
+771;Premium;14;04/10/2022;28/06/2023;Spain;27;Male;Tablet;9 Months
+772;Basic;12;02/10/2022;01/07/2023;Spain;48;Male;Laptop;9 Months
+773;Standard;13;01/10/2022;30/06/2023;United States;27;Female;Smart TV;9 Months
+774;Standard;15;03/10/2022;02/07/2023;Canada;49;Male;Smartphone;9 Months
+775;Basic;11;20/10/2022;28/06/2023;United States;29;Male;Tablet;8 Months
+776;Premium;11;21/10/2022;01/07/2023;United States;44;Male;Laptop;8 Months
+777;Basic;11;28/10/2022;30/06/2023;Canada;31;Male;Smartphone;8 Months
+778;Standard;13;03/11/2022;01/07/2023;United Kingdom;33;Male;Tablet;8 Months
+779;Premium;10;07/11/2022;28/06/2023;Australia;36;Female;Smart TV;8 Months
+780;Basic;15;12/11/2022;30/06/2023;Germany;43;Female;Laptop;8 Months
+781;Premium;14;13/11/2022;29/06/2023;France;30;Female;Smartphone;8 Months
+782;Basic;13;02/11/2022;01/07/2023;Brazil;44;Female;Laptop;8 Months
+783;Standard;13;01/11/2022;29/06/2023;Mexico;37;Female;Laptop;8 Months
+784;Standard;14;31/10/2022;30/06/2023;Spain;27;Male;Laptop;8 Months
+785;Basic;12;28/10/2022;29/06/2023;Italy;35;Female;Laptop;8 Months
+786;Premium;13;24/10/2022;30/06/2023;Spain;32;Male;Smart TV;8 Months
+787;Basic;12;03/10/2022;29/06/2023;Spain;49;Female;Laptop;9 Months
+788;Standard;12;13/09/2022;30/06/2023;United States;45;Female;Tablet;10 Months
+789;Premium;11;02/09/2022;30/06/2023;Canada;33;Female;Smartphone;10 Months
+790;Basic;14;30/08/2022;30/06/2023;United States;37;Female;Smartphone;10 Months
+791;Premium;15;25/08/2022;30/06/2023;United States;29;Male;Smartphone;10 Months
+792;Basic;12;11/08/2022;30/06/2023;Canada;45;Male;Smart TV;11 Months
+793;Standard;11;05/08/2022;30/06/2023;United Kingdom;42;Female;Smartphone;11 Months
+794;Standard;12;02/08/2022;30/06/2023;Australia;32;Female;Smart TV;11 Months
+795;Basic;11;03/08/2022;01/07/2023;Germany;47;Male;Smartphone;11 Months
+796;Premium;12;04/08/2022;01/07/2023;France;27;Male;Smart TV;11 Months
+797;Basic;10;05/08/2022;30/06/2023;Brazil;35;Male;Tablet;11 Months
+798;Standard;15;12/07/2022;30/06/2023;Mexico;35;Male;Laptop;12 Months
+799;Premium;10;02/07/2022;30/06/2023;Spain;48;Male;Tablet;12 Months
+800;Basic;12;26/06/2022;30/06/2023;Italy;36;Male;Smartphone;12 Months
+801;Premium;10;22/06/2022;29/06/2023;Spain;46;Male;Smartphone;12 Months
+802;Basic;13;22/06/2022;30/06/2023;Spain;33;Female;Smartphone;12 Months
+803;Standard;14;19/06/2022;01/07/2023;United States;43;Male;Smart TV;13 Months
+804;Standard;14;22/06/2022;02/07/2023;Canada;47;Female;Smartphone;13 Months
+805;Basic;15;27/06/2022;28/06/2023;United States;39;Female;Laptop;12 Months
+806;Premium;15;01/07/2022;30/06/2023;United States;30;Female;Laptop;12 Months
+807;Basic;11;28/06/2022;30/06/2023;Canada;46;Male;Tablet;12 Months
+808;Standard;13;25/06/2022;01/07/2023;United Kingdom;39;Male;Smart TV;12 Months
+809;Premium;10;22/06/2022;28/06/2023;Australia;28;Male;Smartphone;12 Months
+810;Basic;13;09/06/2022;29/06/2023;Germany;38;Male;Smartphone;13 Months
+811;Premium;13;10/06/2022;30/06/2023;France;36;Male;Laptop;13 Months
+812;Basic;15;11/06/2022;01/07/2023;Brazil;33;Male;Laptop;13 Months
+813;Standard;10;11/06/2022;28/06/2023;Mexico;50;Male;Smartphone;13 Months
+814;Standard;10;12/06/2022;29/06/2023;Spain;38;Male;Smartphone;13 Months
+815;Basic;15;13/06/2022;30/06/2023;Italy;29;Male;Smartphone;13 Months
+816;Premium;15;18/06/2022;30/06/2023;Spain;47;Female;Smart TV;13 Months
+817;Basic;15;29/06/2022;30/06/2023;Spain;31;Female;Tablet;12 Months
+818;Standard;13;30/06/2022;28/06/2023;United States;40;Male;Tablet;12 Months
+819;Premium;14;01/07/2022;01/07/2023;Canada;50;Male;Laptop;12 Months
+820;Basic;11;07/07/2022;30/06/2023;United States;43;Female;Tablet;12 Months
+821;Basic;12;13/07/2022;29/06/2023;United States;35;Female;Laptop;12 Months
+822;Basic;11;24/07/2022;29/06/2023;Canada;36;Male;Laptop;11 Months
+823;Standard;15;29/07/2022;30/06/2023;United Kingdom;30;Male;Smartphone;11 Months
+824;Premium;13;31/07/2022;30/06/2023;Australia;47;Female;Smartphone;11 Months
+825;Basic;12;09/08/2022;30/06/2023;Germany;30;Female;Laptop;11 Months
+826;Basic;11;18/08/2022;01/07/2023;France;37;Male;Smart TV;11 Months
+827;Premium;15;20/08/2022;30/06/2023;Brazil;34;Male;Smartphone;10 Months
+828;Standard;15;30/08/2022;30/06/2023;Mexico;33;Female;Smart TV;10 Months
+829;Standard;10;01/09/2022;29/06/2023;Spain;31;Male;Tablet;10 Months
+830;Basic;13;02/09/2022;03/07/2023;Italy;30;Female;Smartphone;10 Months
+831;Premium;10;02/09/2022;29/06/2023;Spain;35;Male;Smartphone;10 Months
+832;Standard;14;15/09/2022;02/07/2023;Spain;40;Female;Tablet;10 Months
+833;Basic;13;17/09/2022;29/06/2023;United States;29;Male;Smartphone;10 Months
+834;Standard;14;26/09/2022;03/07/2023;Canada;34;Female;Smart TV;9 Months
+835;Premium;12;27/09/2022;29/06/2023;United States;31;Male;Laptop;9 Months
+836;Basic;15;04/10/2022;01/07/2023;United States;28;Male;Laptop;9 Months
+837;Premium;12;06/10/2022;29/06/2023;Canada;46;Female;Smart TV;9 Months
+838;Standard;11;07/10/2022;02/07/2023;United Kingdom;38;Male;Smartphone;9 Months
+839;Basic;13;06/10/2022;30/06/2023;Australia;35;Female;Laptop;9 Months
+840;Standard;15;07/10/2022;03/07/2023;Germany;49;Male;Smartphone;9 Months
+841;Premium;13;06/10/2022;29/06/2023;France;42;Male;Smartphone;9 Months
+842;Basic;14;06/10/2022;02/07/2023;Brazil;37;Female;Laptop;9 Months
+843;Standard;13;04/10/2022;01/07/2023;Mexico;39;Female;Smartphone;9 Months
+844;Premium;10;14/10/2022;02/07/2023;Spain;47;Female;Smart TV;9 Months
+845;Basic;12;19/10/2022;29/06/2023;Italy;49;Male;Smartphone;8 Months
+846;Premium;12;21/10/2022;01/07/2023;Spain;35;Male;Laptop;8 Months
+847;Basic;11;28/10/2022;30/06/2023;Spain;36;Female;Smart TV;8 Months
+848;Standard;11;01/11/2022;02/07/2023;United States;40;Male;Tablet;8 Months
+849;Standard;10;12/11/2022;29/06/2023;Canada;30;Female;Smart TV;8 Months
+850;Basic;13;13/11/2022;30/06/2023;United States;51;Female;Smart TV;8 Months
+851;Premium;15;09/11/2022;30/06/2023;United States;47;Male;Laptop;8 Months
+852;Basic;12;08/11/2022;01/07/2023;Canada;47;Female;Laptop;8 Months
+853;Standard;14;06/11/2022;30/06/2023;United Kingdom;39;Male;Tablet;8 Months
+854;Premium;10;07/11/2022;30/06/2023;Australia;49;Male;Smart TV;8 Months
+855;Basic;12;02/11/2022;01/07/2023;Germany;33;Male;Laptop;8 Months
+856;Premium;10;06/10/2022;30/06/2023;France;32;Female;Smart TV;9 Months
+857;Basic;15;16/09/2022;30/06/2023;Brazil;40;Male;Smartphone;10 Months
+858;Standard;14;10/09/2022;30/06/2023;Mexico;40;Female;Laptop;10 Months
+859;Standard;12;04/09/2022;30/06/2023;Spain;51;Female;Tablet;10 Months
+860;Basic;13;26/08/2022;01/07/2023;Italy;50;Male;Smart TV;10 Months
+861;Premium;14;14/08/2022;01/07/2023;Spain;50;Female;Smart TV;11 Months
+862;Basic;14;12/08/2022;01/07/2023;Spain;47;Male;Smartphone;11 Months
+863;Standard;12;10/08/2022;30/06/2023;United States;35;Male;Laptop;11 Months
+864;Premium;11;10/08/2022;01/07/2023;Canada;31;Male;Tablet;11 Months
+865;Basic;15;04/08/2022;01/07/2023;United States;36;Male;Smartphone;11 Months
+866;Premium;10;05/08/2022;01/07/2023;United States;41;Female;Smart TV;11 Months
+867;Basic;13;17/07/2022;30/06/2023;Canada;49;Female;Tablet;12 Months
+868;Standard;12;16/07/2022;01/07/2023;United Kingdom;34;Female;Tablet;12 Months
+869;Standard;15;13/07/2022;01/07/2023;Australia;30;Female;Tablet;12 Months
+870;Basic;13;03/07/2022;02/07/2023;Germany;38;Male;Laptop;12 Months
+871;Premium;11;24/06/2022;29/06/2023;France;45;Male;Tablet;12 Months
+872;Basic;14;21/06/2022;01/07/2023;Brazil;42;Female;Laptop;13 Months
+873;Standard;10;22/06/2022;01/07/2023;Mexico;42;Female;Smart TV;12 Months
+874;Premium;10;23/06/2022;02/07/2023;Spain;31;Male;Smart TV;12 Months
+875;Basic;14;26/06/2022;29/06/2023;Italy;28;Male;Smart TV;12 Months
+876;Premium;11;27/06/2022;30/06/2023;Spain;44;Male;Tablet;12 Months
+877;Basic;13;28/06/2022;01/07/2023;Spain;30;Male;Smart TV;12 Months
+878;Standard;13;28/06/2022;02/07/2023;United States;33;Male;Smartphone;12 Months
+879;Standard;12;18/06/2022;29/06/2023;Canada;42;Female;Tablet;13 Months
+880;Basic;11;11/06/2022;30/06/2023;United States;31;Male;Smart TV;13 Months
+881;Premium;11;11/06/2022;01/07/2023;United States;31;Female;Smartphone;13 Months
+882;Basic;13;12/06/2022;01/07/2023;Canada;46;Female;Smart TV;13 Months
+883;Standard;15;13/06/2022;29/06/2023;United Kingdom;28;Female;Tablet;13 Months
+884;Premium;11;13/06/2022;29/06/2023;Australia;50;Male;Tablet;13 Months
+885;Basic;11;18/06/2022;02/07/2023;Germany;34;Male;Tablet;13 Months
+886;Premium;15;23/06/2022;30/06/2023;France;45;Female;Smart TV;12 Months
+887;Basic;12;26/06/2022;30/06/2023;Brazil;38;Female;Laptop;12 Months
+888;Standard;13;29/06/2022;29/06/2023;Mexico;42;Female;Laptop;12 Months
+889;Standard;10;02/07/2022;01/07/2023;Spain;45;Female;Smartphone;12 Months
+890;Basic;10;06/07/2022;30/06/2023;Italy;44;Male;Smart TV;12 Months
+891;Premium;14;18/07/2022;30/06/2023;Spain;50;Female;Smart TV;12 Months
+892;Basic;15;29/07/2022;30/06/2023;Spain;38;Male;Tablet;11 Months
+893;Standard;13;30/07/2022;01/07/2023;United States;42;Female;Smart TV;11 Months
+894;Premium;13;03/08/2022;01/07/2023;Canada;50;Male;Smart TV;11 Months
+895;Basic;10;15/08/2022;30/06/2023;United States;30;Male;Smartphone;11 Months
+896;Basic;10;20/08/2022;01/07/2023;United States;47;Female;Smartphone;11 Months
+897;Basic;14;21/08/2022;30/06/2023;Canada;32;Female;Laptop;10 Months
+898;Standard;11;30/08/2022;02/07/2023;United Kingdom;31;Female;Tablet;10 Months
+899;Premium;15;01/09/2022;29/06/2023;Australia;37;Male;Laptop;10 Months
+900;Basic;14;02/09/2022;03/07/2023;Germany;32;Female;Smartphone;10 Months
+901;Basic;12;04/09/2022;30/06/2023;France;29;Male;Smartphone;10 Months
+902;Premium;12;10/09/2022;02/07/2023;Brazil;28;Male;Tablet;10 Months
+903;Standard;11;25/09/2022;29/06/2023;Mexico;42;Male;Laptop;9 Months
+904;Standard;12;27/09/2022;03/07/2023;Spain;37;Male;Tablet;9 Months
+905;Basic;13;01/10/2022;30/06/2023;Italy;38;Female;Laptop;9 Months
+906;Premium;13;06/10/2022;02/07/2023;Spain;32;Male;Smart TV;9 Months
+907;Standard;15;07/10/2022;30/06/2023;Spain;48;Male;Laptop;9 Months
+908;Basic;13;08/10/2022;03/07/2023;United States;46;Female;Smart TV;9 Months
+909;Standard;14;08/10/2022;01/07/2023;Canada;30;Male;Tablet;9 Months
+910;Premium;10;08/10/2022;03/07/2023;United States;40;Female;Smart TV;9 Months
+911;Basic;13;08/10/2022;29/06/2023;United States;29;Male;Smart TV;9 Months
+912;Premium;15;08/10/2022;02/07/2023;Canada;41;Male;Tablet;9 Months
+913;Standard;15;10/10/2022;01/07/2023;United Kingdom;32;Male;Laptop;9 Months
+914;Basic;12;19/10/2022;02/07/2023;Australia;44;Female;Smart TV;9 Months
+915;Standard;15;20/10/2022;29/06/2023;Germany;41;Male;Laptop;8 Months
+916;Premium;12;26/10/2022;01/07/2023;France;50;Female;Smartphone;8 Months
+917;Basic;14;29/10/2022;30/06/2023;Brazil;33;Female;Tablet;8 Months
+918;Standard;10;31/10/2022;02/07/2023;Mexico;34;Female;Smart TV;8 Months
+919;Premium;15;11/11/2022;29/06/2023;Spain;40;Male;Smartphone;8 Months
+920;Basic;14;09/11/2022;01/07/2023;Italy;34;Female;Tablet;8 Months
+921;Premium;14;09/11/2022;01/07/2023;Spain;27;Female;Smart TV;8 Months
+922;Basic;13;07/11/2022;01/07/2023;Spain;34;Male;Tablet;8 Months
+923;Standard;13;08/11/2022;30/06/2023;United States;28;Male;Tablet;8 Months
+924;Standard;14;05/11/2022;01/07/2023;Canada;37;Female;Smart TV;8 Months
+925;Basic;10;25/10/2022;01/07/2023;United States;27;Female;Laptop;8 Months
+926;Premium;13;23/10/2022;02/07/2023;United States;33;Female;Laptop;8 Months
+927;Basic;11;20/10/2022;02/07/2023;Canada;42;Male;Laptop;9 Months
+928;Standard;11;14/10/2022;01/07/2023;United Kingdom;49;Male;Smartphone;9 Months
+929;Premium;13;29/08/2022;30/06/2023;Australia;44;Male;Smart TV;10 Months
+930;Basic;10;18/08/2022;01/07/2023;Germany;47;Male;Laptop;11 Months
+931;Premium;13;13/08/2022;02/07/2023;France;33;Male;Laptop;11 Months
+932;Basic;11;11/08/2022;02/07/2023;Brazil;37;Male;Smart TV;11 Months
+933;Standard;10;11/08/2022;01/07/2023;Mexico;35;Male;Laptop;11 Months
+934;Standard;11;06/08/2022;01/07/2023;Spain;34;Female;Smartphone;11 Months
+935;Basic;10;07/08/2022;02/07/2023;Italy;44;Male;Smartphone;11 Months
+936;Premium;15;18/07/2022;02/07/2023;Spain;29;Male;Tablet;12 Months
+937;Basic;10;17/07/2022;30/06/2023;Spain;38;Male;Smartphone;12 Months
+938;Standard;14;15/07/2022;02/07/2023;United States;46;Male;Smart TV;12 Months
+939;Premium;10;14/07/2022;02/07/2023;Canada;29;Male;Tablet;12 Months
+940;Basic;12;26/06/2022;03/07/2023;United States;48;Female;Smart TV;12 Months
+941;Premium;10;26/06/2022;29/06/2023;United States;36;Male;Smart TV;12 Months
+942;Basic;12;22/06/2022;01/07/2023;Canada;43;Male;Laptop;12 Months
+943;Standard;15;23/06/2022;01/07/2023;United Kingdom;42;Female;Smart TV;12 Months
+944;Standard;10;24/06/2022;02/07/2023;Australia;50;Male;Tablet;12 Months
+945;Basic;13;26/06/2022;29/06/2023;Germany;39;Male;Laptop;12 Months
+946;Premium;14;28/06/2022;01/07/2023;France;43;Female;Laptop;12 Months
+947;Basic;10;29/06/2022;02/07/2023;Brazil;50;Female;Tablet;12 Months
+948;Standard;12;26/06/2022;02/07/2023;Mexico;51;Male;Laptop;12 Months
+949;Premium;14;26/06/2022;30/06/2023;Spain;40;Male;Tablet;12 Months
+950;Basic;10;20/06/2022;30/06/2023;Italy;31;Male;Tablet;13 Months
+951;Premium;12;18/06/2022;03/07/2023;Spain;39;Female;Smartphone;13 Months
+952;Basic;10;16/06/2022;01/07/2023;Spain;49;Female;Tablet;13 Months
+953;Standard;10;16/06/2022;30/06/2023;United States;34;Female;Laptop;13 Months
+954;Standard;13;17/06/2022;30/06/2023;Canada;38;Male;Smartphone;13 Months
+955;Basic;15;20/06/2022;02/07/2023;United States;36;Female;Laptop;13 Months
+956;Premium;10;24/06/2022;01/07/2023;United States;42;Female;Smart TV;12 Months
+957;Basic;14;27/06/2022;01/07/2023;Canada;50;Male;Tablet;12 Months
+958;Standard;10;02/07/2022;01/07/2023;United Kingdom;42;Female;Laptop;12 Months
+959;Premium;14;04/07/2022;02/07/2023;Australia;35;Female;Laptop;12 Months
+960;Basic;15;15/07/2022;30/06/2023;Germany;46;Female;Tablet;12 Months
+961;Premium;15;23/07/2022;01/07/2023;France;48;Male;Laptop;11 Months
+962;Basic;12;29/07/2022;01/07/2023;Brazil;43;Female;Laptop;11 Months
+963;Standard;13;01/08/2022;01/07/2023;Mexico;51;Female;Tablet;11 Months
+964;Standard;13;12/08/2022;03/07/2023;Spain;45;Male;Smart TV;11 Months
+965;Basic;10;14/08/2022;30/06/2023;Italy;46;Male;Laptop;11 Months
+966;Premium;12;16/08/2022;04/07/2023;Spain;42;Female;Laptop;11 Months
+967;Basic;10;26/08/2022;30/06/2023;Spain;42;Female;Smartphone;10 Months
+968;Standard;13;31/08/2022;03/07/2023;United States;50;Male;Tablet;10 Months
+969;Premium;12;02/09/2022;30/06/2023;Canada;28;Male;Smart TV;10 Months
+970;Basic;15;03/09/2022;03/07/2023;United States;44;Female;Tablet;10 Months
+971;Basic;10;05/09/2022;01/07/2023;United States;36;Male;Tablet;10 Months
+972;Basic;14;10/09/2022;02/07/2023;Canada;37;Female;Laptop;10 Months
+973;Standard;12;17/09/2022;01/07/2023;United Kingdom;36;Male;Smartphone;10 Months
+974;Premium;13;28/09/2022;03/07/2023;Australia;31;Male;Smartphone;9 Months
+975;Basic;12;02/10/2022;30/06/2023;Germany;36;Female;Smart TV;9 Months
+976;Basic;15;05/10/2022;03/07/2023;France;39;Female;Laptop;9 Months
+977;Premium;11;07/10/2022;30/06/2023;Brazil;45;Female;Laptop;9 Months
+978;Standard;13;08/10/2022;03/07/2023;Mexico;29;Male;Smart TV;9 Months
+979;Standard;15;08/10/2022;01/07/2023;Spain;45;Male;Smartphone;9 Months
+980;Basic;11;09/10/2022;03/07/2023;Italy;29;Male;Smart TV;9 Months
+981;Premium;10;09/10/2022;30/06/2023;Spain;28;Female;Smart TV;9 Months
+982;Standard;12;10/10/2022;02/07/2023;Spain;42;Female;Smart TV;9 Months
+983;Basic;11;14/10/2022;01/07/2023;United States;36;Female;Smartphone;9 Months
+984;Standard;15;16/10/2022;03/07/2023;Canada;39;Male;Smart TV;9 Months
+985;Premium;11;21/10/2022;29/06/2023;United States;36;Male;Smart TV;8 Months
+986;Basic;15;25/10/2022;01/07/2023;United States;49;Male;Laptop;8 Months
+987;Premium;11;30/10/2022;01/07/2023;Canada;32;Female;Tablet;8 Months
+988;Standard;12;31/10/2022;02/07/2023;United Kingdom;40;Female;Smartphone;8 Months
+989;Basic;12;08/11/2022;01/07/2023;Australia;34;Male;Smartphone;8 Months
+990;Standard;15;09/11/2022;01/07/2023;Germany;35;Male;Smartphone;8 Months
+991;Premium;11;07/11/2022;01/07/2023;France;44;Female;Smart TV;8 Months
+992;Basic;13;08/11/2022;03/07/2023;Brazil;47;Female;Smartphone;8 Months
+993;Standard;14;08/11/2022;03/07/2023;Mexico;33;Female;Laptop;8 Months
+994;Premium;11;31/10/2022;02/07/2023;Spain;45;Male;Tablet;8 Months
+995;Basic;14;28/10/2022;01/07/2023;Italy;42;Female;Tablet;8 Months
+996;Premium;15;25/10/2022;02/07/2023;Spain;46;Male;Tablet;8 Months
+997;Basic;14;18/10/2022;02/07/2023;Spain;51;Male;Tablet;9 Months
+998;Standard;15;25/09/2022;02/07/2023;United States;41;Female;Laptop;9 Months
+999;Standard;10;26/08/2022;01/07/2023;Canada;50;Female;Tablet;10 Months
+1000;Basic;10;20/08/2022;02/07/2023;United States;49;Female;Smartphone;11 Months
+1001;Premium;12;12/08/2022;03/07/2023;United States;34;Female;Laptop;11 Months
+1002;Basic;13;12/08/2022;03/07/2023;Canada;38;Female;Tablet;11 Months
+1003;Standard;13;11/08/2022;01/07/2023;United Kingdom;46;Male;Smart TV;11 Months
+1004;Premium;14;11/08/2022;02/07/2023;Australia;42;Male;Smart TV;11 Months
+1005;Basic;12;10/08/2022;02/07/2023;Germany;46;Male;Laptop;11 Months
+1006;Premium;10;31/07/2022;03/07/2023;France;51;Female;Smart TV;11 Months
+1007;Basic;12;17/07/2022;30/06/2023;Brazil;35;Male;Smart TV;12 Months
+1008;Standard;10;15/07/2022;02/07/2023;Mexico;34;Female;Smartphone;12 Months
+1009;Standard;14;05/07/2022;02/07/2023;Spain;31;Female;Laptop;12 Months
+1010;Basic;12;01/07/2022;03/07/2023;Italy;36;Female;Tablet;12 Months
+1011;Premium;15;01/07/2022;30/06/2023;Spain;28;Male;Smart TV;12 Months
+1012;Basic;15;26/06/2022;01/07/2023;Spain;29;Female;Smartphone;12 Months
+1013;Standard;12;27/06/2022;02/07/2023;United States;42;Female;Smart TV;12 Months
+1014;Premium;10;28/06/2022;02/07/2023;Canada;35;Female;Smartphone;12 Months
+1015;Basic;12;28/06/2022;30/06/2023;United States;32;Female;Laptop;12 Months
+1016;Premium;10;29/06/2022;01/07/2023;United States;43;Female;Tablet;12 Months
+1017;Basic;10;26/06/2022;02/07/2023;Canada;29;Male;Smartphone;12 Months
+1018;Standard;13;26/06/2022;02/07/2023;United Kingdom;35;Female;Tablet;12 Months
+1019;Standard;14;24/06/2022;30/06/2023;Australia;27;Female;Tablet;12 Months
+1020;Basic;13;21/06/2022;01/07/2023;Germany;38;Male;Tablet;13 Months
+1021;Premium;13;22/06/2022;03/07/2023;France;33;Male;Smart TV;13 Months
+1022;Basic;11;18/06/2022;02/07/2023;Brazil;48;Male;Laptop;13 Months
+1023;Standard;10;18/06/2022;02/07/2023;Mexico;51;Female;Laptop;13 Months
+1024;Premium;10;20/06/2022;01/07/2023;Spain;40;Female;Smartphone;13 Months
+1025;Basic;13;23/06/2022;03/07/2023;Italy;28;Male;Smartphone;13 Months
+1026;Premium;10;26/06/2022;01/07/2023;Spain;46;Female;Laptop;12 Months
+1027;Basic;12;02/07/2022;01/07/2023;Spain;28;Female;Tablet;12 Months
+1028;Standard;12;04/07/2022;01/07/2023;United States;47;Male;Tablet;12 Months
+1029;Standard;10;07/07/2022;02/07/2023;Canada;47;Male;Smartphone;12 Months
+1030;Basic;13;14/07/2022;01/07/2023;United States;50;Male;Smartphone;12 Months
+1031;Premium;13;20/07/2022;01/07/2023;United States;50;Female;Smart TV;12 Months
+1032;Basic;15;23/07/2022;02/07/2023;Canada;29;Male;Smartphone;11 Months
+1033;Standard;15;30/07/2022;01/07/2023;United Kingdom;38;Male;Tablet;11 Months
+1034;Premium;11;12/08/2022;03/07/2023;Australia;40;Female;Tablet;11 Months
+1035;Basic;14;14/08/2022;01/07/2023;Germany;43;Male;Smartphone;11 Months
+1036;Premium;14;22/08/2022;04/07/2023;France;27;Female;Smartphone;11 Months
+1037;Basic;10;29/08/2022;30/06/2023;Brazil;37;Female;Tablet;10 Months
+1038;Standard;12;02/09/2022;03/07/2023;Mexico;30;Male;Smartphone;10 Months
+1039;Standard;13;03/09/2022;01/07/2023;Spain;50;Male;Laptop;10 Months
+1040;Basic;11;04/09/2022;04/07/2023;Italy;51;Male;Smartphone;10 Months
+1041;Premium;13;06/09/2022;01/07/2023;Spain;37;Female;Laptop;10 Months
+1042;Basic;14;10/09/2022;02/07/2023;Spain;35;Female;Tablet;10 Months
+1043;Standard;12;20/09/2022;01/07/2023;United States;35;Male;Tablet;9 Months
+1044;Premium;11;26/09/2022;03/07/2023;Canada;46;Male;Tablet;9 Months
+1045;Basic;13;04/10/2022;01/07/2023;United States;27;Male;Tablet;9 Months
+1046;Basic;13;06/10/2022;03/07/2023;United States;27;Male;Laptop;9 Months
+1047;Basic;13;07/10/2022;01/07/2023;Canada;39;Female;Laptop;9 Months
+1048;Standard;15;08/10/2022;03/07/2023;United Kingdom;51;Male;Tablet;9 Months
+1049;Premium;14;09/10/2022;01/07/2023;Australia;41;Male;Smartphone;9 Months
+1050;Basic;15;10/10/2022;03/07/2023;Germany;30;Female;Smart TV;9 Months
+1051;Basic;11;10/10/2022;30/06/2023;France;46;Male;Laptop;9 Months
+1052;Premium;14;14/10/2022;02/07/2023;Brazil;31;Male;Tablet;9 Months
+1053;Standard;13;15/10/2022;01/07/2023;Mexico;49;Male;Smartphone;9 Months
+1054;Standard;12;17/10/2022;03/07/2023;Spain;39;Female;Tablet;9 Months
+1055;Basic;11;23/10/2022;01/07/2023;Italy;47;Male;Smartphone;8 Months
+1056;Premium;15;27/10/2022;02/07/2023;Spain;36;Female;Tablet;8 Months
+1057;Standard;14;29/10/2022;02/07/2023;Spain;42;Female;Tablet;8 Months
+1058;Basic;15;05/11/2022;02/07/2023;United States;28;Female;Smart TV;8 Months
+1059;Standard;15;07/11/2022;02/07/2023;Canada;43;Male;Tablet;8 Months
+1060;Premium;10;08/11/2022;02/07/2023;United States;50;Female;Laptop;8 Months
+1061;Basic;15;09/11/2022;01/07/2023;United States;30;Female;Tablet;8 Months
+1062;Premium;10;10/11/2022;03/07/2023;Canada;34;Female;Laptop;8 Months
+1063;Standard;13;02/11/2022;03/07/2023;United Kingdom;35;Female;Laptop;8 Months
+1064;Basic;11;31/10/2022;02/07/2023;Australia;29;Male;Tablet;8 Months
+1065;Standard;15;29/10/2022;02/07/2023;Germany;33;Male;Smart TV;8 Months
+1066;Premium;12;22/10/2022;03/07/2023;France;47;Male;Laptop;8 Months
+1067;Basic;14;20/10/2022;02/07/2023;Brazil;32;Female;Tablet;9 Months
+1068;Standard;15;21/10/2022;04/07/2023;Mexico;34;Female;Tablet;9 Months
+1069;Premium;13;10/10/2022;02/07/2023;Spain;46;Male;Smart TV;9 Months
+1070;Basic;15;06/09/2022;03/07/2023;Italy;31;Male;Tablet;10 Months
+1071;Premium;12;06/09/2022;03/07/2023;Spain;40;Female;Tablet;10 Months
+1072;Basic;11;13/08/2022;03/07/2023;Spain;38;Female;Tablet;11 Months
+1073;Standard;11;13/08/2022;01/07/2023;United States;31;Male;Smart TV;11 Months
+1074;Standard;12;13/08/2022;02/07/2023;Canada;46;Female;Smartphone;11 Months
+1075;Basic;11;06/08/2022;03/07/2023;United States;43;Male;Smart TV;11 Months
+1076;Premium;15;06/08/2022;03/07/2023;United States;38;Female;Laptop;11 Months
+1077;Basic;15;22/07/2022;30/06/2023;Canada;38;Female;Laptop;11 Months
+1078;Standard;14;17/07/2022;02/07/2023;United Kingdom;27;Male;Laptop;12 Months
+1079;Premium;12;09/07/2022;02/07/2023;Australia;49;Female;Tablet;12 Months
+1080;Basic;11;04/07/2022;03/07/2023;Germany;33;Male;Smartphone;12 Months
+1081;Premium;10;27/06/2022;30/06/2023;France;40;Female;Smartphone;12 Months
+1082;Basic;13;28/06/2022;02/07/2023;Brazil;27;Male;Tablet;12 Months
+1083;Standard;12;28/06/2022;02/07/2023;Mexico;28;Female;Laptop;12 Months
+1084;Standard;10;29/06/2022;03/07/2023;Spain;30;Male;Smartphone;12 Months
+1085;Basic;10;29/06/2022;30/06/2023;Italy;33;Female;Smartphone;12 Months
+1086;Premium;15;26/06/2022;01/07/2023;Spain;51;Female;Tablet;12 Months
+1087;Basic;11;26/06/2022;03/07/2023;Spain;51;Male;Tablet;12 Months
+1088;Standard;10;26/06/2022;02/07/2023;United States;50;Female;Smartphone;12 Months
+1089;Premium;14;24/06/2022;30/06/2023;Canada;46;Female;Tablet;12 Months
+1090;Basic;14;25/06/2022;02/07/2023;United States;31;Male;Smart TV;12 Months
+1091;Premium;12;20/06/2022;03/07/2023;United States;46;Female;Smartphone;13 Months
+1092;Basic;15;21/06/2022;02/07/2023;Canada;41;Male;Smart TV;13 Months
+1093;Standard;12;20/06/2022;02/07/2023;United Kingdom;36;Male;Smartphone;13 Months
+1094;Standard;10;22/06/2022;02/07/2023;Australia;45;Female;Tablet;13 Months
+1095;Basic;10;24/06/2022;03/07/2023;Germany;36;Male;Smartphone;12 Months
+1096;Premium;15;30/06/2022;02/07/2023;France;28;Male;Smartphone;12 Months
+1097;Basic;13;03/07/2022;02/07/2023;Brazil;45;Female;Smartphone;12 Months
+1098;Standard;10;04/07/2022;02/07/2023;Mexico;39;Female;Smartphone;12 Months
+1099;Premium;13;08/07/2022;02/07/2023;Spain;51;Female;Laptop;12 Months
+1100;Basic;10;19/07/2022;01/07/2023;Italy;37;Male;Laptop;12 Months
+1101;Premium;11;21/07/2022;01/07/2023;Spain;33;Female;Tablet;12 Months
+1102;Basic;15;27/07/2022;03/07/2023;Spain;32;Female;Smartphone;11 Months
+1103;Standard;14;02/08/2022;01/07/2023;United States;49;Female;Tablet;11 Months
+1104;Standard;10;09/08/2022;03/07/2023;Canada;37;Female;Smart TV;11 Months
+1105;Basic;15;21/08/2022;01/07/2023;United States;39;Male;Tablet;10 Months
+1106;Premium;14;29/08/2022;04/07/2023;United States;37;Male;Smart TV;10 Months
+1107;Basic;15;31/08/2022;01/07/2023;Canada;36;Female;Smart TV;10 Months
+1108;Standard;10;02/09/2022;03/07/2023;United Kingdom;34;Male;Laptop;10 Months
+1109;Premium;13;04/09/2022;01/07/2023;Australia;51;Female;Smartphone;10 Months
+1110;Basic;13;05/09/2022;04/07/2023;Germany;41;Female;Tablet;10 Months
+1111;Premium;13;10/09/2022;01/07/2023;France;51;Male;Smart TV;10 Months
+1112;Basic;15;13/09/2022;03/07/2023;Brazil;31;Female;Tablet;10 Months
+1113;Standard;13;20/09/2022;01/07/2023;Mexico;44;Male;Laptop;9 Months
+1114;Standard;15;01/10/2022;03/07/2023;Spain;50;Male;Smart TV;9 Months
+1115;Basic;14;03/10/2022;01/07/2023;Italy;33;Male;Laptop;9 Months
+1116;Premium;11;06/10/2022;04/07/2023;Spain;44;Female;Laptop;9 Months
+1117;Basic;15;08/10/2022;01/07/2023;Spain;42;Female;Tablet;9 Months
+1118;Standard;13;09/10/2022;03/07/2023;United States;35;Male;Smart TV;9 Months
+1119;Premium;12;10/10/2022;02/07/2023;Canada;48;Male;Smartphone;9 Months
+1120;Basic;13;10/10/2022;04/07/2023;United States;51;Female;Smartphone;9 Months
+1121;Basic;15;12/10/2022;01/07/2023;United States;44;Female;Smart TV;9 Months
+1122;Basic;11;14/10/2022;02/07/2023;Canada;37;Female;Smartphone;9 Months
+1123;Standard;15;15/10/2022;02/07/2023;United Kingdom;35;Female;Laptop;9 Months
+1124;Premium;11;17/10/2022;03/07/2023;Australia;32;Male;Laptop;9 Months
+1125;Basic;15;19/10/2022;02/07/2023;Germany;46;Female;Tablet;9 Months
+1126;Basic;14;25/10/2022;02/07/2023;France;39;Female;Laptop;8 Months
+1127;Premium;11;26/10/2022;02/07/2023;Brazil;33;Female;Tablet;8 Months
+1128;Standard;10;05/11/2022;03/07/2023;Mexico;42;Male;Tablet;8 Months
+1129;Standard;14;07/11/2022;03/07/2023;Spain;37;Female;Smartphone;8 Months
+1130;Basic;14;08/11/2022;03/07/2023;Italy;27;Female;Smart TV;8 Months
+1131;Premium;14;09/11/2022;02/07/2023;Spain;34;Female;Laptop;8 Months
+1132;Standard;13;06/11/2022;03/07/2023;Spain;51;Male;Laptop;8 Months
+1133;Basic;12;04/11/2022;03/07/2023;United States;42;Male;Laptop;8 Months
+1134;Standard;13;03/11/2022;05/07/2023;Canada;46;Female;Smart TV;8 Months
+1135;Premium;13;23/10/2022;02/07/2023;United States;36;Male;Laptop;8 Months
+1136;Basic;14;24/10/2022;04/07/2023;United States;46;Male;Smartphone;8 Months
+1137;Premium;13;23/10/2022;04/07/2023;Canada;51;Male;Smart TV;8 Months
+1138;Standard;12;21/10/2022;04/07/2023;United Kingdom;45;Female;Smartphone;9 Months
+1139;Basic;14;11/09/2022;02/07/2023;Australia;33;Male;Smartphone;10 Months
+1140;Standard;10;09/09/2022;03/07/2023;Germany;31;Female;Smart TV;10 Months
+1141;Premium;12;22/08/2022;03/07/2023;France;48;Female;Smart TV;11 Months
+1142;Basic;13;21/08/2022;04/07/2023;Brazil;47;Female;Laptop;11 Months
+1143;Standard;13;15/08/2022;01/07/2023;Mexico;43;Male;Smart TV;11 Months
+1144;Premium;14;14/08/2022;03/07/2023;Spain;39;Male;Tablet;11 Months
+1145;Basic;11;09/08/2022;03/07/2023;Italy;46;Male;Smart TV;11 Months
+1146;Premium;12;04/08/2022;04/07/2023;Spain;46;Female;Smartphone;11 Months
+1147;Basic;11;27/07/2022;01/07/2023;Spain;40;Female;Tablet;11 Months
+1148;Standard;12;11/07/2022;02/07/2023;United States;38;Male;Smartphone;12 Months
+1149;Standard;13;09/07/2022;03/07/2023;Canada;48;Female;Tablet;12 Months
+1150;Basic;15;01/07/2022;03/07/2023;United States;38;Male;Tablet;12 Months
+1151;Premium;12;30/06/2022;01/07/2023;United States;43;Male;Laptop;12 Months
+1152;Basic;11;29/06/2022;02/07/2023;Canada;29;Male;Smartphone;12 Months
+1153;Standard;15;29/06/2022;03/07/2023;United Kingdom;32;Female;Laptop;12 Months
+1154;Premium;10;30/06/2022;03/07/2023;Australia;32;Female;Laptop;12 Months
+1155;Basic;10;30/06/2022;30/06/2023;Germany;49;Female;Laptop;12 Months
+1156;Premium;14;26/06/2022;02/07/2023;France;51;Female;Laptop;12 Months
+1157;Basic;14;27/06/2022;03/07/2023;Brazil;32;Male;Smart TV;12 Months
+1158;Standard;12;25/06/2022;02/07/2023;Mexico;35;Female;Smart TV;12 Months
+1159;Standard;15;25/06/2022;01/07/2023;Spain;41;Male;Laptop;12 Months
+1160;Basic;12;20/06/2022;03/07/2023;Italy;43;Female;Smart TV;13 Months
+1161;Premium;12;21/06/2022;03/07/2023;Spain;41;Male;Smartphone;13 Months
+1162;Basic;10;21/06/2022;02/07/2023;Spain;51;Male;Smart TV;13 Months
+1163;Standard;13;22/06/2022;03/07/2023;United States;47;Female;Smart TV;13 Months
+1164;Premium;15;23/06/2022;02/07/2023;Canada;39;Male;Smart TV;12 Months
+1165;Basic;15;27/06/2022;03/07/2023;United States;51;Male;Smartphone;12 Months
+1166;Premium;13;02/07/2022;02/07/2023;United States;39;Female;Tablet;12 Months
+1167;Basic;12;03/07/2022;02/07/2023;Canada;45;Male;Tablet;12 Months
+1168;Standard;13;05/07/2022;02/07/2023;United Kingdom;42;Male;Laptop;12 Months
+1169;Standard;13;15/07/2022;02/07/2023;Australia;48;Male;Smartphone;12 Months
+1170;Basic;11;20/07/2022;02/07/2023;Germany;33;Male;Smart TV;12 Months
+1171;Premium;14;27/07/2022;02/07/2023;France;47;Female;Smartphone;11 Months
+1172;Basic;11;29/07/2022;04/07/2023;Brazil;51;Female;Smart TV;11 Months
+1173;Standard;11;03/08/2022;01/07/2023;Mexico;27;Male;Smartphone;11 Months
+1174;Premium;11;18/08/2022;04/07/2023;Spain;44;Female;Laptop;11 Months
+1175;Basic;12;23/08/2022;02/07/2023;Italy;41;Male;Laptop;10 Months
+1176;Premium;11;27/08/2022;05/07/2023;Spain;37;Male;Smart TV;10 Months
+1177;Basic;15;01/09/2022;02/07/2023;Spain;48;Male;Tablet;10 Months
+1178;Standard;12;03/09/2022;04/07/2023;United States;30;Male;Smart TV;10 Months
+1179;Standard;14;05/09/2022;02/07/2023;Canada;44;Female;Smartphone;10 Months
+1180;Basic;14;09/09/2022;04/07/2023;United States;34;Female;Smart TV;10 Months
+1181;Premium;15;11/09/2022;01/07/2023;United States;40;Female;Laptop;10 Months
+1182;Basic;14;17/09/2022;04/07/2023;Canada;28;Female;Smartphone;10 Months
+1183;Standard;15;19/09/2022;02/07/2023;United Kingdom;44;Female;Tablet;10 Months
+1184;Premium;13;28/09/2022;03/07/2023;Australia;38;Female;Laptop;9 Months
+1185;Basic;14;06/10/2022;02/07/2023;Germany;49;Male;Smart TV;9 Months
+1186;Premium;13;07/10/2022;05/07/2023;France;32;Female;Smart TV;9 Months
+1187;Basic;14;09/10/2022;01/07/2023;Brazil;47;Female;Smart TV;9 Months
+1188;Standard;10;10/10/2022;03/07/2023;Mexico;44;Male;Tablet;9 Months
+1189;Standard;12;11/10/2022;03/07/2023;Spain;33;Male;Smartphone;9 Months
+1190;Basic;15;12/10/2022;04/07/2023;Italy;32;Male;Laptop;9 Months
+1191;Premium;12;13/10/2022;01/07/2023;Spain;27;Female;Smartphone;9 Months
+1192;Basic;11;14/10/2022;03/07/2023;Spain;37;Male;Laptop;9 Months
+1193;Standard;14;16/10/2022;03/07/2023;United States;34;Male;Tablet;9 Months
+1194;Premium;15;19/10/2022;04/07/2023;Canada;40;Male;Smart TV;9 Months
+1195;Basic;12;23/10/2022;02/07/2023;United States;45;Female;Smart TV;8 Months
+1196;Basic;13;24/10/2022;03/07/2023;United States;29;Female;Tablet;8 Months
+1197;Basic;14;25/10/2022;03/07/2023;Canada;35;Male;Smart TV;8 Months
+1198;Standard;10;01/11/2022;04/07/2023;United Kingdom;38;Female;Laptop;8 Months
+1199;Premium;11;02/11/2022;04/07/2023;Australia;48;Female;Smart TV;8 Months
+1200;Basic;12;04/11/2022;06/07/2023;Germany;36;Male;Smartphone;8 Months
+1201;Basic;10;06/11/2022;03/07/2023;France;41;Male;Smart TV;8 Months
+1202;Premium;15;06/11/2022;03/07/2023;Brazil;27;Male;Smart TV;8 Months
+1203;Standard;12;04/11/2022;04/07/2023;Mexico;41;Male;Smart TV;8 Months
+1204;Standard;13;30/10/2022;05/07/2023;Spain;42;Male;Laptop;8 Months
+1205;Basic;12;27/10/2022;03/07/2023;Italy;40;Female;Laptop;8 Months
+1206;Premium;13;23/10/2022;04/07/2023;Spain;32;Male;Smart TV;8 Months
+1207;Standard;12;23/10/2022;04/07/2023;Spain;33;Male;Smart TV;8 Months
+1208;Basic;11;24/09/2022;04/07/2023;United States;34;Male;Smartphone;9 Months
+1209;Standard;11;22/09/2022;02/07/2023;Canada;29;Male;Tablet;9 Months
+1210;Premium;14;06/09/2022;03/07/2023;United States;50;Male;Smart TV;10 Months
+1211;Basic;10;23/08/2022;04/07/2023;United States;29;Female;Laptop;11 Months
+1212;Premium;13;21/08/2022;04/07/2023;Canada;40;Female;Tablet;11 Months
+1213;Standard;10;16/08/2022;02/07/2023;United Kingdom;27;Male;Smart TV;11 Months
+1214;Basic;10;09/08/2022;03/07/2023;Australia;51;Female;Smartphone;11 Months
+1215;Standard;13;04/08/2022;03/07/2023;Germany;41;Female;Laptop;11 Months
+1216;Premium;15;28/07/2022;04/07/2023;France;28;Female;Tablet;11 Months
+1217;Basic;12;12/07/2022;01/07/2023;Brazil;42;Male;Laptop;12 Months
+1218;Standard;13;11/07/2022;03/07/2023;Mexico;40;Male;Laptop;12 Months
+1219;Premium;12;06/07/2022;04/07/2023;Spain;48;Female;Smartphone;12 Months
+1220;Basic;13;01/07/2022;03/07/2023;Italy;28;Male;Smart TV;12 Months
+1221;Premium;15;02/07/2022;01/07/2023;Spain;40;Male;Smart TV;12 Months
+1222;Basic;15;30/06/2022;03/07/2023;Spain;33;Female;Tablet;12 Months
+1223;Standard;12;30/06/2022;03/07/2023;United States;33;Male;Smartphone;12 Months
+1224;Standard;15;30/06/2022;03/07/2023;Canada;47;Female;Smartphone;12 Months
+1225;Basic;13;30/06/2022;01/07/2023;United States;50;Female;Smart TV;12 Months
+1226;Premium;15;29/06/2022;03/07/2023;United States;38;Male;Smartphone;12 Months
+1227;Basic;15;27/06/2022;04/07/2023;Canada;36;Female;Tablet;12 Months
+1228;Standard;15;26/06/2022;03/07/2023;United Kingdom;38;Female;Tablet;12 Months
+1229;Premium;12;24/06/2022;01/07/2023;Australia;49;Male;Smartphone;12 Months
+1230;Basic;12;25/06/2022;03/07/2023;Germany;40;Female;Smart TV;12 Months
+1231;Premium;13;24/06/2022;03/07/2023;France;51;Male;Tablet;12 Months
+1232;Basic;11;22/06/2022;03/07/2023;Brazil;42;Female;Smartphone;13 Months
+1233;Standard;13;23/06/2022;03/07/2023;Mexico;41;Female;Smartphone;13 Months
+1234;Standard;12;25/06/2022;03/07/2023;Spain;48;Female;Smartphone;12 Months
+1235;Basic;13;29/06/2022;03/07/2023;Italy;39;Female;Tablet;12 Months
+1236;Premium;15;01/07/2022;02/07/2023;Spain;35;Female;Tablet;12 Months
+1237;Basic;11;05/07/2022;02/07/2023;Spain;32;Female;Tablet;12 Months
+1238;Standard;12;12/07/2022;04/07/2023;United States;28;Female;Smartphone;12 Months
+1239;Premium;11;16/07/2022;02/07/2023;Canada;27;Male;Laptop;12 Months
+1240;Basic;11;20/07/2022;04/07/2023;United States;30;Female;Laptop;12 Months
+1241;Premium;14;28/07/2022;02/07/2023;United States;47;Female;Laptop;11 Months
+1242;Basic;14;31/07/2022;05/07/2023;Canada;49;Female;Tablet;11 Months
+1243;Standard;14;14/08/2022;02/07/2023;United Kingdom;43;Female;Smartphone;11 Months
+1244;Standard;12;16/08/2022;04/07/2023;Australia;42;Male;Tablet;11 Months
+1245;Basic;14;18/08/2022;03/07/2023;Germany;29;Female;Smartphone;11 Months
+1246;Premium;15;27/08/2022;05/07/2023;France;35;Female;Smartphone;10 Months
+1247;Basic;13;01/09/2022;02/07/2023;Brazil;41;Female;Smartphone;10 Months
+1248;Standard;13;03/09/2022;05/07/2023;Mexico;47;Female;Smart TV;10 Months
+1249;Premium;14;07/09/2022;03/07/2023;Spain;28;Female;Smart TV;10 Months
+1250;Basic;10;08/09/2022;04/07/2023;Italy;44;Female;Smartphone;10 Months
+1251;Premium;10;14/09/2022;03/07/2023;Spain;28;Female;Tablet;10 Months
+1252;Basic;11;15/09/2022;05/07/2023;Spain;51;Male;Laptop;10 Months
+1253;Standard;11;27/09/2022;02/07/2023;United States;48;Male;Laptop;9 Months
+1254;Standard;14;30/09/2022;04/07/2023;Canada;49;Female;Tablet;9 Months
+1255;Basic;10;02/10/2022;04/07/2023;United States;50;Male;Smart TV;9 Months
+1256;Premium;13;03/10/2022;05/07/2023;United States;43;Male;Laptop;9 Months
+1257;Basic;14;05/10/2022;01/07/2023;Canada;32;Male;Smart TV;9 Months
+1258;Standard;15;10/10/2022;03/07/2023;United Kingdom;42;Female;Tablet;9 Months
+1259;Premium;13;11/10/2022;03/07/2023;Australia;41;Female;Laptop;9 Months
+1260;Basic;11;13/10/2022;04/07/2023;Germany;31;Male;Laptop;9 Months
+1261;Premium;11;14/10/2022;02/07/2023;France;37;Female;Smart TV;9 Months
+1262;Basic;12;16/10/2022;03/07/2023;Brazil;46;Male;Smart TV;9 Months
+1263;Standard;14;18/10/2022;03/07/2023;Mexico;30;Female;Tablet;9 Months
+1264;Standard;11;22/10/2022;05/07/2023;Spain;30;Female;Smart TV;9 Months
+1265;Basic;10;24/10/2022;03/07/2023;Italy;34;Female;Tablet;8 Months
+1266;Premium;15;25/10/2022;04/07/2023;Spain;47;Female;Laptop;8 Months
+1267;Basic;14;29/10/2022;03/07/2023;Spain;41;Male;Tablet;8 Months
+1268;Standard;13;02/11/2022;04/07/2023;United States;42;Female;Laptop;8 Months
+1269;Premium;12;03/11/2022;05/07/2023;Canada;48;Female;Smartphone;8 Months
+1270;Basic;11;04/11/2022;06/07/2023;United States;30;Female;Smart TV;8 Months
+1271;Basic;13;05/11/2022;03/07/2023;United States;51;Male;Smartphone;8 Months
+1272;Basic;13;05/11/2022;04/07/2023;Canada;27;Male;Smartphone;8 Months
+1273;Standard;13;31/10/2022;04/07/2023;United Kingdom;38;Male;Tablet;8 Months
+1274;Premium;12;27/10/2022;05/07/2023;Australia;29;Female;Smart TV;8 Months
+1275;Basic;11;25/10/2022;03/07/2023;Germany;40;Female;Smartphone;8 Months
+1276;Basic;12;26/10/2022;04/07/2023;France;31;Female;Laptop;8 Months
+1277;Premium;11;30/09/2022;04/07/2023;Brazil;30;Male;Smartphone;9 Months
+1278;Standard;13;27/09/2022;05/07/2023;Mexico;44;Male;Laptop;9 Months
+1279;Standard;14;12/09/2022;03/07/2023;Spain;34;Female;Tablet;10 Months
+1280;Basic;14;25/08/2022;04/07/2023;Italy;28;Female;Laptop;10 Months
+1281;Premium;13;25/08/2022;04/07/2023;Spain;41;Female;Laptop;10 Months
+1282;Standard;12;22/08/2022;05/07/2023;Spain;43;Male;Tablet;11 Months
+1283;Basic;10;17/08/2022;02/07/2023;United States;33;Male;Laptop;11 Months
+1284;Standard;12;09/08/2022;03/07/2023;Canada;32;Female;Tablet;11 Months
+1285;Premium;10;06/08/2022;04/07/2023;United States;39;Male;Smart TV;11 Months
+1286;Basic;15;17/07/2022;04/07/2023;United States;37;Male;Laptop;12 Months
+1287;Premium;11;12/07/2022;02/07/2023;Canada;46;Male;Tablet;12 Months
+1288;Standard;11;12/07/2022;03/07/2023;United Kingdom;39;Male;Smartphone;12 Months
+1289;Basic;12;02/07/2022;04/07/2023;Australia;46;Female;Tablet;12 Months
+1290;Standard;13;02/07/2022;03/07/2023;Germany;43;Male;Laptop;12 Months
+1291;Premium;10;30/06/2022;02/07/2023;France;32;Female;Laptop;12 Months
+1292;Basic;12;30/06/2022;04/07/2023;Brazil;30;Female;Smart TV;12 Months
+1293;Standard;11;01/07/2022;04/07/2023;Mexico;40;Female;Tablet;12 Months
+1294;Premium;11;30/06/2022;04/07/2023;Spain;51;Female;Smartphone;12 Months
+1295;Basic;10;29/06/2022;02/07/2023;Italy;40;Female;Smartphone;12 Months
+1296;Premium;12;30/06/2022;03/07/2023;Spain;28;Male;Smart TV;12 Months
+1297;Basic;14;29/06/2022;04/07/2023;Spain;51;Female;Smartphone;12 Months
+1298;Standard;14;26/06/2022;03/07/2023;United States;27;Male;Laptop;12 Months
+1299;Standard;14;27/06/2022;01/07/2023;Canada;35;Male;Smart TV;12 Months
+1300;Basic;11;24/06/2022;03/07/2023;United States;37;Male;Laptop;12 Months
+1301;Premium;14;23/06/2022;04/07/2023;United States;51;Male;Smart TV;13 Months
+1302;Basic;11;23/06/2022;03/07/2023;Canada;40;Male;Smart TV;13 Months
+1303;Standard;14;25/06/2022;03/07/2023;United Kingdom;38;Male;Laptop;12 Months
+1304;Premium;11;28/06/2022;03/07/2023;Australia;48;Female;Laptop;12 Months
+1305;Basic;11;01/07/2022;03/07/2023;Germany;49;Male;Smartphone;12 Months
+1306;Premium;15;02/07/2022;05/07/2023;France;33;Female;Laptop;12 Months
+1307;Basic;10;06/07/2022;03/07/2023;Brazil;34;Female;Tablet;12 Months
+1308;Standard;15;12/07/2022;06/07/2023;Mexico;39;Male;Tablet;12 Months
+1309;Standard;13;17/07/2022;02/07/2023;Spain;37;Female;Tablet;12 Months
+1310;Basic;15;23/07/2022;05/07/2023;Italy;44;Male;Laptop;12 Months
+1311;Premium;15;29/07/2022;04/07/2023;Spain;35;Male;Tablet;11 Months
+1312;Basic;11;06/08/2022;06/07/2023;Spain;31;Female;Laptop;11 Months
+1313;Standard;10;09/08/2022;02/07/2023;United States;39;Male;Smart TV;11 Months
+1314;Premium;13;14/08/2022;05/07/2023;Canada;38;Male;Tablet;11 Months
+1315;Basic;11;20/08/2022;03/07/2023;United States;42;Male;Smartphone;11 Months
+1316;Premium;12;28/08/2022;05/07/2023;United States;48;Female;Tablet;10 Months
+1317;Basic;11;02/09/2022;03/07/2023;Canada;31;Male;Tablet;10 Months
+1318;Standard;11;04/09/2022;05/07/2023;United Kingdom;42;Male;Smartphone;10 Months
+1319;Standard;14;06/09/2022;03/07/2023;Australia;35;Male;Smartphone;10 Months
+1320;Basic;10;14/09/2022;05/07/2023;Germany;39;Male;Laptop;10 Months
+1321;Premium;13;15/09/2022;04/07/2023;France;50;Female;Tablet;10 Months
+1322;Basic;11;16/09/2022;06/07/2023;Brazil;40;Male;Smartphone;10 Months
+1323;Standard;10;28/09/2022;02/07/2023;Mexico;29;Male;Smartphone;9 Months
+1324;Premium;10;02/10/2022;04/07/2023;Spain;48;Female;Smart TV;9 Months
+1325;Basic;15;03/10/2022;04/07/2023;Italy;34;Male;Smartphone;9 Months
+1326;Premium;10;05/10/2022;05/07/2023;Spain;48;Male;Smartphone;9 Months
+1327;Basic;12;07/10/2022;02/07/2023;Spain;48;Male;Laptop;9 Months
+1328;Standard;12;09/10/2022;04/07/2023;United States;35;Female;Tablet;9 Months
+1329;Standard;11;11/10/2022;04/07/2023;Canada;29;Male;Laptop;9 Months
+1330;Basic;14;13/10/2022;05/07/2023;United States;47;Female;Smart TV;9 Months
+1331;Premium;12;15/10/2022;02/07/2023;United States;36;Male;Smartphone;9 Months
+1332;Basic;12;17/10/2022;04/07/2023;Canada;40;Female;Smartphone;9 Months
+1333;Standard;14;21/10/2022;04/07/2023;United Kingdom;51;Male;Tablet;9 Months
+1334;Premium;12;23/10/2022;05/07/2023;Australia;37;Male;Smart TV;9 Months
+1335;Basic;12;24/10/2022;06/07/2023;Germany;36;Male;Tablet;9 Months
+1336;Premium;12;28/10/2022;04/07/2023;France;45;Male;Tablet;8 Months
+1337;Basic;11;31/10/2022;04/07/2023;Brazil;31;Female;Tablet;8 Months
+1338;Standard;14;03/11/2022;04/07/2023;Mexico;45;Female;Laptop;8 Months
+1339;Standard;11;04/11/2022;05/07/2023;Spain;30;Male;Laptop;8 Months
+1340;Basic;14;05/11/2022;06/07/2023;Italy;40;Female;Smartphone;8 Months
+1341;Premium;14;06/11/2022;04/07/2023;Spain;44;Female;Smart TV;8 Months
+1342;Basic;12;01/11/2022;05/07/2023;Spain;36;Female;Laptop;8 Months
+1343;Standard;10;01/11/2022;05/07/2023;United States;36;Male;Tablet;8 Months
+1344;Premium;11;29/10/2022;05/07/2023;Canada;32;Female;Smartphone;8 Months
+1345;Basic;10;27/10/2022;03/07/2023;United States;46;Male;Smart TV;8 Months
+1346;Basic;12;16/10/2022;04/07/2023;United States;39;Female;Smart TV;9 Months
+1347;Basic;13;14/10/2022;04/07/2023;Canada;30;Male;Smart TV;9 Months
+1348;Standard;13;14/09/2022;05/07/2023;United Kingdom;34;Male;Laptop;10 Months
+1349;Premium;14;03/09/2022;03/07/2023;Australia;28;Male;Laptop;10 Months
+1350;Basic;13;27/08/2022;04/07/2023;Germany;39;Female;Smartphone;10 Months
+1351;Basic;12;27/08/2022;05/07/2023;France;34;Female;Laptop;10 Months
+1352;Premium;13;21/08/2022;05/07/2023;Brazil;42;Male;Laptop;11 Months
+1353;Standard;13;13/08/2022;02/07/2023;Mexico;29;Female;Tablet;11 Months
+1354;Standard;13;12/08/2022;04/07/2023;Spain;29;Male;Tablet;11 Months
+1355;Basic;12;24/07/2022;04/07/2023;Italy;30;Male;Tablet;12 Months
+1356;Premium;11;24/07/2022;04/07/2023;Spain;51;Male;Smartphone;12 Months
+1357;Standard;11;12/07/2022;02/07/2023;Spain;51;Male;Smart TV;12 Months
+1358;Basic;13;09/07/2022;04/07/2023;United States;44;Male;Tablet;12 Months
+1359;Standard;13;09/07/2022;05/07/2023;Canada;35;Male;Laptop;12 Months
+1360;Premium;10;10/07/2022;04/07/2023;United States;39;Male;Smart TV;12 Months
+1361;Basic;12;02/07/2022;02/07/2023;United States;41;Female;Laptop;12 Months
+1362;Premium;13;02/07/2022;04/07/2023;Canada;44;Female;Laptop;12 Months
+1363;Standard;11;01/07/2022;05/07/2023;United Kingdom;29;Male;Laptop;12 Months
+1364;Basic;14;01/07/2022;04/07/2023;Australia;47;Male;Tablet;12 Months
+1365;Standard;10;30/06/2022;02/07/2023;Germany;28;Female;Smartphone;12 Months
+1366;Premium;15;29/06/2022;04/07/2023;France;45;Male;Laptop;12 Months
+1367;Basic;11;26/06/2022;04/07/2023;Brazil;28;Female;Smartphone;12 Months
+1368;Standard;14;27/06/2022;03/07/2023;Mexico;31;Female;Laptop;12 Months
+1369;Premium;13;25/06/2022;03/07/2023;Spain;47;Female;Laptop;12 Months
+1370;Basic;13;23/06/2022;04/07/2023;Italy;42;Female;Tablet;13 Months
+1371;Premium;14;24/06/2022;04/07/2023;Spain;34;Female;Laptop;13 Months
+1372;Basic;12;25/06/2022;05/07/2023;Spain;40;Female;Laptop;13 Months
+1373;Standard;13;26/06/2022;04/07/2023;United States;42;Female;Laptop;12 Months
+1374;Standard;14;27/06/2022;07/07/2023;Canada;33;Male;Smart TV;13 Months
+1375;Basic;12;30/06/2022;03/07/2023;United States;30;Male;Laptop;12 Months
+1376;Premium;14;03/07/2022;05/07/2023;United States;29;Male;Tablet;12 Months
+1377;Basic;13;09/07/2022;04/07/2023;Canada;31;Male;Smart TV;12 Months
+1378;Standard;14;17/07/2022;06/07/2023;United Kingdom;46;Female;Smart TV;12 Months
+1379;Premium;11;22/07/2022;03/07/2023;Australia;46;Female;Smartphone;12 Months
+1380;Basic;11;28/07/2022;05/07/2023;Germany;47;Male;Laptop;11 Months
+1381;Premium;12;04/08/2022;04/07/2023;France;48;Female;Smart TV;11 Months
+1382;Basic;13;08/08/2022;06/07/2023;Brazil;32;Female;Smart TV;11 Months
+1383;Standard;13;13/08/2022;04/07/2023;Mexico;51;Female;Tablet;11 Months
+1384;Standard;13;17/08/2022;05/07/2023;Spain;33;Male;Smart TV;11 Months
+1385;Basic;15;20/08/2022;04/07/2023;Italy;43;Male;Smartphone;11 Months
+1386;Premium;14;28/08/2022;06/07/2023;Spain;43;Female;Smart TV;10 Months
+1387;Basic;13;29/08/2022;04/07/2023;Spain;42;Male;Smart TV;10 Months
+1388;Standard;15;03/09/2022;05/07/2023;United States;30;Male;Smartphone;10 Months
+1389;Premium;13;10/09/2022;03/07/2023;Canada;50;Male;Smartphone;10 Months
+1390;Basic;11;13/09/2022;05/07/2023;United States;51;Female;Laptop;10 Months
+1391;Premium;14;15/09/2022;04/07/2023;United States;36;Female;Tablet;10 Months
+1392;Basic;13;25/09/2022;06/07/2023;Canada;41;Female;Tablet;9 Months
+1393;Standard;10;01/10/2022;03/07/2023;United Kingdom;37;Male;Smart TV;9 Months
+1394;Standard;11;02/10/2022;04/07/2023;Australia;30;Female;Tablet;9 Months
+1395;Basic;11;05/10/2022;04/07/2023;Germany;50;Female;Tablet;9 Months
+1396;Premium;14;06/10/2022;05/07/2023;France;41;Female;Smart TV;9 Months
+1397;Basic;14;07/10/2022;03/07/2023;Brazil;29;Female;Laptop;9 Months
+1398;Standard;12;10/10/2022;04/07/2023;Mexico;43;Male;Smart TV;9 Months
+1399;Premium;12;12/10/2022;04/07/2023;Spain;31;Female;Smart TV;9 Months
+1400;Basic;14;15/10/2022;06/07/2023;Italy;40;Male;Laptop;9 Months
+1401;Premium;12;17/10/2022;05/07/2023;Spain;35;Female;Smart TV;9 Months
+1402;Basic;13;21/10/2022;04/07/2023;Spain;39;Female;Laptop;9 Months
+1403;Standard;14;23/10/2022;05/07/2023;United States;48;Male;Laptop;9 Months
+1404;Standard;14;24/10/2022;05/07/2023;Canada;42;Female;Tablet;8 Months
+1405;Basic;11;27/10/2022;06/07/2023;United States;48;Female;Smart TV;8 Months
+1406;Premium;10;30/10/2022;07/07/2023;United States;33;Female;Smart TV;8 Months
+1407;Basic;14;31/10/2022;04/07/2023;Canada;45;Female;Smart TV;8 Months
+1408;Standard;14;03/11/2022;04/07/2023;United Kingdom;40;Female;Smart TV;8 Months
+1409;Premium;15;05/11/2022;06/07/2023;Australia;38;Male;Tablet;8 Months
+1410;Basic;14;06/11/2022;06/07/2023;Germany;31;Female;Tablet;8 Months
+1411;Premium;14;01/11/2022;04/07/2023;France;33;Female;Smart TV;8 Months
+1412;Basic;15;02/11/2022;05/07/2023;Brazil;27;Male;Laptop;8 Months
+1413;Standard;13;02/11/2022;05/07/2023;Mexico;47;Male;Smartphone;8 Months
+1414;Standard;15;01/11/2022;06/07/2023;Spain;41;Male;Tablet;8 Months
+1415;Basic;11;17/10/2022;03/07/2023;Italy;32;Female;Smart TV;9 Months
+1416;Premium;11;18/10/2022;05/07/2023;Spain;31;Male;Smart TV;9 Months
+1417;Basic;13;28/09/2022;05/07/2023;Spain;43;Female;Tablet;9 Months
+1418;Standard;15;23/09/2022;05/07/2023;United States;42;Female;Smart TV;10 Months
+1419;Premium;15;22/09/2022;03/07/2023;Canada;46;Male;Smartphone;9 Months
+1420;Basic;12;31/08/2022;04/07/2023;United States;27;Female;Smartphone;10 Months
+1421;Basic;15;28/08/2022;05/07/2023;United States;48;Female;Smart TV;10 Months
+1422;Basic;15;27/08/2022;05/07/2023;Canada;49;Male;Laptop;10 Months
+1423;Standard;12;17/08/2022;03/07/2023;United Kingdom;43;Male;Smart TV;11 Months
+1424;Premium;14;09/08/2022;04/07/2023;Australia;38;Male;Laptop;11 Months
+1425;Basic;13;24/07/2022;05/07/2023;Germany;37;Male;Smartphone;12 Months
+1426;Basic;12;16/07/2022;04/07/2023;France;39;Female;Smart TV;12 Months
+1427;Premium;10;15/07/2022;03/07/2023;Brazil;40;Male;Tablet;12 Months
+1428;Standard;12;12/07/2022;05/07/2023;Mexico;40;Male;Smart TV;12 Months
+1429;Standard;12;12/07/2022;06/07/2023;Spain;48;Male;Laptop;12 Months
+1430;Basic;13;09/07/2022;05/07/2023;Italy;43;Female;Smart TV;12 Months
+1431;Premium;10;05/07/2022;02/07/2023;Spain;46;Male;Laptop;12 Months
+1432;Standard;11;05/07/2022;05/07/2023;Spain;43;Male;Smartphone;12 Months
+1433;Basic;10;03/07/2022;05/07/2023;United States;30;Female;Tablet;12 Months
+1434;Standard;13;01/07/2022;04/07/2023;Canada;51;Female;Laptop;12 Months
+1435;Premium;12;30/06/2022;03/07/2023;United States;30;Male;Smartphone;12 Months
+1436;Basic;14;27/06/2022;04/07/2023;United States;47;Female;Smart TV;12 Months
+1437;Premium;13;28/06/2022;04/07/2023;Canada;41;Male;Laptop;12 Months
+1438;Standard;10;28/06/2022;05/07/2023;United Kingdom;45;Female;Smartphone;12 Months
+1439;Basic;14;24/06/2022;04/07/2023;Australia;47;Female;Laptop;13 Months
+1440;Standard;11;24/06/2022;05/07/2023;Germany;48;Female;Smart TV;13 Months
+1441;Premium;11;25/06/2022;04/07/2023;France;51;Female;Tablet;12 Months
+1442;Basic;10;26/06/2022;06/07/2023;Brazil;29;Male;Smart TV;13 Months
+1443;Standard;13;27/06/2022;05/07/2023;Mexico;43;Female;Laptop;12 Months
+1444;Premium;13;29/06/2022;07/07/2023;Spain;49;Female;Tablet;12 Months
+1445;Basic;11;02/07/2022;03/07/2023;Italy;37;Male;Smartphone;12 Months
+1446;Premium;13;07/07/2022;05/07/2023;Spain;48;Male;Tablet;12 Months
+1447;Basic;11;13/07/2022;05/07/2023;Spain;36;Female;Tablet;12 Months
+1448;Standard;14;18/07/2022;07/07/2023;United States;33;Female;Laptop;12 Months
+1449;Standard;14;24/07/2022;04/07/2023;Canada;38;Female;Laptop;12 Months
+1450;Basic;12;31/07/2022;06/07/2023;United States;42;Female;Smartphone;11 Months
+1451;Premium;15;01/08/2022;05/07/2023;United States;30;Female;Tablet;11 Months
+1452;Basic;10;08/08/2022;06/07/2023;Canada;39;Male;Smart TV;11 Months
+1453;Standard;14;13/08/2022;04/07/2023;United Kingdom;36;Male;Smartphone;11 Months
+1454;Premium;11;14/08/2022;06/07/2023;Australia;27;Female;Smartphone;11 Months
+1455;Basic;11;23/08/2022;04/07/2023;Germany;49;Male;Smart TV;11 Months
+1456;Premium;14;27/08/2022;06/07/2023;France;31;Male;Laptop;10 Months
+1457;Basic;10;31/08/2022;05/07/2023;Brazil;36;Male;Laptop;10 Months
+1458;Standard;14;09/09/2022;06/07/2023;Mexico;41;Female;Tablet;10 Months
+1459;Standard;10;10/09/2022;04/07/2023;Spain;45;Female;Laptop;10 Months
+1460;Basic;14;12/09/2022;05/07/2023;Italy;45;Male;Smart TV;10 Months
+1461;Premium;11;17/09/2022;05/07/2023;Spain;32;Male;Smart TV;10 Months
+1462;Basic;13;21/09/2022;06/07/2023;Spain;41;Female;Smartphone;10 Months
+1463;Standard;11;02/10/2022;03/07/2023;United States;37;Male;Smart TV;9 Months
+1464;Premium;10;04/10/2022;05/07/2023;Canada;27;Male;Laptop;9 Months
+1465;Basic;14;06/10/2022;04/07/2023;United States;41;Male;Laptop;9 Months
+1466;Premium;13;07/10/2022;06/07/2023;United States;30;Female;Smart TV;9 Months
+1467;Basic;12;08/10/2022;04/07/2023;Canada;43;Male;Smartphone;9 Months
+1468;Standard;12;11/10/2022;05/07/2023;United Kingdom;51;Male;Laptop;9 Months
+1469;Standard;12;13/10/2022;04/07/2023;Australia;46;Female;Smart TV;9 Months
+1470;Basic;10;15/10/2022;06/07/2023;Germany;27;Female;Tablet;9 Months
+1471;Premium;10;19/10/2022;06/07/2023;France;51;Female;Smartphone;9 Months
+1472;Basic;14;21/10/2022;06/07/2023;Brazil;28;Female;Laptop;9 Months
+1473;Standard;14;23/10/2022;05/07/2023;Mexico;33;Male;Smartphone;9 Months
+1474;Premium;12;26/10/2022;05/07/2023;Spain;31;Female;Laptop;8 Months
+1475;Basic;13;27/10/2022;06/07/2023;Italy;47;Male;Laptop;8 Months
+1476;Premium;10;31/10/2022;07/07/2023;Spain;45;Female;Tablet;8 Months
+1477;Basic;13;03/11/2022;05/07/2023;Spain;42;Male;Smart TV;8 Months
+1478;Standard;15;05/11/2022;06/07/2023;United States;47;Female;Smart TV;8 Months
+1479;Standard;12;06/11/2022;06/07/2023;Canada;29;Female;Smart TV;8 Months
+1480;Basic;13;03/11/2022;07/07/2023;United States;49;Female;Laptop;8 Months
+1481;Premium;14;03/11/2022;04/07/2023;United States;41;Female;Laptop;8 Months
+1482;Basic;13;04/11/2022;05/07/2023;Canada;45;Male;Smartphone;8 Months
+1483;Standard;14;02/11/2022;06/07/2023;United Kingdom;49;Male;Smart TV;8 Months
+1484;Premium;13;27/10/2022;06/07/2023;Australia;41;Male;Smart TV;8 Months
+1485;Basic;15;27/10/2022;04/07/2023;Germany;37;Male;Laptop;8 Months
+1486;Premium;14;15/10/2022;05/07/2023;France;31;Male;Smartphone;9 Months
+1487;Basic;13;03/10/2022;05/07/2023;Brazil;29;Male;Smartphone;9 Months
+1488;Standard;10;25/09/2022;05/07/2023;Mexico;51;Female;Smart TV;9 Months
+1489;Standard;12;16/09/2022;03/07/2023;Spain;33;Male;Smart TV;10 Months
+1490;Basic;12;14/09/2022;04/07/2023;Italy;31;Male;Smartphone;10 Months
+1491;Premium;11;11/09/2022;05/07/2023;Spain;42;Female;Laptop;10 Months
+1492;Basic;15;09/09/2022;05/07/2023;Spain;48;Female;Laptop;10 Months
+1493;Standard;13;12/08/2022;03/07/2023;United States;37;Female;Laptop;11 Months
+1494;Premium;13;04/08/2022;06/07/2023;Canada;51;Female;Smartphone;11 Months
+1495;Basic;12;04/08/2022;06/07/2023;United States;29;Female;Tablet;11 Months
+1496;Basic;13;31/07/2022;05/07/2023;United States;46;Male;Tablet;11 Months
+1497;Basic;15;29/07/2022;03/07/2023;Canada;35;Male;Smart TV;11 Months
+1498;Standard;15;14/07/2022;05/07/2023;United Kingdom;44;Female;Smartphone;12 Months
+1499;Premium;12;13/07/2022;06/07/2023;Australia;36;Male;Smart TV;12 Months
+1500;Basic;14;11/07/2022;05/07/2023;Germany;38;Female;Tablet;12 Months
+1501;Basic;12;12/07/2022;03/07/2023;France;36;Male;Smart TV;12 Months
+1502;Premium;14;11/07/2022;05/07/2023;Brazil;40;Female;Laptop;12 Months
+1503;Standard;10;02/07/2022;05/07/2023;Mexico;29;Male;Laptop;12 Months
+1504;Standard;11;30/06/2022;06/07/2023;Spain;32;Male;Smart TV;12 Months
+1505;Basic;12;30/06/2022;05/07/2023;Italy;30;Male;Laptop;12 Months
+1506;Premium;10;29/06/2022;05/07/2023;Spain;47;Male;Smartphone;12 Months
+1507;Standard;15;30/06/2022;04/07/2023;Spain;28;Female;Tablet;12 Months
+1508;Basic;11;24/06/2022;05/07/2023;United States;49;Male;Laptop;13 Months
+1509;Standard;12;25/06/2022;04/07/2023;Canada;50;Male;Smartphone;12 Months
+1510;Premium;11;25/06/2022;07/07/2023;United States;33;Male;Smart TV;13 Months
+1511;Basic;13;26/06/2022;04/07/2023;United States;50;Male;Smart TV;12 Months
+1512;Premium;10;27/06/2022;06/07/2023;Canada;28;Female;Smart TV;12 Months
+1513;Standard;12;29/06/2022;06/07/2023;United Kingdom;41;Male;Smartphone;12 Months
+1514;Basic;12;01/07/2022;07/07/2023;Australia;30;Female;Smartphone;12 Months
+1515;Standard;10;03/07/2022;04/07/2023;Germany;32;Male;Smart TV;12 Months
+1516;Premium;15;12/07/2022;07/07/2023;France;50;Male;Laptop;12 Months
+1517;Basic;11;15/07/2022;05/07/2023;Brazil;28;Female;Smart TV;12 Months
+1518;Standard;13;19/07/2022;07/07/2023;Mexico;45;Male;Smart TV;12 Months
+1519;Premium;14;27/07/2022;05/07/2023;Spain;31;Male;Tablet;11 Months
+1520;Basic;11;29/07/2022;06/07/2023;Italy;27;Female;Smartphone;11 Months
+1521;Premium;11;06/08/2022;05/07/2023;Spain;49;Male;Tablet;11 Months
+1522;Basic;10;13/08/2022;06/07/2023;Spain;32;Female;Laptop;11 Months
+1523;Standard;13;14/08/2022;05/07/2023;United States;38;Male;Smart TV;11 Months
+1524;Standard;11;20/08/2022;07/07/2023;Canada;39;Male;Smartphone;11 Months
+1525;Basic;14;24/08/2022;04/07/2023;United States;50;Female;Tablet;10 Months
+1526;Premium;10;28/08/2022;06/07/2023;United States;51;Male;Tablet;10 Months
+1527;Basic;15;05/09/2022;05/07/2023;Canada;32;Female;Smart TV;10 Months
+1528;Standard;12;10/09/2022;07/07/2023;United Kingdom;45;Female;Smart TV;10 Months
+1529;Premium;12;11/09/2022;04/07/2023;Australia;31;Female;Laptop;10 Months
+1530;Basic;12;14/09/2022;06/07/2023;Germany;44;Male;Smartphone;10 Months
+1531;Premium;12;21/09/2022;05/07/2023;France;30;Female;Tablet;10 Months
+1532;Basic;13;26/09/2022;07/07/2023;Brazil;44;Female;Tablet;9 Months
+1533;Standard;10;30/09/2022;03/07/2023;Mexico;37;Male;Tablet;9 Months
+1534;Standard;14;02/10/2022;06/07/2023;Spain;30;Female;Tablet;9 Months
+1535;Basic;12;06/10/2022;05/07/2023;Italy;31;Female;Smart TV;9 Months
+1536;Premium;15;07/10/2022;06/07/2023;Spain;31;Female;Laptop;9 Months
+1537;Basic;15;09/10/2022;06/07/2023;Spain;44;Male;Tablet;9 Months
+1538;Standard;10;11/10/2022;05/07/2023;United States;44;Female;Smart TV;9 Months
+1539;Premium;14;12/10/2022;05/07/2023;Canada;34;Male;Laptop;9 Months
+1540;Basic;12;16/10/2022;06/07/2023;United States;42;Male;Laptop;9 Months
+1541;Premium;15;17/10/2022;07/07/2023;United States;33;Male;Smartphone;9 Months
+1542;Basic;11;21/10/2022;07/07/2023;Canada;35;Male;Smart TV;9 Months
+1543;Standard;15;23/10/2022;06/07/2023;United Kingdom;34;Female;Laptop;9 Months
+1544;Standard;14;25/10/2022;05/07/2023;Australia;47;Male;Tablet;8 Months
+1545;Basic;13;27/10/2022;06/07/2023;Germany;43;Female;Laptop;8 Months
+1546;Premium;13;29/10/2022;08/07/2023;France;43;Male;Smart TV;8 Months
+1547;Basic;13;01/11/2022;05/07/2023;Brazil;35;Female;Smartphone;8 Months
+1548;Standard;13;04/11/2022;06/07/2023;Mexico;39;Male;Tablet;8 Months
+1549;Premium;10;04/11/2022;06/07/2023;Spain;39;Male;Tablet;8 Months
+1550;Basic;11;04/11/2022;07/07/2023;Italy;49;Female;Smart TV;8 Months
+1551;Premium;14;05/11/2022;04/07/2023;Spain;30;Male;Tablet;8 Months
+1552;Basic;12;02/11/2022;05/07/2023;Spain;31;Female;Tablet;8 Months
+1553;Standard;12;03/11/2022;06/07/2023;United States;39;Male;Tablet;8 Months
+1554;Standard;14;30/10/2022;06/07/2023;Canada;30;Female;Laptop;8 Months
+1555;Basic;13;31/10/2022;04/07/2023;United States;43;Female;Smartphone;8 Months
+1556;Premium;10;14/10/2022;05/07/2023;United States;29;Female;Smartphone;9 Months
+1557;Basic;14;26/09/2022;05/07/2023;Canada;46;Male;Smart TV;9 Months
+1558;Standard;15;17/09/2022;06/07/2023;United Kingdom;35;Male;Smartphone;10 Months
+1559;Premium;12;16/09/2022;03/07/2023;Australia;30;Male;Tablet;10 Months
+1560;Basic;12;12/09/2022;07/07/2023;Germany;39;Female;Smart TV;10 Months
+1561;Premium;14;12/09/2022;06/07/2023;France;41;Male;Laptop;10 Months
+1562;Basic;12;29/08/2022;05/07/2023;Brazil;27;Male;Smartphone;10 Months
+1563;Standard;15;25/08/2022;03/07/2023;Mexico;42;Male;Laptop;10 Months
+1564;Standard;11;15/08/2022;06/07/2023;Spain;45;Female;Tablet;11 Months
+1565;Basic;10;11/08/2022;07/07/2023;Italy;36;Female;Smart TV;11 Months
+1566;Premium;12;10/08/2022;06/07/2023;Spain;35;Male;Laptop;11 Months
+1567;Basic;13;26/07/2022;04/07/2023;Spain;38;Male;Smartphone;11 Months
+1568;Standard;14;19/07/2022;06/07/2023;United States;41;Female;Smart TV;12 Months
+1569;Premium;10;17/07/2022;06/07/2023;Canada;43;Male;Tablet;12 Months
+1570;Basic;13;17/07/2022;06/07/2023;United States;44;Male;Tablet;12 Months
+1571;Basic;10;17/07/2022;04/07/2023;United States;35;Male;Tablet;12 Months
+1572;Basic;13;11/07/2022;06/07/2023;Canada;39;Male;Laptop;12 Months
+1573;Standard;15;07/07/2022;05/07/2023;United Kingdom;43;Male;Smart TV;12 Months
+1574;Premium;10;07/07/2022;06/07/2023;Australia;36;Male;Smart TV;12 Months
+1575;Basic;11;08/07/2022;05/07/2023;Germany;49;Female;Laptop;12 Months
+1576;Basic;12;06/07/2022;08/07/2023;France;29;Female;Smartphone;12 Months
+1577;Premium;10;03/07/2022;04/07/2023;Brazil;45;Male;Tablet;12 Months
+1578;Standard;11;30/06/2022;06/07/2023;Mexico;44;Female;Laptop;12 Months
+1579;Standard;11;27/06/2022;04/07/2023;Spain;40;Female;Smart TV;12 Months
+1580;Basic;15;26/06/2022;08/07/2023;Italy;51;Female;Smart TV;13 Months
+1581;Premium;15;27/06/2022;05/07/2023;Spain;30;Female;Smart TV;12 Months
+1582;Standard;14;28/06/2022;08/07/2023;Spain;50;Male;Smart TV;13 Months
+1583;Basic;12;30/06/2022;06/07/2023;United States;39;Male;Tablet;12 Months
+1584;Standard;11;02/07/2022;07/07/2023;Canada;51;Male;Tablet;12 Months
+1585;Premium;10;05/07/2022;05/07/2023;United States;42;Male;Laptop;12 Months
+1586;Basic;12;11/07/2022;07/07/2023;United States;34;Female;Tablet;12 Months
+1587;Premium;12;18/07/2022;06/07/2023;Canada;28;Male;Tablet;12 Months
+1588;Standard;15;25/07/2022;07/07/2023;United Kingdom;43;Male;Tablet;12 Months
+1589;Basic;11;28/07/2022;06/07/2023;Australia;27;Female;Tablet;11 Months
+1590;Standard;13;05/08/2022;08/07/2023;Germany;49;Female;Smart TV;11 Months
+1591;Premium;14;09/08/2022;05/07/2023;France;35;Female;Laptop;11 Months
+1592;Basic;10;14/08/2022;06/07/2023;Brazil;34;Male;Tablet;11 Months
+1593;Standard;14;15/08/2022;05/07/2023;Mexico;28;Male;Smartphone;11 Months
+1594;Premium;15;16/08/2022;07/07/2023;Spain;49;Female;Tablet;11 Months
+1595;Basic;12;25/08/2022;04/07/2023;Italy;51;Female;Tablet;10 Months
+1596;Premium;13;27/08/2022;06/07/2023;Spain;36;Male;Laptop;10 Months
+1597;Basic;13;06/09/2022;06/07/2023;Spain;37;Male;Smart TV;10 Months
+1598;Standard;11;08/09/2022;07/07/2023;United States;48;Male;Laptop;10 Months
+1599;Standard;13;13/09/2022;04/07/2023;Canada;45;Female;Smart TV;10 Months
+1600;Basic;11;15/09/2022;06/07/2023;United States;39;Male;Tablet;10 Months
+1601;Premium;14;19/09/2022;05/07/2023;United States;39;Male;Smartphone;10 Months
+1602;Basic;15;22/09/2022;07/07/2023;Canada;46;Female;Smart TV;10 Months
+1603;Standard;13;24/09/2022;06/07/2023;United Kingdom;30;Female;Smartphone;10 Months
+1604;Premium;10;30/09/2022;06/07/2023;Australia;32;Female;Smartphone;9 Months
+1605;Basic;11;03/10/2022;05/07/2023;Germany;39;Male;Laptop;9 Months
+1606;Premium;15;08/10/2022;07/07/2023;France;35;Female;Smartphone;9 Months
+1607;Basic;15;09/10/2022;07/07/2023;Brazil;41;Female;Smartphone;9 Months
+1608;Standard;11;12/10/2022;08/07/2023;Mexico;32;Female;Smart TV;9 Months
+1609;Standard;14;15/10/2022;06/07/2023;Spain;41;Female;Smart TV;9 Months
+1610;Basic;14;17/10/2022;06/07/2023;Italy;36;Female;Smart TV;9 Months
+1611;Premium;15;19/10/2022;07/07/2023;Spain;49;Male;Laptop;9 Months
+1612;Basic;11;22/10/2022;09/07/2023;Spain;30;Female;Smartphone;9 Months
+1613;Standard;15;23/10/2022;06/07/2023;United States;40;Female;Smartphone;9 Months
+1614;Premium;13;27/10/2022;07/07/2023;Canada;46;Female;Tablet;8 Months
+1615;Basic;11;28/10/2022;06/07/2023;United States;30;Female;Smart TV;8 Months
+1616;Premium;10;01/11/2022;08/07/2023;United States;48;Male;Laptop;8 Months
+1617;Basic;11;04/11/2022;05/07/2023;Canada;50;Male;Tablet;8 Months
+1618;Standard;11;05/11/2022;06/07/2023;United Kingdom;27;Male;Smart TV;8 Months
+1619;Standard;14;04/11/2022;07/07/2023;Australia;51;Female;Laptop;8 Months
+1620;Basic;11;05/11/2022;07/07/2023;Germany;38;Male;Smartphone;8 Months
+1621;Premium;10;04/11/2022;05/07/2023;France;39;Male;Laptop;8 Months
+1622;Basic;12;05/11/2022;05/07/2023;Brazil;45;Female;Smart TV;8 Months
+1623;Standard;12;03/11/2022;06/07/2023;Mexico;29;Male;Laptop;8 Months
+1624;Premium;13;31/10/2022;07/07/2023;Spain;35;Male;Smartphone;8 Months
+1625;Basic;10;26/10/2022;04/07/2023;Italy;51;Female;Smart TV;8 Months
+1626;Premium;11;16/10/2022;06/07/2023;Spain;51;Male;Smart TV;9 Months
+1627;Basic;15;16/10/2022;07/07/2023;Spain;42;Female;Smartphone;9 Months
+1628;Standard;13;17/09/2022;06/07/2023;United States;48;Female;Laptop;10 Months
+1629;Standard;14;12/09/2022;04/07/2023;Canada;40;Male;Smart TV;10 Months
+1630;Basic;13;13/09/2022;07/07/2023;United States;39;Male;Smart TV;10 Months
+1631;Premium;14;09/09/2022;07/07/2023;United States;44;Male;Laptop;10 Months
+1632;Basic;14;03/09/2022;06/07/2023;Canada;27;Female;Laptop;10 Months
+1633;Standard;11;31/08/2022;05/07/2023;United Kingdom;35;Male;Tablet;10 Months
+1634;Premium;14;25/08/2022;07/07/2023;Australia;45;Male;Smart TV;11 Months
+1635;Basic;12;15/08/2022;07/07/2023;Germany;33;Male;Tablet;11 Months
+1636;Premium;10;16/08/2022;07/07/2023;France;32;Female;Smart TV;11 Months
+1637;Basic;11;28/07/2022;05/07/2023;Brazil;51;Female;Laptop;11 Months
+1638;Standard;10;28/07/2022;06/07/2023;Mexico;40;Female;Tablet;11 Months
+1639;Standard;15;22/07/2022;06/07/2023;Spain;47;Male;Laptop;12 Months
+1640;Basic;13;19/07/2022;06/07/2023;Italy;42;Male;Smart TV;12 Months
+1641;Premium;10;16/07/2022;06/07/2023;Spain;41;Male;Tablet;12 Months
+1642;Basic;12;15/07/2022;09/07/2023;Spain;43;Male;Tablet;12 Months
+1643;Standard;11;16/07/2022;05/07/2023;United States;42;Female;Tablet;12 Months
+1644;Premium;14;09/07/2022;06/07/2023;Canada;28;Male;Smartphone;12 Months
+1645;Basic;12;07/07/2022;05/07/2023;United States;40;Female;Laptop;12 Months
+1646;Basic;15;07/07/2022;09/07/2023;United States;46;Female;Tablet;12 Months
+1647;Basic;11;06/07/2022;05/07/2023;Canada;39;Female;Laptop;12 Months
+1648;Standard;15;30/06/2022;06/07/2023;United Kingdom;41;Female;Smartphone;12 Months
+1649;Premium;15;27/06/2022;05/07/2023;Australia;30;Male;Tablet;12 Months
+1650;Basic;14;28/06/2022;08/07/2023;Germany;32;Male;Tablet;13 Months
+1651;Basic;14;28/06/2022;06/07/2023;France;38;Male;Smart TV;12 Months
+1652;Premium;11;29/06/2022;08/07/2023;Brazil;38;Male;Tablet;12 Months
+1653;Standard;13;01/07/2022;06/07/2023;Mexico;32;Male;Smartphone;12 Months
+1654;Standard;14;03/07/2022;07/07/2023;Spain;27;Male;Tablet;12 Months
+1655;Basic;15;04/07/2022;06/07/2023;Italy;50;Female;Tablet;12 Months
+1656;Premium;10;10/07/2022;07/07/2023;Spain;30;Male;Smartphone;12 Months
+1657;Standard;11;23/07/2022;06/07/2023;Spain;49;Male;Smartphone;12 Months
+1658;Basic;11;24/07/2022;07/07/2023;United States;32;Female;Laptop;12 Months
+1659;Standard;14;26/07/2022;06/07/2023;Canada;35;Male;Smartphone;12 Months
+1660;Premium;12;07/08/2022;08/07/2023;United States;44;Male;Tablet;11 Months
+1661;Basic;13;10/08/2022;05/07/2023;United States;49;Female;Laptop;11 Months
+1662;Premium;13;14/08/2022;06/07/2023;Canada;39;Male;Smartphone;11 Months
+1663;Standard;12;16/08/2022;06/07/2023;United Kingdom;38;Female;Smartphone;11 Months
+1664;Basic;10;20/08/2022;08/07/2023;Australia;38;Female;Laptop;11 Months
+1665;Standard;11;25/08/2022;05/07/2023;Germany;37;Male;Smartphone;10 Months
+1666;Premium;11;28/08/2022;07/07/2023;France;28;Male;Laptop;10 Months
+1667;Basic;11;05/09/2022;06/07/2023;Brazil;49;Male;Tablet;10 Months
+1668;Standard;13;08/09/2022;08/07/2023;Mexico;33;Female;Tablet;10 Months
+1669;Premium;10;14/09/2022;05/07/2023;Spain;48;Male;Tablet;10 Months
+1670;Basic;13;16/09/2022;06/07/2023;Italy;34;Male;Tablet;10 Months
+1671;Premium;13;19/09/2022;06/07/2023;Spain;39;Female;Smartphone;10 Months
+1672;Basic;15;23/09/2022;07/07/2023;Spain;30;Male;Tablet;10 Months
+1673;Standard;10;29/09/2022;07/07/2023;United States;37;Male;Tablet;9 Months
+1674;Standard;10;02/10/2022;06/07/2023;Canada;38;Male;Smart TV;9 Months
+1675;Basic;12;08/10/2022;05/07/2023;United States;42;Female;Laptop;9 Months
+1676;Premium;15;09/10/2022;07/07/2023;United States;35;Female;Laptop;9 Months
+1677;Basic;14;11/10/2022;08/07/2023;Canada;30;Male;Tablet;9 Months
+1678;Standard;15;14/10/2022;09/07/2023;United Kingdom;48;Female;Smart TV;9 Months
+1679;Premium;14;16/10/2022;06/07/2023;Australia;48;Male;Tablet;9 Months
+1680;Basic;13;18/10/2022;07/07/2023;Germany;32;Male;Laptop;9 Months
+1681;Premium;15;22/10/2022;07/07/2023;France;27;Male;Smart TV;9 Months
+1682;Basic;10;23/10/2022;09/07/2023;Brazil;48;Female;Laptop;9 Months
+1683;Standard;12;26/10/2022;06/07/2023;Mexico;33;Male;Laptop;8 Months
+1684;Standard;13;27/10/2022;07/07/2023;Spain;28;Male;Smartphone;8 Months
+1685;Basic;15;31/10/2022;07/07/2023;Italy;46;Male;Laptop;8 Months
+1686;Premium;11;01/11/2022;08/07/2023;Spain;40;Male;Laptop;8 Months
+1687;Basic;13;03/11/2022;05/07/2023;Spain;49;Male;Smartphone;8 Months
+1688;Standard;14;04/11/2022;06/07/2023;United States;41;Female;Tablet;8 Months
+1689;Premium;13;05/11/2022;07/07/2023;Canada;38;Male;Tablet;8 Months
+1690;Basic;13;05/11/2022;07/07/2023;United States;42;Female;Laptop;8 Months
+1691;Premium;13;05/11/2022;05/07/2023;United States;27;Female;Smart TV;8 Months
+1692;Basic;12;05/11/2022;06/07/2023;Canada;41;Female;Tablet;8 Months
+1693;Standard;13;03/11/2022;07/07/2023;United Kingdom;41;Female;Tablet;8 Months
+1694;Standard;11;27/10/2022;07/07/2023;Australia;49;Male;Laptop;8 Months
+1695;Basic;14;24/10/2022;04/07/2023;Germany;28;Female;Smartphone;8 Months
+1696;Premium;13;17/10/2022;07/07/2023;France;44;Male;Laptop;9 Months
+1697;Basic;11;06/10/2022;07/07/2023;Brazil;47;Female;Tablet;9 Months
+1698;Standard;12;18/09/2022;06/07/2023;Mexico;29;Male;Tablet;10 Months
+1699;Premium;10;17/09/2022;04/07/2023;Spain;31;Female;Laptop;10 Months
+1700;Basic;12;13/09/2022;08/07/2023;Italy;28;Female;Smart TV;10 Months
+1701;Premium;15;09/09/2022;07/07/2023;Spain;32;Male;Smart TV;10 Months
+1702;Basic;12;02/09/2022;07/07/2023;Spain;43;Male;Smartphone;10 Months
+1703;Standard;13;01/09/2022;06/07/2023;United States;48;Male;Smart TV;10 Months
+1704;Standard;10;16/08/2022;07/07/2023;Canada;28;Male;Laptop;11 Months
+1705;Basic;14;17/08/2022;07/07/2023;United States;31;Female;Tablet;11 Months
+1706;Premium;15;29/07/2022;07/07/2023;United States;47;Male;Laptop;11 Months
+1707;Basic;13;28/07/2022;06/07/2023;Canada;39;Female;Smartphone;11 Months
+1708;Standard;13;25/07/2022;07/07/2023;United Kingdom;35;Male;Smartphone;12 Months
+1709;Premium;10;26/07/2022;06/07/2023;Australia;42;Female;Smartphone;12 Months
+1710;Basic;11;17/07/2022;07/07/2023;Germany;30;Male;Smart TV;12 Months
+1711;Premium;14;16/07/2022;06/07/2023;France;34;Male;Smartphone;12 Months
+1712;Basic;11;17/07/2022;09/07/2023;Brazil;35;Male;Smartphone;12 Months
+1713;Standard;12;16/07/2022;06/07/2023;Mexico;31;Female;Tablet;12 Months
+1714;Standard;14;16/07/2022;07/07/2023;Spain;36;Female;Tablet;12 Months
+1715;Basic;14;12/07/2022;06/07/2023;Italy;31;Female;Laptop;12 Months
+1716;Premium;11;10/07/2022;09/07/2023;Spain;32;Male;Smart TV;12 Months
+1717;Basic;10;08/07/2022;07/07/2023;Spain;46;Female;Smartphone;12 Months
+1718;Standard;15;29/06/2022;07/07/2023;United States;30;Male;Tablet;12 Months
+1719;Premium;12;29/06/2022;06/07/2023;Canada;46;Male;Laptop;12 Months
+1720;Basic;12;28/06/2022;08/07/2023;United States;44;Female;Tablet;13 Months
+1721;Basic;12;29/06/2022;06/07/2023;United States;34;Male;Tablet;12 Months
+1722;Basic;13;01/07/2022;08/07/2023;Canada;31;Male;Tablet;12 Months
+1723;Standard;13;02/07/2022;06/07/2023;United Kingdom;34;Male;Smart TV;12 Months
+1724;Premium;12;04/07/2022;08/07/2023;Australia;28;Male;Laptop;12 Months
+1725;Basic;10;08/07/2022;07/07/2023;Germany;36;Female;Smartphone;12 Months
+1726;Basic;14;20/07/2022;09/07/2023;France;48;Female;Laptop;12 Months
+1727;Premium;13;23/07/2022;06/07/2023;Brazil;40;Male;Smartphone;12 Months
+1728;Standard;15;26/07/2022;07/07/2023;Mexico;35;Male;Smartphone;12 Months
+1729;Standard;11;30/07/2022;07/07/2023;Spain;41;Male;Laptop;11 Months
+1730;Basic;10;08/08/2022;08/07/2023;Italy;28;Female;Smartphone;11 Months
+1731;Premium;12;13/08/2022;05/07/2023;Spain;37;Male;Tablet;11 Months
+1732;Standard;12;14/08/2022;07/07/2023;Spain;33;Male;Smartphone;11 Months
+1733;Basic;15;16/08/2022;06/07/2023;United States;27;Female;Tablet;11 Months
+1734;Standard;14;19/08/2022;08/07/2023;Canada;35;Male;Tablet;11 Months
+1735;Premium;10;27/08/2022;06/07/2023;United States;27;Male;Smartphone;10 Months
+1736;Basic;15;04/09/2022;07/07/2023;United States;29;Female;Smartphone;10 Months
+1737;Premium;12;05/09/2022;06/07/2023;Canada;28;Female;Laptop;10 Months
+1738;Standard;12;13/09/2022;08/07/2023;United Kingdom;33;Female;Smartphone;10 Months
+1739;Basic;10;16/09/2022;05/07/2023;Australia;35;Female;Smartphone;10 Months
+1740;Standard;15;18/09/2022;06/07/2023;Germany;37;Female;Laptop;10 Months
+1741;Premium;12;20/09/2022;06/07/2023;France;31;Male;Smartphone;10 Months
+1742;Basic;13;29/09/2022;07/07/2023;Brazil;27;Male;Laptop;9 Months
+1743;Standard;11;30/09/2022;08/07/2023;Mexico;48;Male;Tablet;9 Months
+1744;Premium;15;04/10/2022;10/07/2023;Spain;30;Female;Smart TV;9 Months
+1745;Basic;14;08/10/2022;07/07/2023;Italy;45;Male;Tablet;9 Months
+1746;Premium;14;10/10/2022;07/07/2023;Spain;28;Male;Smart TV;9 Months
+1747;Basic;12;12/10/2022;08/07/2023;Spain;30;Female;Laptop;9 Months
+1748;Standard;15;14/10/2022;10/07/2023;United States;48;Male;Smartphone;9 Months
+1749;Standard;10;16/10/2022;07/07/2023;Canada;37;Female;Laptop;9 Months
+1750;Basic;15;21/10/2022;07/07/2023;United States;28;Female;Smartphone;9 Months
+1751;Premium;14;23/10/2022;07/07/2023;United States;43;Female;Tablet;9 Months
+1752;Basic;10;25/10/2022;09/07/2023;Canada;36;Male;Laptop;9 Months
+1753;Standard;15;26/10/2022;06/07/2023;United Kingdom;47;Male;Laptop;8 Months
+1754;Premium;10;29/10/2022;07/07/2023;Australia;42;Male;Smart TV;8 Months
+1755;Basic;15;31/10/2022;07/07/2023;Germany;50;Male;Laptop;8 Months
+1756;Premium;13;02/11/2022;08/07/2023;France;41;Male;Tablet;8 Months
+1757;Basic;13;03/11/2022;05/07/2023;Brazil;43;Male;Laptop;8 Months
+1758;Standard;13;05/11/2022;07/07/2023;Mexico;35;Male;Laptop;8 Months
+1759;Standard;10;06/11/2022;07/07/2023;Spain;51;Male;Smart TV;8 Months
+1760;Basic;15;06/11/2022;07/07/2023;Italy;35;Male;Tablet;8 Months
+1761;Premium;10;07/11/2022;05/07/2023;Spain;37;Male;Smart TV;8 Months
+1762;Basic;10;04/11/2022;06/07/2023;Spain;28;Female;Smartphone;8 Months
+1763;Standard;14;02/11/2022;07/07/2023;United States;32;Female;Smartphone;8 Months
+1764;Premium;13;27/10/2022;07/07/2023;Canada;37;Female;Tablet;8 Months
+1765;Basic;11;18/10/2022;05/07/2023;United States;37;Female;Tablet;9 Months
+1766;Premium;12;07/10/2022;08/07/2023;United States;34;Female;Smart TV;9 Months
+1767;Basic;15;04/10/2022;07/07/2023;Canada;30;Female;Tablet;9 Months
+1768;Standard;14;17/09/2022;07/07/2023;United Kingdom;35;Male;Tablet;10 Months
+1769;Standard;14;15/09/2022;06/07/2023;Australia;41;Female;Laptop;10 Months
+1770;Basic;13;10/09/2022;08/07/2023;Germany;50;Female;Tablet;10 Months
+1771;Premium;11;09/09/2022;08/07/2023;France;48;Female;Laptop;10 Months
+1772;Basic;12;09/09/2022;08/07/2023;Brazil;29;Male;Smart TV;10 Months
+1773;Standard;12;07/09/2022;06/07/2023;Mexico;37;Male;Tablet;10 Months
+1774;Premium;15;08/09/2022;08/07/2023;Spain;36;Female;Tablet;10 Months
+1775;Basic;15;14/08/2022;07/07/2023;Italy;45;Male;Tablet;11 Months
+1776;Premium;15;06/08/2022;08/07/2023;Spain;27;Female;Smart TV;11 Months
+1777;Basic;12;06/08/2022;06/07/2023;Spain;31;Female;Tablet;11 Months
+1778;Standard;11;29/07/2022;09/07/2023;United States;42;Female;Tablet;12 Months
+1779;Standard;15;28/07/2022;06/07/2023;Canada;43;Female;Smartphone;11 Months
+1780;Basic;13;24/07/2022;07/07/2023;United States;43;Male;Smart TV;12 Months
+1781;Premium;15;22/07/2022;06/07/2023;United States;35;Female;Laptop;12 Months
+1782;Basic;13;19/07/2022;10/07/2023;Canada;51;Male;Laptop;12 Months
+1783;Standard;13;17/07/2022;07/07/2023;United Kingdom;42;Female;Smartphone;12 Months
+1784;Premium;13;16/07/2022;07/07/2023;Australia;36;Male;Tablet;12 Months
+1785;Basic;13;13/07/2022;07/07/2023;Germany;50;Female;Tablet;12 Months
+1786;Premium;15;14/07/2022;09/07/2023;France;43;Female;Laptop;12 Months
+1787;Basic;11;07/07/2022;07/07/2023;Brazil;28;Male;Laptop;12 Months
+1788;Standard;10;06/07/2022;09/07/2023;Mexico;48;Female;Smart TV;12 Months
+1789;Standard;14;30/06/2022;07/07/2023;Spain;47;Female;Tablet;12 Months
+1790;Basic;12;30/06/2022;09/07/2023;Italy;31;Male;Smart TV;12 Months
+1791;Premium;14;01/07/2022;06/07/2023;Spain;45;Male;Laptop;12 Months
+1792;Basic;15;02/07/2022;09/07/2023;Spain;45;Female;Tablet;12 Months
+1793;Standard;14;03/07/2022;06/07/2023;United States;42;Female;Smart TV;12 Months
+1794;Premium;12;06/07/2022;08/07/2023;Canada;36;Female;Tablet;12 Months
+1795;Basic;14;07/07/2022;07/07/2023;United States;32;Male;Smart TV;12 Months
+1796;Basic;10;15/07/2022;09/07/2023;United States;50;Male;Tablet;12 Months
+1797;Basic;14;17/07/2022;06/07/2023;Canada;39;Male;Smart TV;12 Months
+1798;Standard;10;26/07/2022;08/07/2023;United Kingdom;51;Male;Smartphone;12 Months
+1799;Premium;14;05/08/2022;07/07/2023;Australia;49;Female;Tablet;11 Months
+1800;Basic;14;12/08/2022;09/07/2023;Germany;42;Male;Tablet;11 Months
+1801;Basic;12;14/08/2022;06/07/2023;France;46;Male;Tablet;11 Months
+1802;Premium;12;15/08/2022;07/07/2023;Brazil;30;Male;Smartphone;11 Months
+1803;Standard;10;18/08/2022;07/07/2023;Mexico;48;Male;Smart TV;11 Months
+1804;Standard;12;21/08/2022;09/07/2023;Spain;40;Female;Laptop;11 Months
+1805;Basic;10;04/09/2022;06/07/2023;Italy;50;Female;Smart TV;10 Months
+1806;Premium;15;05/09/2022;07/07/2023;Spain;49;Female;Laptop;10 Months
+1807;Standard;11;08/09/2022;07/07/2023;Spain;37;Male;Smartphone;10 Months
+1808;Basic;12;15/09/2022;08/07/2023;United States;43;Male;Laptop;10 Months
+1809;Standard;15;17/09/2022;06/07/2023;Canada;40;Female;Tablet;10 Months
+1810;Premium;14;19/09/2022;09/07/2023;United States;27;Male;Laptop;10 Months
+1811;Basic;10;23/09/2022;06/07/2023;United States;47;Male;Smart TV;10 Months
+1812;Premium;11;26/09/2022;08/07/2023;Canada;50;Male;Smartphone;10 Months
+1813;Standard;12;30/09/2022;08/07/2023;United Kingdom;31;Female;Smartphone;9 Months
+1814;Basic;10;07/10/2022;10/07/2023;Australia;33;Male;Smartphone;9 Months
+1815;Standard;13;09/10/2022;07/07/2023;Germany;42;Female;Tablet;9 Months
+1816;Premium;14;12/10/2022;07/07/2023;France;51;Female;Laptop;9 Months
+1817;Basic;12;13/10/2022;08/07/2023;Brazil;43;Female;Smartphone;9 Months
+1818;Standard;15;14/10/2022;10/07/2023;Mexico;45;Female;Smart TV;9 Months
+1819;Premium;13;19/10/2022;07/07/2023;Spain;48;Female;Tablet;9 Months
+1820;Basic;14;20/10/2022;07/07/2023;Italy;48;Female;Smart TV;9 Months
+1821;Premium;12;22/10/2022;08/07/2023;Spain;30;Male;Smartphone;9 Months
+1822;Basic;15;24/10/2022;09/07/2023;Spain;29;Female;Tablet;9 Months
+1823;Standard;10;28/10/2022;06/07/2023;United States;28;Male;Tablet;8 Months
+1824;Standard;12;30/10/2022;08/07/2023;Canada;46;Female;Laptop;8 Months
+1825;Basic;13;01/11/2022;08/07/2023;United States;45;Male;Smart TV;8 Months
+1826;Premium;12;03/11/2022;08/07/2023;United States;30;Male;Tablet;8 Months
+1827;Basic;13;04/11/2022;06/07/2023;Canada;44;Female;Laptop;8 Months
+1828;Standard;14;05/11/2022;07/07/2023;United Kingdom;46;Male;Laptop;8 Months
+1829;Premium;13;06/11/2022;08/07/2023;Australia;36;Female;Tablet;8 Months
+1830;Basic;12;07/11/2022;08/07/2023;Germany;27;Female;Smartphone;8 Months
+1831;Premium;14;05/11/2022;05/07/2023;France;43;Male;Laptop;8 Months
+1832;Basic;11;05/11/2022;09/07/2023;Brazil;48;Female;Smartphone;8 Months
+1833;Standard;12;06/11/2022;08/07/2023;Mexico;36;Female;Smartphone;8 Months
+1834;Standard;10;03/11/2022;07/07/2023;Spain;44;Male;Smart TV;8 Months
+1835;Basic;11;22/10/2022;06/07/2023;Italy;41;Female;Tablet;9 Months
+1836;Premium;12;22/10/2022;09/07/2023;Spain;29;Female;Smart TV;9 Months
+1837;Basic;13;15/10/2022;09/07/2023;Spain;28;Female;Smartphone;9 Months
+1838;Standard;11;24/09/2022;07/07/2023;United States;36;Female;Smartphone;10 Months
+1839;Premium;15;15/09/2022;06/07/2023;Canada;36;Female;Smart TV;10 Months
+1840;Basic;14;15/09/2022;08/07/2023;United States;40;Male;Laptop;10 Months
+1841;Premium;11;12/09/2022;08/07/2023;United States;35;Female;Tablet;10 Months
+1842;Basic;14;12/09/2022;09/07/2023;Canada;34;Female;Smartphone;10 Months
+1843;Standard;10;11/09/2022;07/07/2023;United Kingdom;46;Male;Laptop;10 Months
+1844;Standard;14;11/09/2022;08/07/2023;Australia;47;Female;Smart TV;10 Months
+1845;Basic;12;16/08/2022;07/07/2023;Germany;32;Female;Smartphone;11 Months
+1846;Premium;13;12/08/2022;08/07/2023;France;45;Male;Smartphone;11 Months
+1847;Basic;10;02/08/2022;07/07/2023;Brazil;31;Female;Smartphone;11 Months
+1848;Standard;11;01/08/2022;10/07/2023;Mexico;49;Male;Laptop;11 Months
+1849;Premium;11;29/07/2022;07/07/2023;Spain;33;Female;Smartphone;11 Months
+1850;Basic;12;28/07/2022;08/07/2023;Italy;30;Male;Smartphone;12 Months
+1851;Premium;11;25/07/2022;08/07/2023;Spain;48;Female;Laptop;12 Months
+1852;Basic;14;20/07/2022;10/07/2023;Spain;49;Female;Tablet;12 Months
+1853;Standard;13;16/07/2022;08/07/2023;United States;43;Male;Laptop;12 Months
+1854;Standard;14;16/07/2022;08/07/2023;Canada;46;Female;Laptop;12 Months
+1855;Basic;12;15/07/2022;07/07/2023;United States;33;Male;Smartphone;12 Months
+1856;Premium;15;13/07/2022;09/07/2023;United States;31;Female;Smartphone;12 Months
+1857;Basic;13;06/07/2022;07/07/2023;Canada;44;Female;Smart TV;12 Months
+1858;Standard;10;03/07/2022;09/07/2023;United Kingdom;34;Male;Smart TV;12 Months
+1859;Premium;15;04/07/2022;07/07/2023;Australia;41;Male;Laptop;12 Months
+1860;Basic;10;03/07/2022;09/07/2023;Germany;42;Male;Laptop;12 Months
+1861;Premium;15;03/07/2022;07/07/2023;France;38;Female;Laptop;12 Months
+1862;Basic;13;04/07/2022;10/07/2023;Brazil;31;Female;Tablet;12 Months
+1863;Standard;11;05/07/2022;06/07/2023;Mexico;35;Female;Smartphone;12 Months
+1864;Standard;15;07/07/2022;08/07/2023;Spain;32;Male;Smartphone;12 Months
+1865;Basic;15;08/07/2022;07/07/2023;Italy;39;Male;Smartphone;12 Months
+1866;Premium;12;13/07/2022;10/07/2023;Spain;42;Male;Laptop;12 Months
+1867;Basic;11;15/07/2022;06/07/2023;Spain;31;Male;Tablet;12 Months
+1868;Standard;14;01/08/2022;08/07/2023;United States;38;Male;Tablet;11 Months
+1869;Premium;13;11/08/2022;08/07/2023;Canada;48;Male;Smart TV;11 Months
+1870;Basic;14;13/08/2022;09/07/2023;United States;29;Male;Tablet;11 Months
+1871;Basic;10;15/08/2022;06/07/2023;United States;43;Female;Smart TV;11 Months
+1872;Basic;13;16/08/2022;08/07/2023;Canada;49;Female;Smartphone;11 Months
+1873;Standard;14;18/08/2022;08/07/2023;United Kingdom;50;Male;Smartphone;11 Months
+1874;Premium;14;25/08/2022;09/07/2023;Australia;50;Male;Smartphone;11 Months
+1875;Basic;14;29/08/2022;06/07/2023;Germany;51;Male;Smart TV;10 Months
+1876;Basic;11;04/09/2022;09/07/2023;France;29;Male;Tablet;10 Months
+1877;Premium;11;13/09/2022;07/07/2023;Brazil;50;Female;Smartphone;10 Months
+1878;Standard;12;14/09/2022;08/07/2023;Mexico;39;Female;Tablet;10 Months
+1879;Standard;10;17/09/2022;06/07/2023;Spain;27;Female;Smart TV;10 Months
+1880;Basic;15;18/09/2022;10/07/2023;Italy;29;Male;Smart TV;10 Months
+1881;Premium;15;23/09/2022;07/07/2023;Spain;28;Male;Tablet;10 Months
+1882;Standard;11;27/09/2022;08/07/2023;Spain;46;Male;Smartphone;9 Months
+1883;Basic;14;04/10/2022;08/07/2023;United States;50;Female;Tablet;9 Months
+1884;Standard;12;09/10/2022;11/07/2023;Canada;33;Female;Tablet;9 Months
+1885;Premium;14;10/10/2022;07/07/2023;United States;32;Female;Tablet;9 Months
+1886;Basic;12;11/10/2022;08/07/2023;United States;38;Male;Smart TV;9 Months
+1887;Premium;13;13/10/2022;09/07/2023;Canada;49;Male;Smart TV;9 Months
+1888;Standard;12;15/10/2022;10/07/2023;United Kingdom;50;Male;Laptop;9 Months
+1889;Basic;13;20/10/2022;07/07/2023;Australia;37;Female;Laptop;9 Months
+1890;Standard;15;21/10/2022;08/07/2023;Germany;33;Female;Laptop;9 Months
+1891;Premium;11;23/10/2022;09/07/2023;France;33;Female;Tablet;9 Months
+1892;Basic;15;25/10/2022;09/07/2023;Brazil;46;Male;Smartphone;9 Months
+1893;Standard;10;27/10/2022;07/07/2023;Mexico;28;Male;Smartphone;8 Months
+1894;Premium;11;30/10/2022;08/07/2023;Spain;33;Male;Tablet;8 Months
+1895;Basic;15;01/11/2022;09/07/2023;Italy;45;Male;Laptop;8 Months
+1896;Premium;14;02/11/2022;09/07/2023;Spain;43;Male;Laptop;8 Months
+1897;Basic;11;04/11/2022;06/07/2023;Spain;49;Female;Smartphone;8 Months
+1898;Standard;13;06/11/2022;07/07/2023;United States;41;Female;Tablet;8 Months
+1899;Standard;14;07/11/2022;09/07/2023;Canada;39;Female;Smartphone;8 Months
+1900;Basic;14;06/11/2022;08/07/2023;United States;45;Female;Smartphone;8 Months
+1901;Premium;15;07/11/2022;06/07/2023;United States;38;Male;Tablet;8 Months
+1902;Basic;15;07/11/2022;10/07/2023;Canada;30;Male;Smart TV;8 Months
+1903;Standard;12;03/11/2022;08/07/2023;United Kingdom;27;Female;Smart TV;8 Months
+1904;Premium;15;03/11/2022;08/07/2023;Australia;36;Female;Smartphone;8 Months
+1905;Basic;15;31/10/2022;06/07/2023;Germany;36;Female;Tablet;8 Months
+1906;Premium;11;28/10/2022;09/07/2023;France;28;Male;Tablet;8 Months
+1907;Basic;10;28/09/2022;09/07/2023;Brazil;45;Female;Smartphone;9 Months
+1908;Standard;15;19/09/2022;09/07/2023;Mexico;41;Male;Smartphone;10 Months
+1909;Standard;12;16/09/2022;08/07/2023;Spain;29;Male;Smart TV;10 Months
+1910;Basic;15;17/09/2022;08/07/2023;Italy;35;Male;Smartphone;10 Months
+1911;Premium;12;17/09/2022;08/07/2023;Spain;36;Female;Smart TV;10 Months
+1912;Basic;11;15/09/2022;09/07/2023;Spain;41;Male;Laptop;10 Months
+1913;Standard;11;14/09/2022;08/07/2023;United States;46;Male;Tablet;10 Months
+1914;Premium;11;14/09/2022;08/07/2023;Canada;46;Female;Tablet;10 Months
+1915;Basic;10;13/09/2022;08/07/2023;United States;42;Male;Smartphone;10 Months
+1916;Premium;13;13/08/2022;08/07/2023;United States;40;Male;Tablet;11 Months
+1917;Basic;14;12/08/2022;08/07/2023;Canada;32;Female;Tablet;11 Months
+1918;Standard;11;07/08/2022;10/07/2023;United Kingdom;34;Female;Smartphone;11 Months
+1919;Standard;11;07/08/2022;09/07/2023;Australia;27;Female;Smart TV;11 Months
+1920;Basic;11;04/08/2022;08/07/2023;Germany;38;Male;Laptop;11 Months
+1921;Premium;14;24/07/2022;08/07/2023;France;34;Female;Laptop;12 Months
+1922;Basic;13;18/07/2022;10/07/2023;Brazil;28;Male;Tablet;12 Months
+1923;Standard;12;17/07/2022;08/07/2023;Mexico;48;Male;Smartphone;12 Months
+1924;Premium;13;17/07/2022;09/07/2023;Spain;42;Female;Laptop;12 Months
+1925;Basic;10;14/07/2022;08/07/2023;Italy;37;Female;Smart TV;12 Months
+1926;Premium;11;06/07/2022;10/07/2023;Spain;28;Female;Tablet;12 Months
+1927;Basic;13;07/07/2022;08/07/2023;Spain;43;Female;Smart TV;12 Months
+1928;Standard;10;07/07/2022;11/07/2023;United States;44;Female;Smart TV;12 Months
+1929;Standard;12;08/07/2022;07/07/2023;Canada;33;Female;Smartphone;12 Months
+1930;Basic;13;07/07/2022;09/07/2023;United States;36;Male;Smart TV;12 Months
+1931;Premium;14;08/07/2022;07/07/2023;United States;27;Male;Tablet;12 Months
+1932;Basic;11;09/07/2022;11/07/2023;Canada;41;Male;Tablet;12 Months
+1933;Standard;14;09/07/2022;07/07/2023;United Kingdom;32;Male;Smart TV;12 Months
+1934;Premium;12;09/07/2022;08/07/2023;Australia;36;Female;Laptop;12 Months
+1935;Basic;12;12/07/2022;07/07/2023;Germany;36;Female;Tablet;12 Months
+1936;Premium;13;15/07/2022;10/07/2023;France;36;Male;Laptop;12 Months
+1937;Basic;14;16/07/2022;07/07/2023;Brazil;32;Male;Smart TV;12 Months
+1938;Standard;10;18/07/2022;08/07/2023;Mexico;45;Female;Smartphone;12 Months
+1939;Standard;11;13/08/2022;09/07/2023;Spain;43;Female;Tablet;11 Months
+1940;Basic;10;14/08/2022;10/07/2023;Italy;35;Male;Tablet;11 Months
+1941;Premium;13;16/08/2022;07/07/2023;Spain;29;Female;Smart TV;11 Months
+1942;Basic;14;17/08/2022;08/07/2023;Spain;33;Female;Smart TV;11 Months
+1943;Standard;14;25/08/2022;08/07/2023;United States;49;Male;Smart TV;11 Months
+1944;Premium;15;28/08/2022;09/07/2023;Canada;27;Male;Tablet;11 Months
+1945;Basic;14;29/08/2022;07/07/2023;United States;39;Female;Smart TV;10 Months
+1946;Basic;10;11/09/2022;10/07/2023;United States;34;Female;Smart TV;10 Months
+1947;Basic;12;12/09/2022;08/07/2023;Canada;39;Male;Smartphone;10 Months
+1948;Standard;11;16/09/2022;09/07/2023;United Kingdom;39;Female;Laptop;10 Months
+1949;Premium;15;17/09/2022;09/07/2023;Australia;39;Female;Smart TV;10 Months
+1950;Basic;10;21/09/2022;10/07/2023;Germany;40;Female;Laptop;10 Months
+1951;Basic;15;23/09/2022;08/07/2023;France;40;Male;Tablet;10 Months
+1952;Premium;14;27/09/2022;08/07/2023;Brazil;31;Male;Smartphone;9 Months
+1953;Standard;12;09/10/2022;09/07/2023;Mexico;47;Male;Smartphone;9 Months
+1954;Standard;11;10/10/2022;11/07/2023;Spain;43;Male;Laptop;9 Months
+1955;Basic;13;11/10/2022;08/07/2023;Italy;34;Male;Smartphone;9 Months
+1956;Premium;12;12/10/2022;08/07/2023;Spain;30;Female;Tablet;9 Months
+1957;Standard;15;13/10/2022;09/07/2023;Spain;33;Female;Smartphone;9 Months
+1958;Basic;12;19/10/2022;10/07/2023;United States;29;Male;Tablet;9 Months
+1959;Standard;14;21/10/2022;07/07/2023;Canada;35;Female;Smartphone;9 Months
+1960;Premium;13;23/10/2022;08/07/2023;United States;41;Female;Laptop;9 Months
+1961;Basic;14;24/10/2022;10/07/2023;United States;34;Female;Smartphone;9 Months
+1962;Premium;12;26/10/2022;09/07/2023;Canada;28;Female;Tablet;9 Months
+1963;Standard;15;27/10/2022;07/07/2023;United Kingdom;31;Male;Smart TV;8 Months
+1964;Basic;15;01/11/2022;08/07/2023;Australia;29;Male;Smart TV;8 Months
+1965;Standard;12;02/11/2022;09/07/2023;Germany;44;Female;Tablet;8 Months
+1966;Premium;10;04/11/2022;09/07/2023;France;44;Female;Tablet;8 Months
+1967;Basic;13;05/11/2022;06/07/2023;Brazil;29;Male;Laptop;8 Months
+1968;Standard;12;06/11/2022;09/07/2023;Mexico;32;Female;Tablet;8 Months
+1969;Premium;11;07/11/2022;09/07/2023;Spain;31;Male;Smartphone;8 Months
+1970;Basic;14;08/11/2022;08/07/2023;Italy;27;Male;Laptop;8 Months
+1971;Premium;13;08/11/2022;06/07/2023;Spain;43;Female;Laptop;8 Months
+1972;Basic;14;09/11/2022;10/07/2023;Spain;48;Male;Tablet;8 Months
+1973;Standard;15;09/11/2022;09/07/2023;United States;37;Female;Tablet;8 Months
+1974;Standard;11;05/11/2022;08/07/2023;Canada;42;Male;Smartphone;8 Months
+1975;Basic;11;04/11/2022;07/07/2023;United States;40;Male;Tablet;8 Months
+1976;Premium;13;19/10/2022;09/07/2023;United States;37;Female;Tablet;9 Months
+1977;Basic;12;12/10/2022;09/07/2023;Canada;31;Male;Smartphone;9 Months
+1978;Standard;11;03/10/2022;09/07/2023;United Kingdom;30;Male;Smart TV;9 Months
+1979;Premium;15;28/09/2022;08/07/2023;Australia;51;Female;Smartphone;9 Months
+1980;Basic;15;17/09/2022;09/07/2023;Germany;42;Female;Laptop;10 Months
+1981;Premium;13;16/09/2022;08/07/2023;France;37;Female;Smartphone;10 Months
+1982;Basic;14;15/09/2022;09/07/2023;Brazil;44;Female;Smartphone;10 Months
+1983;Standard;11;14/09/2022;08/07/2023;Mexico;37;Male;Tablet;10 Months
+1984;Standard;11;15/09/2022;09/07/2023;Spain;44;Male;Smartphone;10 Months
+1985;Basic;11;06/09/2022;09/07/2023;Italy;40;Male;Tablet;10 Months
+1986;Premium;15;28/08/2022;09/07/2023;Spain;27;Male;Smart TV;11 Months
+1987;Basic;12;07/08/2022;08/07/2023;Spain;31;Male;Smart TV;11 Months
+1988;Standard;15;07/08/2022;10/07/2023;United States;39;Female;Smartphone;11 Months
+1989;Premium;12;06/08/2022;09/07/2023;Canada;47;Female;Tablet;11 Months
+1990;Basic;15;30/07/2022;09/07/2023;United States;30;Male;Smart TV;11 Months
+1991;Premium;12;30/07/2022;08/07/2023;United States;35;Male;Laptop;11 Months
+1992;Basic;14;30/07/2022;10/07/2023;Canada;39;Male;Smartphone;12 Months
+1993;Standard;15;19/07/2022;08/07/2023;United Kingdom;29;Female;Tablet;12 Months
+1994;Standard;11;17/07/2022;10/07/2023;Australia;28;Male;Laptop;12 Months
+1995;Basic;11;12/07/2022;08/07/2023;Germany;39;Male;Tablet;12 Months
+1996;Premium;10;11/07/2022;10/07/2023;France;34;Male;Smart TV;12 Months
+1997;Basic;14;10/07/2022;08/07/2023;Brazil;47;Male;Smart TV;12 Months
+1998;Standard;14;10/07/2022;11/07/2023;Mexico;47;Female;Smart TV;12 Months
+1999;Premium;13;08/07/2022;08/07/2023;Spain;46;Male;Smart TV;12 Months
+2000;Basic;12;09/07/2022;09/07/2023;Italy;31;Male;Smart TV;12 Months
+2001;Premium;10;09/07/2022;08/07/2023;Spain;41;Female;Smart TV;12 Months
+2002;Basic;10;09/07/2022;11/07/2023;Spain;30;Female;Smartphone;12 Months
+2003;Standard;11;10/07/2022;08/07/2023;United States;41;Male;Tablet;12 Months
+2004;Standard;12;12/07/2022;08/07/2023;Canada;48;Female;Laptop;12 Months
+2005;Basic;10;13/07/2022;09/07/2023;United States;35;Female;Laptop;12 Months
+2006;Premium;13;16/07/2022;10/07/2023;United States;41;Female;Laptop;12 Months
+2007;Basic;10;17/07/2022;07/07/2023;Canada;39;Female;Smart TV;12 Months
+2008;Standard;10;26/07/2022;09/07/2023;United Kingdom;45;Male;Laptop;12 Months
+2009;Premium;10;31/07/2022;09/07/2023;Australia;41;Male;Laptop;11 Months
+2010;Basic;13;03/08/2022;10/07/2023;Germany;28;Male;Laptop;11 Months
+2011;Premium;10;15/08/2022;07/07/2023;France;28;Female;Tablet;11 Months
+2012;Basic;15;18/08/2022;10/07/2023;Brazil;48;Male;Smart TV;11 Months
+2013;Standard;10;27/08/2022;08/07/2023;Mexico;40;Female;Smart TV;11 Months
+2014;Standard;12;29/08/2022;10/07/2023;Spain;39;Male;Smart TV;11 Months
+2015;Basic;12;05/09/2022;07/07/2023;Italy;27;Male;Smartphone;10 Months
+2016;Premium;10;06/09/2022;11/07/2023;Spain;32;Female;Smart TV;10 Months
+2017;Basic;10;14/09/2022;08/07/2023;Spain;38;Male;Laptop;10 Months
+2018;Standard;10;16/09/2022;09/07/2023;United States;41;Female;Laptop;10 Months
+2019;Premium;10;18/09/2022;10/07/2023;Canada;32;Female;Laptop;10 Months
+2020;Basic;12;23/09/2022;11/07/2023;United States;37;Male;Tablet;10 Months
+2021;Basic;12;25/09/2022;08/07/2023;United States;50;Female;Laptop;10 Months
+2022;Basic;10;06/10/2022;09/07/2023;Canada;48;Female;Laptop;9 Months
+2023;Standard;11;09/10/2022;10/07/2023;United Kingdom;37;Male;Tablet;9 Months
+2024;Premium;13;11/10/2022;11/07/2023;Australia;46;Female;Laptop;9 Months
+2025;Basic;13;12/10/2022;08/07/2023;Germany;46;Male;Laptop;9 Months
+2026;Basic;15;13/10/2022;09/07/2023;France;39;Male;Smart TV;9 Months
+2027;Premium;13;17/10/2022;10/07/2023;Brazil;42;Female;Smart TV;9 Months
+2028;Standard;11;19/10/2022;10/07/2023;Mexico;41;Female;Smartphone;9 Months
+2029;Standard;10;21/10/2022;07/07/2023;Spain;28;Male;Smart TV;9 Months
+2030;Basic;14;23/10/2022;09/07/2023;Italy;43;Male;Tablet;9 Months
+2031;Premium;14;25/10/2022;10/07/2023;Spain;45;Female;Smart TV;9 Months
+2032;Standard;10;27/10/2022;09/07/2023;Spain;45;Male;Smart TV;9 Months
+2033;Basic;13;31/10/2022;07/07/2023;United States;48;Male;Smartphone;8 Months
+2034;Standard;12;02/11/2022;09/07/2023;Canada;30;Male;Laptop;8 Months
+2035;Premium;11;04/11/2022;10/07/2023;United States;51;Female;Smart TV;8 Months
+2036;Basic;12;05/11/2022;09/07/2023;United States;48;Female;Smartphone;8 Months
+2037;Premium;13;06/11/2022;07/07/2023;Canada;41;Female;Smart TV;8 Months
+2038;Standard;11;07/11/2022;10/07/2023;United Kingdom;37;Female;Smartphone;8 Months
+2039;Basic;11;08/11/2022;09/07/2023;Australia;43;Male;Laptop;8 Months
+2040;Standard;15;08/11/2022;08/07/2023;Germany;51;Male;Laptop;8 Months
+2041;Premium;10;09/11/2022;07/07/2023;France;34;Female;Smartphone;8 Months
+2042;Basic;10;09/11/2022;10/07/2023;Brazil;35;Female;Smartphone;8 Months
+2043;Standard;12;05/11/2022;09/07/2023;Mexico;45;Female;Smart TV;8 Months
+2044;Premium;12;05/11/2022;10/07/2023;Spain;31;Male;Smart TV;8 Months
+2045;Basic;15;02/11/2022;08/07/2023;Italy;50;Female;Laptop;8 Months
+2046;Premium;12;30/10/2022;09/07/2023;Spain;41;Male;Smartphone;8 Months
+2047;Basic;11;30/10/2022;09/07/2023;Spain;42;Female;Laptop;8 Months
+2048;Standard;11;24/10/2022;09/07/2023;United States;41;Male;Tablet;9 Months
+2049;Standard;14;08/10/2022;08/07/2023;Canada;34;Male;Tablet;9 Months
+2050;Basic;13;04/10/2022;09/07/2023;United States;35;Female;Smartphone;9 Months
+2051;Premium;10;28/09/2022;09/07/2023;United States;48;Male;Smartphone;9 Months
+2052;Basic;11;22/09/2022;09/07/2023;Canada;39;Female;Smart TV;10 Months
+2053;Standard;14;19/09/2022;09/07/2023;United Kingdom;37;Female;Laptop;10 Months
+2054;Premium;10;13/09/2022;09/07/2023;Australia;31;Male;Tablet;10 Months
+2055;Basic;14;05/09/2022;09/07/2023;Germany;29;Female;Laptop;10 Months
+2056;Premium;10;20/08/2022;09/07/2023;France;36;Male;Tablet;11 Months
+2057;Basic;10;10/08/2022;08/07/2023;Brazil;32;Male;Smartphone;11 Months
+2058;Standard;10;10/08/2022;11/07/2023;Mexico;31;Female;Smartphone;11 Months
+2059;Standard;14;06/08/2022;09/07/2023;Spain;31;Male;Laptop;11 Months
+2060;Basic;12;03/08/2022;10/07/2023;Italy;29;Male;Smart TV;11 Months
+2061;Premium;10;01/08/2022;09/07/2023;Spain;48;Male;Smart TV;11 Months
+2062;Basic;14;28/07/2022;10/07/2023;Spain;46;Male;Tablet;12 Months
+2063;Standard;15;22/07/2022;09/07/2023;United States;35;Female;Smartphone;12 Months
+2064;Premium;11;22/07/2022;11/07/2023;Canada;37;Female;Tablet;12 Months
+2065;Basic;12;20/07/2022;09/07/2023;United States;45;Female;Tablet;12 Months
+2066;Premium;15;12/07/2022;10/07/2023;United States;48;Female;Laptop;12 Months
+2067;Basic;10;12/07/2022;09/07/2023;Canada;44;Female;Laptop;12 Months
+2068;Standard;14;10/07/2022;11/07/2023;United Kingdom;47;Female;Laptop;12 Months
+2069;Standard;12;11/07/2022;08/07/2023;Australia;35;Male;Smart TV;12 Months
+2070;Basic;10;11/07/2022;09/07/2023;Germany;35;Female;Smartphone;12 Months
+2071;Premium;11;09/07/2022;08/07/2023;France;35;Male;Smartphone;12 Months
+2072;Basic;15;10/07/2022;11/07/2023;Brazil;49;Female;Laptop;12 Months
+2073;Standard;11;12/07/2022;08/07/2023;Mexico;50;Female;Tablet;12 Months
+2074;Premium;14;13/07/2022;09/07/2023;Spain;44;Male;Smartphone;12 Months
+2075;Basic;14;15/07/2022;09/07/2023;Italy;47;Female;Tablet;12 Months
+2076;Premium;15;16/07/2022;11/07/2023;Spain;46;Female;Laptop;12 Months
+2077;Basic;11;19/07/2022;08/07/2023;Spain;39;Female;Laptop;12 Months
+2078;Standard;15;23/07/2022;10/07/2023;United States;34;Male;Laptop;12 Months
+2079;Standard;10;28/07/2022;09/07/2023;Canada;31;Female;Smart TV;12 Months
+2080;Basic;10;14/08/2022;11/07/2023;United States;46;Female;Laptop;11 Months
+2081;Premium;15;18/08/2022;08/07/2023;United States;30;Male;Smart TV;11 Months
+2082;Basic;12;23/08/2022;12/07/2023;Canada;29;Male;Tablet;11 Months
+2083;Standard;12;27/08/2022;09/07/2023;United Kingdom;42;Male;Tablet;11 Months
+2084;Premium;13;01/09/2022;10/07/2023;Australia;27;Female;Smartphone;10 Months
+2085;Basic;15;02/09/2022;09/07/2023;Germany;33;Male;Laptop;10 Months
+2086;Premium;13;04/09/2022;12/07/2023;France;45;Female;Smart TV;10 Months
+2087;Basic;13;11/09/2022;09/07/2023;Brazil;50;Male;Tablet;10 Months
+2088;Standard;10;16/09/2022;09/07/2023;Mexico;42;Female;Tablet;10 Months
+2089;Standard;10;19/09/2022;11/07/2023;Spain;29;Male;Tablet;10 Months
+2090;Basic;12;20/09/2022;12/07/2023;Italy;31;Female;Tablet;10 Months
+2091;Premium;13;05/10/2022;09/07/2023;Spain;42;Female;Smartphone;9 Months
+2092;Basic;10;07/10/2022;09/07/2023;Spain;44;Female;Laptop;9 Months
+2093;Standard;10;10/10/2022;11/07/2023;United States;34;Male;Smart TV;9 Months
+2094;Premium;13;12/10/2022;11/07/2023;Canada;40;Female;Smart TV;9 Months
+2095;Basic;10;13/10/2022;08/07/2023;United States;38;Male;Smart TV;9 Months
+2096;Basic;15;15/10/2022;09/07/2023;United States;42;Female;Tablet;9 Months
+2097;Basic;10;17/10/2022;11/07/2023;Canada;47;Male;Tablet;9 Months
+2098;Standard;15;18/10/2022;10/07/2023;United Kingdom;29;Female;Tablet;9 Months
+2099;Premium;11;20/10/2022;08/07/2023;Australia;29;Male;Laptop;9 Months
+2100;Basic;14;22/10/2022;10/07/2023;Germany;44;Female;Smart TV;9 Months
+2101;Basic;12;25/10/2022;11/07/2023;France;31;Male;Tablet;9 Months
+2102;Premium;14;27/10/2022;09/07/2023;Brazil;48;Female;Smartphone;9 Months
+2103;Standard;14;01/11/2022;07/07/2023;Mexico;32;Female;Laptop;8 Months
+2104;Standard;13;02/11/2022;11/07/2023;Spain;28;Female;Tablet;8 Months
+2105;Basic;11;04/11/2022;10/07/2023;Italy;36;Female;Smartphone;8 Months
+2106;Premium;10;06/11/2022;09/07/2023;Spain;28;Female;Smartphone;8 Months
+2107;Standard;14;07/11/2022;07/07/2023;Spain;32;Female;Smart TV;8 Months
+2108;Basic;15;08/11/2022;10/07/2023;United States;50;Female;Smartphone;8 Months
+2109;Standard;12;09/11/2022;10/07/2023;Canada;44;Male;Tablet;8 Months
+2110;Premium;14;10/11/2022;10/07/2023;United States;44;Female;Smartphone;8 Months
+2111;Basic;14;09/11/2022;09/07/2023;United States;47;Male;Laptop;8 Months
+2112;Premium;15;09/11/2022;10/07/2023;Canada;39;Female;Smart TV;8 Months
+2113;Standard;11;07/11/2022;10/07/2023;United Kingdom;44;Female;Tablet;8 Months
+2114;Basic;12;03/11/2022;10/07/2023;Australia;46;Female;Tablet;8 Months
+2115;Standard;10;04/11/2022;08/07/2023;Germany;31;Female;Laptop;8 Months
+2116;Premium;12;01/11/2022;10/07/2023;France;33;Female;Tablet;8 Months
+2117;Basic;13;27/10/2022;09/07/2023;Brazil;27;Male;Laptop;9 Months
+2118;Standard;10;23/10/2022;10/07/2023;Mexico;34;Male;Smart TV;9 Months
+2119;Premium;14;14/10/2022;09/07/2023;Spain;48;Male;Laptop;9 Months
+2120;Basic;14;28/09/2022;10/07/2023;Italy;39;Female;Smart TV;10 Months
+2121;Premium;14;25/09/2022;09/07/2023;Spain;39;Male;Laptop;10 Months
+2122;Basic;11;23/09/2022;10/07/2023;Spain;48;Female;Smart TV;10 Months
+2123;Standard;12;23/09/2022;09/07/2023;United States;37;Female;Tablet;10 Months
+2124;Standard;14;14/09/2022;11/07/2023;Canada;40;Male;Laptop;10 Months
+2125;Basic;14;05/09/2022;09/07/2023;United States;41;Female;Smartphone;10 Months
+2126;Premium;12;13/08/2022;09/07/2023;United States;35;Female;Smartphone;11 Months
+2127;Basic;15;12/08/2022;09/07/2023;Canada;46;Male;Smartphone;11 Months
+2128;Standard;10;10/08/2022;11/07/2023;United Kingdom;28;Female;Tablet;11 Months
+2129;Premium;14;05/08/2022;09/07/2023;Australia;29;Female;Laptop;11 Months
+2130;Basic;10;04/08/2022;12/07/2023;Germany;46;Female;Tablet;11 Months
+2131;Premium;11;28/07/2022;09/07/2023;France;35;Male;Laptop;12 Months
+2132;Basic;12;24/07/2022;11/07/2023;Brazil;27;Male;Smart TV;12 Months
+2133;Standard;11;22/07/2022;09/07/2023;Mexico;38;Male;Laptop;12 Months
+2134;Standard;13;22/07/2022;12/07/2023;Spain;43;Male;Smart TV;12 Months
+2135;Basic;15;19/07/2022;09/07/2023;Italy;31;Female;Smartphone;12 Months
+2136;Premium;13;17/07/2022;10/07/2023;Spain;29;Female;Tablet;12 Months
+2137;Basic;10;16/07/2022;09/07/2023;Spain;34;Female;Tablet;12 Months
+2138;Standard;11;12/07/2022;12/07/2023;United States;39;Male;Smartphone;12 Months
+2139;Premium;14;12/07/2022;08/07/2023;Canada;34;Female;Smartphone;12 Months
+2140;Basic;14;13/07/2022;10/07/2023;United States;51;Male;Tablet;12 Months
+2141;Premium;14;13/07/2022;09/07/2023;United States;47;Female;Tablet;12 Months
+2142;Basic;12;13/07/2022;11/07/2023;Canada;46;Male;Smartphone;12 Months
+2143;Standard;12;14/07/2022;08/07/2023;United Kingdom;46;Female;Smartphone;12 Months
+2144;Standard;14;15/07/2022;10/07/2023;Australia;47;Female;Smartphone;12 Months
+2145;Basic;14;16/07/2022;09/07/2023;Germany;40;Female;Smart TV;12 Months
+2146;Premium;12;18/07/2022;11/07/2023;France;41;Female;Tablet;12 Months
+2147;Basic;12;23/07/2022;09/07/2023;Brazil;30;Female;Smartphone;12 Months
+2148;Standard;12;25/07/2022;11/07/2023;Mexico;31;Female;Tablet;12 Months
+2149;Premium;14;30/07/2022;09/07/2023;Spain;42;Male;Smart TV;11 Months
+2150;Basic;12;06/08/2022;11/07/2023;Italy;46;Female;Tablet;11 Months
+2151;Premium;13;14/08/2022;08/07/2023;Spain;34;Female;Smart TV;11 Months
+2152;Basic;14;23/08/2022;12/07/2023;Spain;42;Male;Laptop;11 Months
+2153;Standard;13;27/08/2022;09/07/2023;United States;45;Male;Tablet;11 Months
+2154;Standard;12;29/08/2022;10/07/2023;Canada;30;Male;Smart TV;11 Months
+2155;Basic;12;01/09/2022;09/07/2023;United States;44;Male;Smartphone;10 Months
+2156;Premium;10;07/09/2022;13/07/2023;United States;37;Male;Smart TV;10 Months
+2157;Basic;10;13/09/2022;10/07/2023;Canada;43;Male;Smart TV;10 Months
+2158;Standard;12;14/09/2022;10/07/2023;United Kingdom;46;Male;Smartphone;10 Months
+2159;Premium;11;17/09/2022;12/07/2023;Australia;40;Female;Tablet;10 Months
+2160;Basic;11;23/09/2022;12/07/2023;Germany;45;Female;Smartphone;10 Months
+2161;Premium;10;27/09/2022;09/07/2023;France;48;Female;Smartphone;10 Months
+2162;Basic;10;03/10/2022;10/07/2023;Brazil;43;Female;Tablet;9 Months
+2163;Standard;13;10/10/2022;11/07/2023;Mexico;48;Male;Smart TV;9 Months
+2164;Standard;10;12/10/2022;11/07/2023;Spain;32;Female;Smartphone;9 Months
+2165;Basic;12;14/10/2022;08/07/2023;Italy;38;Male;Laptop;9 Months
+2166;Premium;13;16/10/2022;10/07/2023;Spain;50;Male;Smartphone;9 Months
+2167;Basic;11;18/10/2022;11/07/2023;Spain;33;Female;Laptop;9 Months
+2168;Standard;14;20/10/2022;10/07/2023;United States;27;Male;Smart TV;9 Months
+2169;Premium;12;22/10/2022;08/07/2023;Canada;47;Male;Tablet;9 Months
+2170;Basic;12;25/10/2022;10/07/2023;United States;35;Female;Smart TV;9 Months
+2171;Basic;12;26/10/2022;11/07/2023;United States;41;Male;Tablet;9 Months
+2172;Basic;14;29/10/2022;10/07/2023;Canada;39;Female;Smart TV;8 Months
+2173;Standard;13;31/10/2022;07/07/2023;United Kingdom;46;Female;Smartphone;8 Months
+2174;Premium;14;04/11/2022;11/07/2023;Australia;33;Female;Smartphone;8 Months
+2175;Basic;11;06/11/2022;10/07/2023;Germany;30;Male;Laptop;8 Months
+2176;Basic;13;07/11/2022;10/07/2023;France;46;Male;Tablet;8 Months
+2177;Premium;15;08/11/2022;09/07/2023;Brazil;42;Female;Tablet;8 Months
+2178;Standard;11;09/11/2022;11/07/2023;Mexico;28;Female;Tablet;8 Months
+2179;Standard;10;10/11/2022;10/07/2023;Spain;40;Male;Smart TV;8 Months
+2180;Basic;14;10/11/2022;10/07/2023;Italy;31;Female;Smart TV;8 Months
+2181;Premium;13;10/11/2022;09/07/2023;Spain;27;Male;Laptop;8 Months
+2182;Standard;14;09/11/2022;10/07/2023;Spain;45;Female;Tablet;8 Months
+2183;Basic;10;09/11/2022;10/07/2023;United States;49;Female;Smart TV;8 Months
+2184;Standard;12;06/11/2022;11/07/2023;Canada;28;Male;Tablet;8 Months
+2185;Premium;14;03/11/2022;08/07/2023;United States;33;Male;Smart TV;8 Months
+2186;Basic;15;27/10/2022;11/07/2023;United States;38;Male;Smart TV;9 Months
+2187;Premium;15;28/10/2022;10/07/2023;Canada;44;Male;Tablet;9 Months
+2188;Standard;15;18/10/2022;10/07/2023;United Kingdom;34;Female;Laptop;9 Months
+2189;Basic;15;04/10/2022;09/07/2023;Australia;35;Male;Laptop;9 Months
+2190;Standard;10;29/09/2022;10/07/2023;Germany;47;Male;Tablet;9 Months
+2191;Premium;12;29/09/2022;10/07/2023;France;30;Male;Smartphone;9 Months
+2192;Basic;12;23/09/2022;10/07/2023;Brazil;50;Female;Smart TV;10 Months
+2193;Standard;12;17/09/2022;09/07/2023;Mexico;32;Male;Laptop;10 Months
+2194;Premium;14;12/09/2022;12/07/2023;Spain;36;Female;Smart TV;10 Months
+2195;Basic;14;16/08/2022;10/07/2023;Italy;40;Female;Smart TV;11 Months
+2196;Premium;15;16/08/2022;09/07/2023;Spain;39;Male;Smartphone;11 Months
+2197;Basic;11;13/08/2022;10/07/2023;Spain;28;Male;Smartphone;11 Months
+2198;Standard;12;12/08/2022;11/07/2023;United States;29;Female;Smart TV;11 Months
+2199;Standard;14;13/08/2022;09/07/2023;Canada;49;Male;Tablet;11 Months
+2200;Basic;14;30/07/2022;12/07/2023;United States;40;Male;Laptop;12 Months
+2201;Premium;12;25/07/2022;10/07/2023;United States;29;Male;Laptop;12 Months
+2202;Basic;14;25/07/2022;11/07/2023;Canada;35;Female;Tablet;12 Months
+2203;Standard;14;26/07/2022;10/07/2023;United Kingdom;44;Male;Smartphone;12 Months
+2204;Premium;11;25/07/2022;13/07/2023;Australia;39;Male;Smart TV;12 Months
+2205;Basic;12;23/07/2022;09/07/2023;Germany;27;Male;Smart TV;12 Months
+2206;Premium;11;18/07/2022;11/07/2023;France;31;Male;Smart TV;12 Months
+2207;Basic;13;13/07/2022;10/07/2023;Brazil;39;Female;Laptop;12 Months
+2208;Standard;13;13/07/2022;12/07/2023;Mexico;44;Male;Laptop;12 Months
+2209;Standard;10;13/07/2022;09/07/2023;Spain;48;Female;Tablet;12 Months
+2210;Basic;11;13/07/2022;11/07/2023;Italy;27;Male;Smartphone;12 Months
+2211;Premium;13;13/07/2022;09/07/2023;Spain;27;Male;Laptop;12 Months
+2212;Basic;14;14/07/2022;11/07/2023;Spain;41;Male;Smart TV;12 Months
+2213;Standard;15;15/07/2022;09/07/2023;United States;44;Female;Tablet;12 Months
+2214;Premium;12;16/07/2022;12/07/2023;Canada;29;Female;Tablet;12 Months
+2215;Basic;13;18/07/2022;09/07/2023;United States;42;Female;Smartphone;12 Months
+2216;Premium;15;21/07/2022;11/07/2023;United States;45;Female;Smart TV;12 Months
+2217;Basic;11;24/07/2022;09/07/2023;Canada;39;Female;Tablet;12 Months
+2218;Standard;15;29/07/2022;12/07/2023;United Kingdom;41;Female;Tablet;12 Months
+2219;Standard;10;06/08/2022;10/07/2023;Australia;41;Female;Laptop;11 Months
+2220;Basic;15;11/08/2022;11/07/2023;Germany;41;Male;Smartphone;11 Months
+2221;Premium;14;16/08/2022;09/07/2023;France;47;Female;Smart TV;11 Months
+2222;Basic;10;21/08/2022;13/07/2023;Brazil;49;Female;Smartphone;11 Months
+2223;Standard;12;22/08/2022;10/07/2023;Mexico;29;Male;Laptop;11 Months
+2224;Premium;10;24/08/2022;10/07/2023;Spain;33;Male;Tablet;11 Months
+2225;Basic;13;02/09/2022;12/07/2023;Italy;45;Female;Smart TV;10 Months
+2226;Premium;13;06/09/2022;13/07/2023;Spain;41;Female;Laptop;10 Months
+2227;Basic;11;11/09/2022;10/07/2023;Spain;31;Male;Laptop;10 Months
+2228;Standard;15;16/09/2022;10/07/2023;United States;51;Male;Tablet;10 Months
+2229;Standard;11;22/09/2022;12/07/2023;Canada;43;Female;Smartphone;10 Months
+2230;Basic;12;26/09/2022;12/07/2023;United States;33;Female;Laptop;10 Months
+2231;Premium;10;02/10/2022;09/07/2023;United States;47;Female;Smartphone;9 Months
+2232;Basic;13;04/10/2022;10/07/2023;Canada;40;Female;Laptop;9 Months
+2233;Standard;14;09/10/2022;12/07/2023;United Kingdom;34;Female;Smartphone;9 Months
+2234;Premium;15;11/10/2022;11/07/2023;Australia;40;Male;Tablet;9 Months
+2235;Basic;15;15/10/2022;09/07/2023;Germany;38;Male;Laptop;9 Months
+2236;Premium;11;16/10/2022;10/07/2023;France;47;Male;Smart TV;9 Months
+2237;Basic;13;18/10/2022;11/07/2023;Brazil;29;Male;Smart TV;9 Months
+2238;Standard;14;21/10/2022;10/07/2023;Mexico;49;Female;Smartphone;9 Months
+2239;Standard;12;22/10/2022;08/07/2023;Spain;40;Male;Smart TV;9 Months
+2240;Basic;12;25/10/2022;11/07/2023;Italy;51;Female;Laptop;9 Months
+2241;Premium;11;29/10/2022;11/07/2023;Spain;51;Female;Tablet;9 Months
+2242;Basic;12;30/10/2022;10/07/2023;Spain;50;Female;Smart TV;8 Months
+2243;Standard;10;04/11/2022;09/07/2023;United States;47;Female;Laptop;8 Months
+2244;Premium;10;05/11/2022;12/07/2023;Canada;40;Male;Smart TV;8 Months
+2245;Basic;15;07/11/2022;10/07/2023;United States;35;Female;Smart TV;8 Months
+2246;Basic;15;08/11/2022;10/07/2023;United States;37;Female;Smart TV;8 Months
+2247;Basic;15;09/11/2022;10/07/2023;Canada;30;Male;Tablet;8 Months
+2248;Standard;15;10/11/2022;11/07/2023;United Kingdom;47;Female;Tablet;8 Months
+2249;Premium;12;11/11/2022;10/07/2023;Australia;35;Male;Smartphone;8 Months
+2250;Basic;14;10/11/2022;11/07/2023;Germany;33;Male;Tablet;8 Months
+2251;Basic;13;10/11/2022;09/07/2023;France;51;Female;Laptop;8 Months
+2252;Premium;12;11/11/2022;11/07/2023;Brazil;31;Female;Tablet;8 Months
+2253;Standard;10;07/11/2022;11/07/2023;Mexico;48;Female;Laptop;8 Months
+2254;Standard;11;04/11/2022;11/07/2023;Spain;40;Male;Laptop;8 Months
+2255;Basic;15;31/10/2022;09/07/2023;Italy;41;Female;Laptop;8 Months
+2256;Premium;15;29/10/2022;11/07/2023;Spain;41;Male;Laptop;9 Months
+2257;Standard;12;20/10/2022;10/07/2023;Spain;28;Female;Laptop;9 Months
+2258;Basic;13;14/10/2022;11/07/2023;United States;45;Female;Laptop;9 Months
+2259;Standard;11;12/10/2022;10/07/2023;Canada;32;Female;Laptop;9 Months
+2260;Premium;10;01/10/2022;11/07/2023;United States;31;Male;Tablet;9 Months
+2261;Basic;10;25/09/2022;10/07/2023;United States;40;Female;Tablet;10 Months
+2262;Premium;10;23/09/2022;10/07/2023;Canada;40;Female;Smartphone;10 Months
+2263;Standard;14;19/09/2022;09/07/2023;United Kingdom;50;Male;Tablet;10 Months
+2264;Basic;12;02/09/2022;12/07/2023;Australia;41;Male;Smartphone;10 Months
+2265;Standard;10;30/08/2022;10/07/2023;Germany;43;Male;Tablet;10 Months
+2266;Premium;15;16/08/2022;09/07/2023;France;43;Male;Tablet;11 Months
+2267;Basic;11;15/08/2022;10/07/2023;Brazil;36;Female;Smartphone;11 Months
+2268;Standard;15;16/08/2022;11/07/2023;Mexico;48;Male;Smart TV;11 Months
+2269;Premium;15;01/08/2022;10/07/2023;Spain;33;Female;Smartphone;11 Months
+2270;Basic;14;27/07/2022;14/07/2023;Italy;30;Female;Smart TV;12 Months
+2271;Premium;14;26/07/2022;10/07/2023;Spain;37;Female;Laptop;12 Months
+2272;Basic;13;26/07/2022;11/07/2023;Spain;49;Male;Smart TV;12 Months
+2273;Standard;15;27/07/2022;11/07/2023;United States;47;Female;Smartphone;12 Months
+2274;Standard;10;26/07/2022;13/07/2023;Canada;45;Female;Tablet;12 Months
+2275;Basic;11;23/07/2022;09/07/2023;United States;50;Male;Smart TV;12 Months
+2276;Premium;12;20/07/2022;11/07/2023;United States;36;Male;Smartphone;12 Months
+2277;Basic;14;14/07/2022;10/07/2023;Canada;37;Male;Smart TV;12 Months
+2278;Standard;15;14/07/2022;12/07/2023;United Kingdom;38;Female;Tablet;12 Months
+2279;Premium;10;14/07/2022;10/07/2023;Australia;40;Male;Smart TV;12 Months
+2280;Basic;13;13/07/2022;12/07/2023;Germany;38;Female;Smart TV;12 Months
+2281;Premium;14;14/07/2022;10/07/2023;France;46;Female;Tablet;12 Months
+2282;Basic;10;15/07/2022;11/07/2023;Brazil;40;Female;Smartphone;12 Months
+2283;Standard;13;16/07/2022;10/07/2023;Mexico;34;Male;Smart TV;12 Months
+2284;Standard;12;18/07/2022;12/07/2023;Spain;39;Female;Smartphone;12 Months
+2285;Basic;13;19/07/2022;10/07/2023;Italy;47;Male;Smartphone;12 Months
+2286;Premium;15;22/07/2022;12/07/2023;Spain;41;Male;Laptop;12 Months
+2287;Basic;12;27/07/2022;09/07/2023;Spain;47;Female;Tablet;12 Months
+2288;Standard;13;02/08/2022;13/07/2023;United States;50;Male;Smartphone;12 Months
+2289;Premium;10;10/08/2022;10/07/2023;Canada;31;Male;Tablet;11 Months
+2290;Basic;13;15/08/2022;11/07/2023;United States;41;Male;Smartphone;11 Months
+2291;Premium;11;18/08/2022;11/07/2023;United States;31;Female;Laptop;11 Months
+2292;Basic;12;20/08/2022;14/07/2023;Canada;41;Female;Smart TV;11 Months
+2293;Standard;12;23/08/2022;11/07/2023;United Kingdom;28;Male;Tablet;11 Months
+2294;Standard;14;24/08/2022;10/07/2023;Australia;40;Female;Smartphone;11 Months
+2295;Basic;11;30/08/2022;13/07/2023;Germany;34;Female;Smart TV;11 Months
+2296;Premium;10;06/09/2022;13/07/2023;France;37;Male;Smartphone;10 Months
+2297;Basic;13;13/09/2022;10/07/2023;Brazil;30;Female;Laptop;10 Months
+2298;Standard;12;18/09/2022;10/07/2023;Mexico;32;Male;Tablet;10 Months
+2299;Premium;14;22/09/2022;12/07/2023;Spain;41;Male;Smartphone;10 Months
+2300;Basic;13;28/09/2022;12/07/2023;Italy;42;Female;Tablet;10 Months
+2301;Premium;13;03/10/2022;09/07/2023;Spain;40;Male;Laptop;9 Months
+2302;Basic;11;05/10/2022;10/07/2023;Spain;30;Female;Smartphone;9 Months
+2303;Standard;14;09/10/2022;12/07/2023;United States;43;Male;Laptop;9 Months
+2304;Standard;14;15/10/2022;11/07/2023;Canada;31;Female;Tablet;9 Months
+2305;Basic;15;16/10/2022;09/07/2023;United States;45;Male;Smartphone;9 Months
+2306;Premium;10;18/10/2022;11/07/2023;United States;33;Male;Smart TV;9 Months
+2307;Basic;14;19/10/2022;12/07/2023;Canada;41;Male;Smartphone;9 Months
+2308;Standard;11;22/10/2022;11/07/2023;United Kingdom;37;Male;Smart TV;9 Months
+2309;Premium;12;23/10/2022;09/07/2023;Australia;40;Female;Smartphone;9 Months
+2310;Basic;10;29/10/2022;12/07/2023;Germany;36;Male;Tablet;9 Months
+2311;Premium;14;30/10/2022;11/07/2023;France;28;Male;Smart TV;8 Months
+2312;Basic;12;03/11/2022;11/07/2023;Brazil;38;Male;Smartphone;8 Months
+2313;Standard;11;04/11/2022;09/07/2023;Mexico;36;Female;Tablet;8 Months
+2314;Standard;12;05/11/2022;12/07/2023;Spain;47;Female;Smart TV;8 Months
+2315;Basic;12;07/11/2022;10/07/2023;Italy;35;Female;Laptop;8 Months
+2316;Premium;14;09/11/2022;11/07/2023;Spain;29;Female;Tablet;8 Months
+2317;Basic;14;10/11/2022;10/07/2023;Spain;49;Female;Smart TV;8 Months
+2318;Standard;11;11/11/2022;12/07/2023;United States;34;Male;Smart TV;8 Months
+2319;Premium;13;11/11/2022;11/07/2023;Canada;37;Male;Smart TV;8 Months
+2320;Basic;14;10/11/2022;11/07/2023;United States;50;Male;Smart TV;8 Months
+2321;Basic;12;11/11/2022;09/07/2023;United States;38;Male;Smart TV;8 Months
+2322;Basic;15;12/11/2022;11/07/2023;Canada;37;Female;Smart TV;8 Months
+2323;Standard;12;07/11/2022;11/07/2023;United Kingdom;34;Male;Laptop;8 Months
+2324;Premium;13;04/11/2022;11/07/2023;Australia;30;Male;Smart TV;8 Months
+2325;Basic;13;03/11/2022;11/07/2023;Germany;35;Male;Laptop;8 Months
+2326;Basic;12;01/11/2022;11/07/2023;France;39;Male;Tablet;8 Months
+2327;Premium;10;29/10/2022;11/07/2023;Brazil;47;Female;Tablet;9 Months
+2328;Standard;13;26/10/2022;11/07/2023;Mexico;40;Female;Laptop;9 Months
+2329;Standard;12;25/10/2022;10/07/2023;Spain;33;Male;Smart TV;9 Months
+2330;Basic;12;22/10/2022;13/07/2023;Italy;32;Female;Smartphone;9 Months
+2331;Premium;13;16/10/2022;10/07/2023;Spain;32;Male;Smart TV;9 Months
+2332;Standard;10;15/10/2022;10/07/2023;Spain;30;Female;Smart TV;9 Months
+2333;Basic;12;19/09/2022;11/07/2023;United States;49;Male;Tablet;10 Months
+2334;Standard;13;16/09/2022;12/07/2023;Canada;39;Female;Smartphone;10 Months
+2335;Premium;15;08/09/2022;10/07/2023;United States;45;Male;Laptop;10 Months
+2336;Basic;14;21/08/2022;12/07/2023;United States;43;Male;Smartphone;11 Months
+2337;Premium;10;20/08/2022;10/07/2023;Canada;41;Male;Smartphone;11 Months
+2338;Standard;10;10/08/2022;11/07/2023;United Kingdom;38;Female;Tablet;11 Months
+2339;Basic;13;31/07/2022;11/07/2023;Australia;34;Female;Smartphone;12 Months
+2340;Standard;15;30/07/2022;14/07/2023;Germany;38;Male;Laptop;12 Months
+2341;Premium;11;31/07/2022;10/07/2023;France;48;Male;Tablet;11 Months
+2342;Basic;11;30/07/2022;12/07/2023;Brazil;38;Female;Smart TV;12 Months
+2343;Standard;10;30/07/2022;11/07/2023;Mexico;34;Female;Laptop;12 Months
+2344;Premium;10;27/07/2022;13/07/2023;Spain;44;Female;Tablet;12 Months
+2345;Basic;11;21/07/2022;10/07/2023;Italy;39;Male;Smartphone;12 Months
+2346;Premium;10;20/07/2022;12/07/2023;Spain;43;Female;Smartphone;12 Months
+2347;Basic;13;16/07/2022;10/07/2023;Spain;49;Female;Smart TV;12 Months
+2348;Standard;10;16/07/2022;12/07/2023;United States;48;Female;Smart TV;12 Months
+2349;Standard;11;14/07/2022;11/07/2023;Canada;47;Female;Tablet;12 Months
+2350;Basic;12;14/07/2022;13/07/2023;United States;27;Female;Laptop;12 Months
+2351;Premium;14;15/07/2022;10/07/2023;United States;40;Female;Smartphone;12 Months
+2352;Basic;11;16/07/2022;12/07/2023;Canada;43;Female;Smart TV;12 Months
+2353;Standard;15;18/07/2022;10/07/2023;United Kingdom;30;Female;Laptop;12 Months
+2354;Premium;13;19/07/2022;13/07/2023;Australia;43;Female;Smart TV;12 Months
+2355;Basic;13;22/07/2022;10/07/2023;Germany;49;Male;Laptop;12 Months
+2356;Premium;13;25/07/2022;12/07/2023;France;47;Male;Smartphone;12 Months
+2357;Basic;13;26/07/2022;11/07/2023;Brazil;33;Male;Smartphone;12 Months
+2358;Standard;15;04/08/2022;14/07/2023;Mexico;48;Female;Smartphone;11 Months
+2359;Standard;13;12/08/2022;11/07/2023;Spain;31;Male;Laptop;11 Months
+2360;Basic;13;14/08/2022;11/07/2023;Italy;30;Male;Tablet;11 Months
+2361;Premium;14;16/08/2022;13/07/2023;Spain;34;Female;Smartphone;11 Months
+2362;Basic;12;17/08/2022;14/07/2023;Spain;37;Male;Smartphone;11 Months
+2363;Standard;11;22/08/2022;11/07/2023;United States;44;Female;Smart TV;11 Months
+2364;Premium;13;26/08/2022;11/07/2023;Canada;28;Female;Smart TV;11 Months
+2365;Basic;11;06/09/2022;13/07/2023;United States;47;Male;Smartphone;10 Months
+2366;Premium;11;09/09/2022;13/07/2023;United States;43;Male;Smart TV;10 Months
+2367;Basic;12;17/09/2022;10/07/2023;Canada;51;Male;Tablet;10 Months
+2368;Standard;14;19/09/2022;11/07/2023;United Kingdom;50;Male;Laptop;10 Months
+2369;Standard;11;24/09/2022;13/07/2023;Australia;40;Female;Smartphone;10 Months
+2370;Basic;11;29/09/2022;12/07/2023;Germany;31;Female;Laptop;10 Months
+2371;Premium;15;03/10/2022;10/07/2023;France;29;Female;Smartphone;9 Months
+2372;Basic;15;07/10/2022;10/07/2023;Brazil;38;Female;Tablet;9 Months
+2373;Standard;14;14/10/2022;13/07/2023;Mexico;47;Male;Tablet;9 Months
+2374;Premium;15;16/10/2022;12/07/2023;Spain;30;Male;Tablet;9 Months
+2375;Basic;13;18/10/2022;10/07/2023;Italy;42;Male;Laptop;9 Months
+2376;Premium;12;19/10/2022;12/07/2023;Spain;49;Male;Smart TV;9 Months
+2377;Basic;14;20/10/2022;12/07/2023;Spain;50;Female;Tablet;9 Months
+2378;Standard;11;22/10/2022;11/07/2023;United States;51;Male;Smart TV;9 Months
+2379;Standard;11;25/10/2022;09/07/2023;Canada;47;Male;Smartphone;9 Months
+2380;Basic;13;27/10/2022;12/07/2023;United States;36;Female;Smartphone;9 Months
+2381;Premium;12;30/10/2022;11/07/2023;United States;30;Female;Laptop;8 Months
+2382;Basic;12;01/11/2022;11/07/2023;Canada;34;Female;Tablet;8 Months
+2383;Standard;10;05/11/2022;10/07/2023;United Kingdom;35;Female;Tablet;8 Months
+2384;Premium;14;07/11/2022;12/07/2023;Australia;30;Male;Smart TV;8 Months
+2385;Basic;14;08/11/2022;11/07/2023;Germany;30;Male;Tablet;8 Months
+2386;Premium;11;10/11/2022;12/07/2023;France;41;Female;Smartphone;8 Months
+2387;Basic;15;11/11/2022;10/07/2023;Brazil;39;Female;Smartphone;8 Months
+2388;Standard;14;12/11/2022;12/07/2023;Mexico;30;Male;Tablet;8 Months
+2389;Standard;12;11/11/2022;12/07/2023;Spain;36;Female;Smart TV;8 Months
+2390;Basic;11;11/11/2022;12/07/2023;Italy;33;Female;Smartphone;8 Months
+2391;Premium;11;12/11/2022;10/07/2023;Spain;35;Female;Tablet;8 Months
+2392;Basic;14;11/11/2022;12/07/2023;Spain;46;Male;Tablet;8 Months
+2393;Standard;12;07/11/2022;11/07/2023;United States;51;Female;Tablet;8 Months
+2394;Premium;13;05/11/2022;12/07/2023;Canada;42;Female;Smartphone;8 Months
+2395;Basic;13;02/11/2022;11/07/2023;United States;30;Female;Smart TV;8 Months
+2396;Basic;10;31/10/2022;13/07/2023;United States;45;Male;Smartphone;9 Months
+2397;Basic;15;29/10/2022;11/07/2023;Canada;27;Male;Smartphone;9 Months
+2398;Standard;10;25/10/2022;11/07/2023;United Kingdom;41;Male;Smart TV;9 Months
+2399;Premium;14;23/10/2022;10/07/2023;Australia;35;Male;Tablet;9 Months
+2400;Basic;10;17/10/2022;13/07/2023;Germany;30;Male;Laptop;9 Months
+2401;Basic;11;16/10/2022;11/07/2023;France;35;Female;Laptop;9 Months
+2402;Premium;12;05/10/2022;11/07/2023;Brazil;47;Female;Smartphone;9 Months
+2403;Standard;15;17/09/2022;11/07/2023;Mexico;41;Male;Laptop;10 Months
+2404;Standard;12;17/09/2022;12/07/2023;Spain;48;Female;Tablet;10 Months
+2405;Basic;12;06/09/2022;11/07/2023;Italy;32;Female;Smart TV;10 Months
+2406;Premium;13;30/08/2022;15/07/2023;Spain;35;Female;Smart TV;11 Months
+2407;Standard;11;29/08/2022;11/07/2023;Spain;31;Female;Smartphone;11 Months
+2408;Basic;12;25/08/2022;13/07/2023;United States;45;Female;Smartphone;11 Months
+2409;Standard;14;03/08/2022;11/07/2023;Canada;38;Female;Laptop;11 Months
+2410;Premium;12;02/08/2022;14/07/2023;United States;34;Male;Smartphone;12 Months
+2411;Basic;15;02/08/2022;11/07/2023;United States;37;Female;Smartphone;11 Months
+2412;Premium;12;01/08/2022;13/07/2023;Canada;27;Female;Smart TV;12 Months
+2413;Standard;13;31/07/2022;11/07/2023;United Kingdom;44;Female;Tablet;12 Months
+2414;Basic;10;22/07/2022;13/07/2023;Australia;46;Male;Smart TV;12 Months
+2415;Standard;14;22/07/2022;11/07/2023;Germany;37;Male;Smart TV;12 Months
+2416;Premium;14;19/07/2022;13/07/2023;France;44;Male;Tablet;12 Months
+2417;Basic;15;17/07/2022;11/07/2023;Brazil;29;Male;Smart TV;12 Months
+2418;Standard;13;16/07/2022;13/07/2023;Mexico;28;Female;Laptop;12 Months
+2419;Premium;14;16/07/2022;11/07/2023;Spain;50;Male;Smart TV;12 Months
+2420;Basic;13;16/07/2022;13/07/2023;Italy;39;Male;Laptop;12 Months
+2421;Premium;10;16/07/2022;11/07/2023;Spain;34;Female;Smart TV;12 Months
+2422;Basic;14;17/07/2022;12/07/2023;Spain;40;Male;Smart TV;12 Months
+2423;Standard;12;19/07/2022;11/07/2023;United States;30;Male;Laptop;12 Months
+2424;Standard;14;20/07/2022;14/07/2023;Canada;41;Female;Laptop;12 Months
+2425;Basic;12;21/07/2022;10/07/2023;United States;39;Male;Tablet;12 Months
+2426;Premium;15;23/07/2022;12/07/2023;United States;51;Male;Smartphone;12 Months
+2427;Basic;15;03/08/2022;14/07/2023;Canada;28;Female;Smartphone;12 Months
+2428;Standard;12;06/08/2022;15/07/2023;United Kingdom;30;Female;Tablet;11 Months
+2429;Premium;11;10/08/2022;12/07/2023;Australia;30;Female;Smartphone;11 Months
+2430;Basic;10;13/08/2022;11/07/2023;Germany;44;Female;Tablet;11 Months
+2431;Premium;12;15/08/2022;14/07/2023;France;29;Female;Smart TV;11 Months
+2432;Basic;11;19/08/2022;14/07/2023;Brazil;28;Female;Tablet;11 Months
+2433;Standard;10;22/08/2022;11/07/2023;Mexico;48;Male;Tablet;11 Months
+2434;Standard;11;28/08/2022;11/07/2023;Spain;42;Female;Smart TV;11 Months
+2435;Basic;14;06/09/2022;13/07/2023;Italy;39;Male;Smartphone;10 Months
+2436;Premium;14;16/09/2022;13/07/2023;Spain;44;Female;Smart TV;10 Months
+2437;Basic;11;18/09/2022;11/07/2023;Spain;49;Male;Smart TV;10 Months
+2438;Standard;12;23/09/2022;11/07/2023;United States;49;Female;Smart TV;10 Months
+2439;Premium;10;28/09/2022;13/07/2023;Canada;36;Female;Laptop;10 Months
+2440;Basic;14;29/09/2022;12/07/2023;United States;50;Female;Laptop;10 Months
+2441;Premium;10;07/10/2022;10/07/2023;United States;49;Female;Smartphone;9 Months
+2442;Basic;11;08/10/2022;12/07/2023;Canada;36;Male;Smartphone;9 Months
+2443;Standard;13;10/10/2022;13/07/2023;United Kingdom;28;Female;Laptop;9 Months
+2444;Standard;15;14/10/2022;12/07/2023;Australia;45;Female;Smartphone;9 Months
+2445;Basic;14;16/10/2022;10/07/2023;Germany;31;Female;Smartphone;9 Months
+2446;Premium;11;18/10/2022;12/07/2023;France;46;Male;Tablet;9 Months
+2447;Basic;14;21/10/2022;12/07/2023;Brazil;27;Male;Tablet;9 Months
+2448;Standard;13;24/10/2022;12/07/2023;Mexico;43;Male;Tablet;9 Months
+2449;Premium;10;27/10/2022;09/07/2023;Spain;51;Female;Smart TV;9 Months
+2450;Basic;13;29/10/2022;13/07/2023;Italy;47;Female;Smartphone;9 Months
+2451;Premium;15;31/10/2022;12/07/2023;Spain;48;Female;Tablet;8 Months
+2452;Basic;14;04/11/2022;13/07/2023;Spain;31;Female;Tablet;8 Months
+2453;Standard;15;06/11/2022;11/07/2023;United States;48;Female;Smartphone;8 Months
+2454;Standard;10;08/11/2022;13/07/2023;Canada;36;Male;Smartphone;8 Months
+2455;Basic;10;09/11/2022;11/07/2023;United States;38;Female;Tablet;8 Months
+2456;Premium;13;11/11/2022;13/07/2023;United States;39;Male;Smartphone;8 Months
+2457;Basic;11;12/11/2022;10/07/2023;Canada;48;Male;Tablet;8 Months
+2458;Standard;12;12/11/2022;12/07/2023;United Kingdom;30;Female;Smart TV;8 Months
+2459;Premium;12;12/11/2022;12/07/2023;Australia;30;Male;Smart TV;8 Months
+2460;Basic;15;12/11/2022;13/07/2023;Germany;35;Female;Smart TV;8 Months
+2461;Premium;13;13/11/2022;12/07/2023;France;41;Male;Laptop;8 Months
+2462;Basic;11;13/11/2022;13/07/2023;Brazil;40;Female;Smart TV;8 Months
+2463;Standard;10;12/11/2022;11/07/2023;Mexico;50;Male;Smart TV;8 Months
+2464;Standard;12;05/11/2022;12/07/2023;Spain;42;Female;Smartphone;8 Months
+2465;Basic;15;03/11/2022;11/07/2023;Italy;30;Male;Tablet;8 Months
+2466;Premium;12;30/10/2022;14/07/2023;Spain;34;Male;Laptop;9 Months
+2467;Basic;15;26/10/2022;11/07/2023;Spain;40;Female;Smartphone;9 Months
+2468;Standard;14;24/10/2022;12/07/2023;United States;47;Female;Smartphone;9 Months
+2469;Premium;12;24/10/2022;11/07/2023;Canada;36;Male;Laptop;9 Months
+2470;Basic;13;20/10/2022;13/07/2023;United States;50;Female;Tablet;9 Months
+2471;Basic;10;17/10/2022;11/07/2023;United States;46;Male;Smartphone;9 Months
+2472;Basic;14;29/09/2022;14/07/2023;Canada;27;Female;Tablet;10 Months
+2473;Standard;12;28/09/2022;11/07/2023;United Kingdom;39;Female;Laptop;10 Months
+2474;Premium;10;06/09/2022;12/07/2023;Australia;49;Male;Smart TV;10 Months
+2475;Basic;12;05/09/2022;11/07/2023;Germany;37;Female;Tablet;10 Months
+2476;Basic;13;31/08/2022;15/07/2023;France;28;Male;Tablet;11 Months
+2477;Premium;12;30/08/2022;12/07/2023;Brazil;40;Male;Laptop;11 Months
+2478;Standard;10;16/08/2022;13/07/2023;Mexico;47;Male;Tablet;11 Months
+2479;Standard;11;16/08/2022;11/07/2023;Spain;51;Female;Laptop;11 Months
+2480;Basic;13;07/08/2022;14/07/2023;Italy;47;Male;Laptop;11 Months
+2481;Premium;10;05/08/2022;12/07/2023;Spain;33;Female;Laptop;11 Months
+2482;Standard;13;06/08/2022;14/07/2023;Spain;37;Female;Laptop;11 Months
+2483;Basic;15;28/07/2022;11/07/2023;United States;42;Male;Laptop;12 Months
+2484;Standard;11;29/07/2022;13/07/2023;Canada;50;Female;Smart TV;12 Months
+2485;Premium;14;25/07/2022;12/07/2023;United States;47;Female;Tablet;12 Months
+2486;Basic;10;25/07/2022;14/07/2023;United States;40;Female;Smartphone;12 Months
+2487;Premium;11;25/07/2022;12/07/2023;Canada;35;Male;Smart TV;12 Months
+2488;Standard;11;18/07/2022;13/07/2023;United Kingdom;29;Female;Smartphone;12 Months
+2489;Basic;11;17/07/2022;12/07/2023;Australia;48;Female;Smartphone;12 Months
+2490;Standard;10;17/07/2022;15/07/2023;Germany;35;Male;Smart TV;12 Months
+2491;Premium;13;18/07/2022;11/07/2023;France;41;Female;Smartphone;12 Months
+2492;Basic;14;19/07/2022;12/07/2023;Brazil;29;Female;Laptop;12 Months
+2493;Standard;11;20/07/2022;11/07/2023;Mexico;33;Male;Smart TV;12 Months
+2494;Premium;12;21/07/2022;15/07/2023;Spain;36;Male;Smart TV;12 Months
+2495;Basic;15;23/07/2022;12/07/2023;Italy;43;Female;Laptop;12 Months
+2496;Premium;14;25/07/2022;12/07/2023;Spain;28;Female;Smart TV;12 Months
+2497;Basic;15;04/08/2022;14/07/2023;Spain;33;Female;Smart TV;11 Months
+2498;Standard;12;09/08/2022;15/07/2023;United States;38;Male;Laptop;11 Months
+2499;Standard;13;12/08/2022;12/07/2023;Canada;48;Female;Tablet;11 Months
+2500;Basic;15;13/08/2022;12/07/2023;United States;35;Female;Smart TV;11 Months
