@@ -18,10 +18,10 @@
 3. DATA STORYTELLING – COMO APRESENTAR OS DADOS DO PROJETO
 * Tarefa: Desenvolver visualizações e criar narrativas para os dados.
 * Status: Pendente
-* Data de Entrega: 28 de outubro de 2024 (próximo desafio)
+* Data de Entrega: 30 de outubro de 2024 (próximo desafio)
 4. APRESENTAÇÃO DOS RESULTADOS
 * Tarefa: Compilar resultados e preparar apresentação final.
-* Status: Pendente
+* Status: Feito
 * Data de Entrega: 25 de novembro de 2024 (entrega do projeto)
 
 ### Definição da Organização Escolhida
